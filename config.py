@@ -11,14 +11,14 @@ if os.path.exists(_env_path):
                 os.environ.setdefault(_k.strip(), _v.strip())
 
 # === EXPERIMENT CONFIG ===
-NUM_QUERIES = 200                    # Number of questions from NQ
+NUM_QUERIES = 200                    # Number of questions from SQuAD
 TOP_K = 3                            # Number of retrieved chunks
 CHUNK_SIZE = 500                     # Characters per chunk
 CHUNK_OVERLAP = 50                   # Character overlap between chunks
 SELFCHECK_SAMPLES = 5                # Stochastic samples for SelfCheckGPT
 TEMPERATURE_DETERMINISTIC = 0.0      # For main answer
 TEMPERATURE_STOCHASTIC = 0.7         # For SelfCheckGPT samples
-CHECKPOINT_INTERVAL = 10             # Save checkpoint every N questions
+CHECKPOINT_INTERVAL = 1              # Save checkpoint every N questions (after each full question)
 
 # === MODEL CONFIG ===
 MODEL_NAME = "claude-haiku-4-5-20251001"
@@ -28,12 +28,14 @@ NLI_MODEL = "cross-encoder/nli-deberta-v3-small"
 # === PATHS ===
 CHROMA_DB_PATH = "./data/chroma_db"
 RESULTS_PATH = "./results"
-FILTERED_NQ_FILE = "./data/filtered_nq.json"
+FILTERED_SQUAD_FILE = "./data/filtered_squad.json"
+FILTERED_NQ_FILE = FILTERED_SQUAD_FILE  # backward-compat alias
 RAW_RESULTS_FILE = "./results/raw_results.json"
 CHECKPOINT_FILE = "./results/checkpoint.json"
 SUMMARY_FILE = "./results/summary.csv"
 
-# === EVIDENCE CONDITIONS ===
+# === FACTORIAL DESIGN ===
+PROMPT_TYPES = ["constrained", "unconstrained"]
 CONDITIONS = ["full", "partial", "none"]
 
 # === API CONFIG ===

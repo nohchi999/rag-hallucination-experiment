@@ -43,6 +43,7 @@ def selfcheck_sample(
     question: str,
     context_chunks: list[str],
     n: int = config.SELFCHECK_SAMPLES,
+    prompt_type: str = "constrained",
 ) -> list[str]:
     """
     Generate n stochastic answer samples using temperature=0.7.
@@ -54,6 +55,7 @@ def selfcheck_sample(
             question=question,
             context_chunks=context_chunks,
             temperature=config.TEMPERATURE_STOCHASTIC,
+            prompt_type=prompt_type,
         )
         samples.append(answer)
     return samples

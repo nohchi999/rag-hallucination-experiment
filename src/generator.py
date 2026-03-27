@@ -1,7 +1,7 @@
 """
 src/generator.py
 
-Generates answers with verbalized confidence using Claude Haiku 3.5.
+Generates answers with verbalized confidence using Claude Haiku 4.5.
 Includes rate limiting and exponential backoff.
 """
 
@@ -22,6 +22,17 @@ logger = logging.getLogger(__name__)
 
 _client = None
 
+_ABSTENTION_MARKERS = [
+    "cannot answer",
+    "i don't have enough",
+    "not enough information",
+    "no relevant information",
+    "the context does not",
+    "based on the provided context, i cannot",
+    "i'm unable to answer",
+    "unable to answer",
+]
+
 
 def get_client() -> anthropic.Anthropic:
     global _client
@@ -33,15 +44,22 @@ def get_client() -> anthropic.Anthropic:
     return _client
 
 
-def _load_prompt() -> str:
-    prompt_path = os.path.join(config.PROMPTS_DIR, "verbalized_confidence.txt")
+def is_abstention(answer: str) -> bool:
+    """Detect whether the model abstained from answering."""
+    answer_lower = answer.strip().lower()
+    return any(marker in answer_lower for marker in _ABSTENTION_MARKERS)
+
+
+def _load_prompt(prompt_type: str) -> str:
+    filename = f"generation_{prompt_type}.txt"
+    prompt_path = os.path.join(config.PROMPTS_DIR, filename)
     with open(prompt_path, "r", encoding="utf-8") as f:
         return f.read()
 
 
-def _build_user_message(question: str, context_chunks: list[str]) -> str:
+def _build_user_message(question: str, context_chunks: list[str], prompt_type: str) -> str:
     context = "\n\n".join(context_chunks)
-    prompt_template = _load_prompt()
+    prompt_template = _load_prompt(prompt_type)
     return prompt_template.format(context=context, question=question)
 
 
@@ -70,14 +88,15 @@ def generate_with_confidence(
     question: str,
     context_chunks: list[str],
     temperature: float = config.TEMPERATURE_DETERMINISTIC,
+    prompt_type: str = "constrained",
     max_retries: int = 5,
 ) -> tuple[str, int, dict]:
     """
-    Call Claude Haiku 3.5 and return (answer, confidence, full_api_response_dict).
+    Call Claude Haiku 4.5 and return (answer, confidence, full_api_response_dict).
     Includes rate limiting and exponential backoff.
     """
     client = get_client()
-    user_message = _build_user_message(question, context_chunks)
+    user_message = _build_user_message(question, context_chunks, prompt_type)
 
     backoff = 1
     for attempt in range(max_retries):
