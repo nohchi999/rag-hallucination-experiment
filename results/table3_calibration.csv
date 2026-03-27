@@ -1,0 +1,7 @@
+Prompt,Condition,Mean Conf. (%),Accuracy (%),ECE,Overconf. Gap
+constrained,full,93.42,91.0,0.0542,0.0242
+constrained,partial,69.67,90.5,0.2532,-0.2083
+constrained,none,69.25,99.5,0.18,-0.3025
+unconstrained,full,91.89,88.0,0.0749,0.0389
+unconstrained,partial,17.86,21.0,0.1656,-0.0314
+unconstrained,none,6.15,16.5,0.0825,-0.1035

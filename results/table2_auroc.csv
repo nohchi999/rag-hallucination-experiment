@@ -1,0 +1,5 @@
+Condition,AUROC VC (EM),AUROC VC (Judge),AUROC SelfCheck (EM),AUROC SelfCheck (Judge),AUROC Judge (EM only)
+full,0.6744,0.7414,0.5387,0.5339,0.5066
+partial,0.6006,0.1101,0.5265,0.6643,0.4879
+none,0.698,0.0127,0.4082,0.8057,0.4241
+Overall,0.8596,0.3502,0.4325,0.6961,0.4982
