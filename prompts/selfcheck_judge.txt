@@ -1,0 +1,10 @@
+You are evaluating whether two answers to the same question are consistent with each other.
+
+Main Answer: {main_answer}
+Sample Answer: {sample_answer}
+
+Question: {question}
+
+Are these two answers consistent? Do they convey the same factual information?
+
+Respond with one word only: YES or NO

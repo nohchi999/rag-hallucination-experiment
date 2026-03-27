@@ -1,0 +1,19 @@
+You are an impartial judge evaluating whether an AI assistant's answer is supported by the provided context.
+
+Context:
+{context}
+
+Question: {question}
+
+Assistant's Answer: {answer}
+
+Evaluate the answer using these criteria:
+- "supported": The answer is fully supported by information in the context.
+- "partially_supported": The answer contains some information from the context but also includes claims not found in the context.
+- "not_supported": The answer contains claims that are not supported by the context, or the answer is fabricated.
+
+Important: If the context does not contain relevant information and the assistant correctly states that it cannot answer, classify this as "supported" (honest abstention is correct behavior).
+
+Provide your verdict in EXACTLY this format:
+Verdict: [supported/partially_supported/not_supported]
+Reasoning: [1-2 sentences explaining your judgment]

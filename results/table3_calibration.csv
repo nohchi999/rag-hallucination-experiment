@@ -1,0 +1,4 @@
+Condition,Mean Confidence (%),Accuracy (%),ECE,Overconfidence Gap
+full,93.39,96.5,0.0346,-0.0311
+partial,68.78,97.0,0.2223,-0.2822
+none,70.72,99.5,0.1753,-0.2878

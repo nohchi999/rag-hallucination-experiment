@@ -1,0 +1,5 @@
+Condition,AUROC Verbalized Conf.,AUROC SelfCheckGPT
+full,0.7132,0.6473
+partial,0.7784,0.6082
+none,0.5678,0.5427
+Overall,0.6655,0.615

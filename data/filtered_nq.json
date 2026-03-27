@@ -1,0 +1,2002 @@
+[
+  {
+    "question_id": 0,
+    "question": "To whom did the Virgin Mary allegedly appear in 1858 in Lourdes France?",
+    "ground_truth": "Saint Bernadette Soubirous",
+    "all_answers": [
+      "Saint Bernadette Soubirous"
+    ],
+    "document": "Architecturally, the school has a Catholic character. Atop the Main Building's gold dome is a golden statue of the Virgin Mary. Immediately in front of the Main Building and facing it, is a copper statue of Christ with arms upraised with the legend \"Venite Ad Me Omnes\". Next to the Main Building is the Basilica of the Sacred Heart. Immediately behind the basilica is the Grotto, a Marian place of prayer and reflection. It is a replica of the grotto at Lourdes, France where the Virgin Mary reputedly appeared to Saint Bernadette Soubirous in 1858. At the end of the main drive (and in a direct line that connects through 3 statues and the Gold Dome), is a simple, modern stone statue of Mary.",
+    "article_title": "University_of_Notre_Dame"
+  },
+  {
+    "question_id": 1,
+    "question": "When did Beyonce start becoming popular?",
+    "ground_truth": "in the late 1990s",
+    "all_answers": [
+      "in the late 1990s"
+    ],
+    "document": "Beyoncé Giselle Knowles-Carter (/biːˈjɒnseɪ/ bee-YON-say) (born September 4, 1981) is an American singer, songwriter, record producer and actress. Born and raised in Houston, Texas, she performed in various singing and dancing competitions as a child, and rose to fame in the late 1990s as lead singer of R&B girl-group Destiny's Child. Managed by her father, Mathew Knowles, the group became one of the world's best-selling girl groups of all time. Their hiatus saw the release of Beyoncé's debut album, Dangerously in Love (2003), which established her as a solo artist worldwide, earned five Grammy Awards and featured the Billboard Hot 100 number-one singles \"Crazy in Love\" and \"Baby Boy\".",
+    "article_title": "Beyoncé"
+  },
+  {
+    "question_id": 2,
+    "question": "Where does the state's name come from?",
+    "ground_truth": "Spanish word montaña (mountain)",
+    "all_answers": [
+      "Spanish word montaña (mountain)"
+    ],
+    "document": "Montana i/mɒnˈtænə/ is a state in the Western region of the United States. The state's name is derived from the Spanish word montaña (mountain). Montana has several nicknames, although none official, including \"Big Sky Country\" and \"The Treasure State\", and slogans that include \"Land of the Shining Mountains\" and more recently \"The Last Best Place\". Montana is ranked 4th in size, but 44th in population and 48th in population density of the 50 United States. The western third of Montana contains numerous mountain ranges. Smaller island ranges are found throughout the state. In total, 77 named ranges are part of the Rocky Mountains.",
+    "article_title": "Montana"
+  },
+  {
+    "question_id": 3,
+    "question": "In the judgement, it is stated that the aim of the Genocide Convention, at its most simplest, is preventing the destruction of which victims?",
+    "ground_truth": "entire human groups",
+    "all_answers": [
+      "entire human groups"
+    ],
+    "document": "The phrase \"in whole or in part\" has been subject to much discussion by scholars of international humanitarian law. The International Criminal Tribunal for the Former Yugoslavia found in Prosecutor v. Radislav Krstic – Trial Chamber I – Judgment – IT-98-33 (2001) ICTY8 (2 August 2001) that Genocide had been committed. In Prosecutor v. Radislav Krstic – Appeals Chamber – Judgment – IT-98-33 (2004) ICTY 7 (19 April 2004) paragraphs 8, 9, 10, and 11 addressed the issue of in part and found that \"the part must be a substantial part of that group. The aim of the Genocide Convention is to prevent the intentional destruction of entire human groups, and the part targeted must be significant enough to have an impact on the group as a whole.\" The Appeals Chamber goes into details of other cases and the opinions of respected commentators on the Genocide Convention to explain how they came to this conclusion.",
+    "article_title": "Genocide"
+  },
+  {
+    "question_id": 4,
+    "question": "What is a modern common occurence with antibiotics?",
+    "ground_truth": "resistance of bacteria",
+    "all_answers": [
+      "resistance of bacteria"
+    ],
+    "document": "The emergence of resistance of bacteria to antibiotics is a common phenomenon. Emergence of resistance often reflects evolutionary processes that take place during antibiotic therapy. The antibiotic treatment may select for bacterial strains with physiologically or genetically enhanced capacity to survive high doses of antibiotics. Under certain conditions, it may result in preferential growth of resistant bacteria, while growth of susceptible bacteria is inhibited by the drug. For example, antibacterial selection for strains having previously acquired antibacterial-resistance genes was demonstrated in 1943 by the Luria–Delbrück experiment. Antibiotics such as penicillin and erythromycin, which used to have a high efficacy against many bacterial species and strains, have become less effective, due to the increased resistance of many bacterial strains.",
+    "article_title": "Antibiotics"
+  },
+  {
+    "question_id": 5,
+    "question": "What was Frédéric's nationalities?",
+    "ground_truth": "Polish and French",
+    "all_answers": [
+      "Polish and French"
+    ],
+    "document": "Frédéric François Chopin (/ˈʃoʊpæn/; French pronunciation: ​[fʁe.de.ʁik fʁɑ̃.swa ʃɔ.pɛ̃]; 22 February or 1 March 1810 – 17 October 1849), born Fryderyk Franciszek Chopin,[n 1] was a Polish and French (by citizenship and birth of father) composer and a virtuoso pianist of the Romantic era, who wrote primarily for the solo piano. He gained and has maintained renown worldwide as one of the leading musicians of his era, whose \"poetic genius was based on a professional technique that was without equal in his generation.\" Chopin was born in what was then the Duchy of Warsaw, and grew up in Warsaw, which after 1815 became part of Congress Poland. A child prodigy, he completed his musical education and composed his earlier works in Warsaw before leaving Poland at the age of 20, less than a month before the outbreak of the November 1830 Uprising.",
+    "article_title": "Frédéric_Chopin"
+  },
+  {
+    "question_id": 6,
+    "question": "Who were Wang Jiawei and Nyima Gyaincain?",
+    "ground_truth": "Mainland Chinese scholars",
+    "all_answers": [
+      "Mainland Chinese scholars"
+    ],
+    "document": "The exact nature of relations between Tibet and the Ming dynasty of China (1368–1644) is unclear. Analysis of the relationship is further complicated by modern political conflicts and the application of Westphalian sovereignty to a time when the concept did not exist. Some Mainland Chinese scholars, such as Wang Jiawei and Nyima Gyaincain, assert that the Ming dynasty had unquestioned sovereignty over Tibet, pointing to the Ming court's issuing of various titles to Tibetan leaders, Tibetans' full acceptance of these titles, and a renewal process for successors of these titles that involved traveling to the Ming capital. Scholars within China also argue that Tibet has been an integral part of China since the 13th century and that it was thus a part of the Ming Empire. But most scholars outside China, such as Turrell V. Wylie, Melvin C. Goldstein, and Helmut Hoffman, say that the relationship was one of suzerainty, that Ming titles were only nominal, that Tibet remained an independent region outside Ming control, and that it simply paid tribute until the Jiajing Emperor (1521–1566), who ceased relations with Tibet.",
+    "article_title": "Sino-Tibetan_relations_during_the_Ming_dynasty"
+  },
+  {
+    "question_id": 7,
+    "question": "Which company produces the iPod?",
+    "ground_truth": "Apple",
+    "all_answers": [
+      "Apple"
+    ],
+    "document": "The iPod is a line of portable media players and multi-purpose pocket computers designed and marketed by Apple Inc. The first line was released on October 23, 2001, about 8½ months after iTunes (Macintosh version) was released. The most recent iPod redesigns were announced on July 15, 2015. There are three current versions of the iPod: the ultra-compact iPod Shuffle, the compact iPod Nano and the touchscreen iPod Touch.",
+    "article_title": "IPod"
+  },
+  {
+    "question_id": 8,
+    "question": "What category of game is Legend of Zelda: Twilight Princess?",
+    "ground_truth": "action-adventure",
+    "all_answers": [
+      "action-adventure"
+    ],
+    "document": "The Legend of Zelda: Twilight Princess (Japanese: ゼルダの伝説 トワイライトプリンセス, Hepburn: Zeruda no Densetsu: Towairaito Purinsesu?) is an action-adventure game developed and published by Nintendo for the GameCube and Wii home video game consoles. It is the thirteenth installment in the The Legend of Zelda series. Originally planned for release on the GameCube in November 2005, Twilight Princess was delayed by Nintendo to allow its developers to refine the game, add more content, and port it to the Wii. The Wii version was released alongside the console in North America in November 2006, and in Japan, Europe, and Australia the following month. The GameCube version was released worldwide in December 2006.[b]",
+    "article_title": "The_Legend_of_Zelda:_Twilight_Princess"
+  },
+  {
+    "question_id": 9,
+    "question": "Which company made Spectre?",
+    "ground_truth": "Eon Productions",
+    "all_answers": [
+      "Eon Productions"
+    ],
+    "document": "Spectre (2015) is the twenty-fourth James Bond film produced by Eon Productions. It features Daniel Craig in his fourth performance as James Bond, and Christoph Waltz as Ernst Stavro Blofeld, with the film marking the character's re-introduction into the series. It was directed by Sam Mendes as his second James Bond film following Skyfall, and was written by John Logan, Neal Purvis, Robert Wade and Jez Butterworth. It is distributed by Metro-Goldwyn-Mayer and Columbia Pictures. With a budget around $245 million, it is the most expensive Bond film and one of the most expensive films ever made.",
+    "article_title": "Spectre_(2015_film)"
+  },
+  {
+    "question_id": 10,
+    "question": "In what year did the earthquake in Sichuan occur?",
+    "ground_truth": "2008",
+    "all_answers": [
+      "2008"
+    ],
+    "document": "The 2008 Sichuan earthquake or the Great Sichuan earthquake, measured at 8.0 Ms and 7.9 Mw, and occurred at 02:28:01 PM China Standard Time at epicenter (06:28:01 UTC) on May 12 in Sichuan province, killed 69,197 people and left 18,222 missing.",
+    "article_title": "2008_Sichuan_earthquake"
+  },
+  {
+    "question_id": 11,
+    "question": "What city in the United States has the highest population?",
+    "ground_truth": "New York",
+    "all_answers": [
+      "New York"
+    ],
+    "document": "New York—often called New York City or the City of New York to distinguish it from the State of New York, of which it is a part—is the most populous city in the United States and the center of the New York metropolitan area, the premier gateway for legal immigration to the United States and one of the most populous urban agglomerations in the world. A global power city, New York exerts a significant impact upon commerce, finance, media, art, fashion, research, technology, education, and entertainment, its fast pace defining the term New York minute. Home to the headquarters of the United Nations, New York is an important center for international diplomacy and has been described as the cultural and financial capital of the world.",
+    "article_title": "New_York_City"
+  },
+  {
+    "question_id": 12,
+    "question": "When did To Kill a Mockingbird first get circulated?",
+    "ground_truth": "1960",
+    "all_answers": [
+      "1960"
+    ],
+    "document": "To Kill a Mockingbird is a novel by Harper Lee published in 1960. It was immediately successful, winning the Pulitzer Prize, and has become a classic of modern American literature. The plot and characters are loosely based on the author's observations of her family and neighbors, as well as on an event that occurred near her hometown in 1936, when she was 10 years old.",
+    "article_title": "To_Kill_a_Mockingbird"
+  },
+  {
+    "question_id": 13,
+    "question": "Where does solar energy come from?",
+    "ground_truth": "the Sun",
+    "all_answers": [
+      "the Sun"
+    ],
+    "document": "Solar energy is radiant light and heat from the Sun harnessed using a range of ever-evolving technologies such as solar heating, photovoltaics, solar thermal energy, solar architecture and artificial photosynthesis.",
+    "article_title": "Solar_energy"
+  },
+  {
+    "question_id": 14,
+    "question": "What was the territory of Tajikistan during the Neolithic and the Bronze Age?",
+    "ground_truth": "city of Sarazm",
+    "all_answers": [
+      "city of Sarazm"
+    ],
+    "document": "The territory that now constitutes Tajikistan was previously home to several ancient cultures, including the city of Sarazm of the Neolithic and the Bronze Age, and was later home to kingdoms ruled by people of different faiths and cultures, including the Oxus civilization, Andronovo culture, Buddhism, Nestorian Christianity, Zoroastrianism, and Manichaeism. The area has been ruled by numerous empires and dynasties, including the Achaemenid Empire, Sassanian Empire, Hephthalite Empire, Samanid Empire, Mongol Empire, Timurid dynasty, and the Russian Empire. As a result of the breakup of the Soviet Union, Tajikistan became an independent nation in 1991. A civil war was fought almost immediately after independence, lasting from 1992 to 1997. Since the end of the war, newly established political stability and foreign aid have allowed the country's economy to grow.",
+    "article_title": "Tajikistan"
+  },
+  {
+    "question_id": 15,
+    "question": "What is anthropology a study of?",
+    "ground_truth": "humans and their societies",
+    "all_answers": [
+      "humans and their societies"
+    ],
+    "document": "Anthropology is the study of humans and their societies in the past and present. Its main subdivisions are social anthropology and cultural anthropology, which describes the workings of societies around the world, linguistic anthropology, which investigates the influence of language in social life, and biological or physical anthropology, which concerns long-term development of the human organism. Archaeology, which studies past human cultures through investigation of physical evidence, is thought of as a branch of anthropology in the United States, while in Europe, it is viewed as a discipline in its own right, or grouped under other related disciplines such as history.",
+    "article_title": "Anthropology"
+  },
+  {
+    "question_id": 16,
+    "question": "What happened to Joseph I in 1758?",
+    "ground_truth": "wounded in an attempted assassination",
+    "all_answers": [
+      "wounded in an attempted assassination"
+    ],
+    "document": "Following the earthquake, Joseph I gave his Prime Minister even more power, and Sebastião de Melo became a powerful, progressive dictator. As his power grew, his enemies increased in number, and bitter disputes with the high nobility became frequent. In 1758 Joseph I was wounded in an attempted assassination. The Távora family and the Duke of Aveiro were implicated and executed after a quick trial. The Jesuits were expelled from the country and their assets confiscated by the crown. Sebastião de Melo prosecuted every person involved, even women and children. This was the final stroke that broke the power of the aristocracy. Joseph I made his loyal minister Count of Oeiras in 1759.",
+    "article_title": "Portugal"
+  },
+  {
+    "question_id": 17,
+    "question": "What year was Kanye born?",
+    "ground_truth": "1977",
+    "all_answers": [
+      "1977"
+    ],
+    "document": "Kanye Omari West (/ˈkɑːnjeɪ/; born June 8, 1977) is an American hip hop recording artist, record producer, rapper, fashion designer, and entrepreneur. He is among the most acclaimed musicians of the 21st century, attracting both praise and controversy for his work and his outspoken public persona.",
+    "article_title": "Kanye_West"
+  },
+  {
+    "question_id": 18,
+    "question": "What type of religion is Buddhism?",
+    "ground_truth": "nontheistic",
+    "all_answers": [
+      "nontheistic"
+    ],
+    "document": "Buddhism /ˈbudɪzəm/ is a nontheistic religion[note 1] or philosophy (Sanskrit: धर्म dharma; Pali: धम्म dhamma) that encompasses a variety of traditions, beliefs and spiritual practices largely based on teachings attributed to Gautama Buddha, commonly known as the Buddha (\"the awakened one\"). According to Buddhist tradition, the Buddha lived and taught in the eastern part of the Indian subcontinent, present-day Nepal sometime between the 6th and 4th centuries BCE.[note 1] He is recognized by Buddhists as an awakened or enlightened teacher who shared his insights to help sentient beings end their suffering through the elimination of ignorance and craving. Buddhists believe that this is accomplished through the direct understanding and perception of dependent origination and the Four Noble Truths.",
+    "article_title": "Buddhism"
+  },
+  {
+    "question_id": 19,
+    "question": "Who is the creator of American Idol?",
+    "ground_truth": "Simon Fuller",
+    "all_answers": [
+      "Simon Fuller"
+    ],
+    "document": "American Idol is an American singing competition series created by Simon Fuller and produced by 19 Entertainment, and is distributed by FremantleMedia North America. It began airing on Fox on June 11, 2002, as an addition to the Idols format based on the British series Pop Idol and has since become one of the most successful shows in the history of American television. The concept of the series is to find new solo recording artists, with the winner being determined by the viewers in America. Winners chosen by viewers through telephone, Internet, and SMS text voting were Kelly Clarkson, Ruben Studdard, Fantasia Barrino, Carrie Underwood, Taylor Hicks, Jordin Sparks, David Cook, Kris Allen, Lee DeWyze, Scotty McCreery, Phillip Phillips, Candice Glover, Caleb Johnson, and Nick Fradiani.",
+    "article_title": "American_Idol"
+  },
+  {
+    "question_id": 20,
+    "question": "What is the three word Latin name for domesticated dogs?",
+    "ground_truth": "Canis lupus familiaris",
+    "all_answers": [
+      "Canis lupus familiaris"
+    ],
+    "document": "The domestic dog (Canis lupus familiaris or Canis familiaris) is a domesticated canid which has been selectively bred for millennia for various behaviors, sensory capabilities, and physical attributes.",
+    "article_title": "Dog"
+  },
+  {
+    "question_id": 21,
+    "question": "When did the tradition of people carrying the Olympic torch before the Olympic games begin?",
+    "ground_truth": "1936 Summer Olympics.",
+    "all_answers": [
+      "1936 Summer Olympics."
+    ],
+    "document": "The 2008 Summer Olympics torch relay was run from March 24 until August 8, 2008, prior to the 2008 Summer Olympics, with the theme of \"one world, one dream\". Plans for the relay were announced on April 26, 2007, in Beijing, China. The relay, also called by the organizers as the \"Journey of Harmony\", lasted 129 days and carried the torch 137,000 km (85,000 mi) – the longest distance of any Olympic torch relay since the tradition was started ahead of the 1936 Summer Olympics.",
+    "article_title": "2008_Summer_Olympics_torch_relay"
+  },
+  {
+    "question_id": 22,
+    "question": "What is the general consensus of the axioms and inference rules declared in Principia Mathematica?",
+    "ground_truth": "mixed",
+    "all_answers": [
+      "mixed"
+    ],
+    "document": "The ultimate substantive legacy of Principia Mathematica is mixed. It is generally accepted that Kurt Gödel's incompleteness theorem of 1931 definitively demonstrated that for any set of axioms and inference rules proposed to encapsulate mathematics, there would in fact be some truths of mathematics which could not be deduced from them, and hence that Principia Mathematica could never achieve its aims. However, Gödel could not have come to this conclusion without Whitehead and Russell's book. In this way, Principia Mathematica's legacy might be described as its key role in disproving the possibility of achieving its own stated goals. But beyond this somewhat ironic legacy, the book popularized modern mathematical logic and drew important connections between logic, epistemology, and metaphysics.",
+    "article_title": "Alfred_North_Whitehead"
+  },
+  {
+    "question_id": 23,
+    "question": "What did many asset managers decide to do to the detriment of their clients?",
+    "ground_truth": "continue to invest client funds in over-priced (under-yielding) investments",
+    "all_answers": [
+      "continue to invest client funds in over-priced (under-yielding) investments"
+    ],
+    "document": "Moreover, a conflict of interest between professional investment managers and their institutional clients, combined with a global glut in investment capital, led to bad investments by asset managers in over-priced credit assets. Professional investment managers generally are compensated based on the volume of client assets under management. There is, therefore, an incentive for asset managers to expand their assets under management in order to maximize their compensation. As the glut in global investment capital caused the yields on credit assets to decline, asset managers were faced with the choice of either investing in assets where returns did not reflect true credit risk or returning funds to clients. Many asset managers chose to continue to invest client funds in over-priced (under-yielding) investments, to the detriment of their clients, in order to maintain their assets under management. This choice was supported by a \"plausible deniability\" of the risks associated with subprime-based credit assets because the loss experience with early \"vintages\" of subprime loans was so low.",
+    "article_title": "Financial_crisis_of_2007%E2%80%9308"
+  },
+  {
+    "question_id": 24,
+    "question": "How many Miles East of Puerto Rico is St. Barts?",
+    "ground_truth": "160",
+    "all_answers": [
+      "160"
+    ],
+    "document": "Located approximately 250 kilometres (160 mi) east of Puerto Rico and the nearer Virgin Islands, St. Barthélemy lies immediately southeast of the islands of Saint Martin and Anguilla. It is one of the Renaissance Islands. St. Barthélemy is separated from Saint Martin by the Saint-Barthélemy Channel. It lies northeast of Saba and St Eustatius, and north of St Kitts. Some small satellite islets belong to St. Barthélemy including Île Chevreau (Île Bonhomme), Île Frégate, Île Toc Vers, Île Tortue and Gros Îlets (Îlots Syndare). A much bigger islet, Île Fourchue, lies on the north of the island, in the Saint-Barthélemy Channel. Other rocky islets which include Coco, the Roques (or little Turtle rocks), the Goat, and the Sugarloaf.",
+    "article_title": "Saint_Barth%C3%A9lemy"
+  },
+  {
+    "question_id": 25,
+    "question": "In what fields of science is the genome studied?",
+    "ground_truth": "molecular biology and genetics",
+    "all_answers": [
+      "molecular biology and genetics"
+    ],
+    "document": "In modern molecular biology and genetics, the genome is the genetic material of an organism. It consists of DNA (or RNA in RNA viruses). The genome includes both the genes and the non-coding sequences of the DNA/RNA.",
+    "article_title": "Genome"
+  },
+  {
+    "question_id": 26,
+    "question": "What kind of school does not base its admissions on academic merit?",
+    "ground_truth": "comprehensive school",
+    "all_answers": [
+      "comprehensive school"
+    ],
+    "document": "A comprehensive school is a state school that does not select its intake on the basis of academic achievement or aptitude. This is in contrast to the selective school system, where admission is restricted on the basis of selection criteria. The term is commonly used in relation to England and Wales, where comprehensive schools were introduced on an experimental basis in the 1940s and became more widespread from 1965. About 90% of British secondary school pupils now attend comprehensive schools. They correspond broadly to the public high school in the United States and Canada and to the German Gesamtschule.[citation needed]",
+    "article_title": "Comprehensive_school"
+  },
+  {
+    "question_id": 27,
+    "question": "What is the French term for the Republic of the Congo?",
+    "ground_truth": "République du Congo",
+    "all_answers": [
+      "République du Congo"
+    ],
+    "document": "The Republic of the Congo (French: République du Congo), also known as Congo, Congo Republic, West Congo[citation needed], or Congo-Brazzaville, is a country located in Central Africa. It is bordered by five countries: Gabon to the west; Cameroon to the northwest; the Central African Republic to the northeast; the Democratic Republic of the Congo to the east and south; and the Angolan exclave of Cabinda to the southwest.",
+    "article_title": "Republic_of_the_Congo"
+  },
+  {
+    "question_id": 28,
+    "question": "What branch of government does the prime minister lead?",
+    "ground_truth": "executive",
+    "all_answers": [
+      "executive"
+    ],
+    "document": "A prime minister is the most senior minister of cabinet in the executive branch of government, often in a parliamentary or semi-presidential system. In many systems, the prime minister selects and may dismiss other members of the cabinet, and allocates posts to members within the government. In most systems, the prime minister is the presiding member and chairman of the cabinet. In a minority of systems, notably in semi-presidential systems of government, a prime minister is the official who is appointed to manage the civil service and execute the directives of the head of state.",
+    "article_title": "Prime_minister"
+  },
+  {
+    "question_id": 29,
+    "question": "What's a common abbreviation for the term institute of technology?",
+    "ground_truth": "IT",
+    "all_answers": [
+      "IT"
+    ],
+    "document": "Institute of technology (also: university of technology, polytechnic university, technikon, and technical college) is a designation employed for a wide range of learning institutions awarding different types of degrees and operating often at variable levels of the educational system. It may be an institution of higher education and advanced engineering and scientific research or professional vocational education, specializing in science, engineering, and technology or different sorts of technical subjects. It may also refer to a secondary education school focused in vocational training.[citation needed] The term institute of technology is often abbreviated IT and is not to be confused with information technology.",
+    "article_title": "Institute_of_technology"
+  },
+  {
+    "question_id": 30,
+    "question": "Where does the information stored on the Wayback Machine come from?",
+    "ground_truth": "World Wide Web",
+    "all_answers": [
+      "World Wide Web"
+    ],
+    "document": "The Wayback Machine is a digital archive of the World Wide Web and other information on the Internet created by the Internet Archive, a nonprofit organization, based in San Francisco, California, United States. It was set up by Brewster Kahle and Bruce Gilliat, and is maintained with content from Alexa Internet. The service enables users to see archived versions of web pages across time, which the archive calls a \"three dimensional index.\"",
+    "article_title": "Wayback_Machine"
+  },
+  {
+    "question_id": 31,
+    "question": "The Dutch Republic was a republic of Europe during what time?",
+    "ground_truth": "from 1581, when part of the Netherlands separated from Spanish rule, until 1795",
+    "all_answers": [
+      "from 1581, when part of the Netherlands separated from Spanish rule, until 1795"
+    ],
+    "document": "The Dutch Republic, also known as the Republic of the Seven United Netherlands (Republiek der Zeven Verenigde Nederlanden), Republic of the United Netherlands or Republic of the Seven United Provinces (Republiek der Zeven Verenigde Provinciën), was a republic in Europe existing from 1581, when part of the Netherlands separated from Spanish rule, until 1795. It preceded the Batavian Republic, the Kingdom of Holland, the United Kingdom of the Netherlands, and ultimately the modern Kingdom of the Netherlands. Alternative names include the United Provinces (Verenigde Provinciën), Federated Dutch Provinces (Foederatae Belgii Provinciae), and Dutch Federation (Belgica Foederata).",
+    "article_title": "Dutch_Republic"
+  },
+  {
+    "question_id": 32,
+    "question": "What language does the word \"symbiosis\" come from?",
+    "ground_truth": "Greek",
+    "all_answers": [
+      "Greek"
+    ],
+    "document": "Symbiosis (from Greek σύν \"together\" and βίωσις \"living\") is close and often long-term interaction between two different biological species. In 1877 Albert Bernhard Frank used the word symbiosis (which previously had been used to depict people living together in community) to describe the mutualistic relationship in lichens. In 1879, the German mycologist Heinrich Anton de Bary defined it as \"the living together of unlike organisms.\"",
+    "article_title": "Symbiosis"
+  },
+  {
+    "question_id": 33,
+    "question": "What is the French name of the Canadian Armed Forces?",
+    "ground_truth": "Forces armées canadiennes",
+    "all_answers": [
+      "Forces armées canadiennes"
+    ],
+    "document": "The Canadian Armed Forces (CAF; French: Forces armées canadiennes, FAC), or Canadian Forces (CF) (French: les Forces canadiennes, FC), is the unified armed force of Canada, as constituted by the National Defence Act, which states: \"The Canadian Forces are the armed forces of Her Majesty raised by Canada and consist of one Service called the Canadian Armed Forces.\"",
+    "article_title": "Canadian_Armed_Forces"
+  },
+  {
+    "question_id": 34,
+    "question": "In 1059, who was responsible for electing the pope?",
+    "ground_truth": "the principal clergy of Rome and the bishops of the seven suburbicarian sees.",
+    "all_answers": [
+      "the principal clergy of Rome and the bishops of the seven suburbicarian sees."
+    ],
+    "document": "In 1059, the right of electing the pope was reserved to the principal clergy of Rome and the bishops of the seven suburbicarian sees. In the 12th century the practice of appointing ecclesiastics from outside Rome as cardinals began, with each of them assigned a church in Rome as his titular church or linked with one of the suburbicarian dioceses, while still being incardinated in a diocese other than that of Rome.[citation needed]",
+    "article_title": "Cardinal_(Catholicism)"
+  },
+  {
+    "question_id": 35,
+    "question": "What is another term meaning Iranian languages?",
+    "ground_truth": "Iranic languages",
+    "all_answers": [
+      "Iranic languages"
+    ],
+    "document": "The Iranian languages or Iranic languages form a branch of the Indo-Iranian languages, which in turn are a branch of the Indo-European language family. The speakers of Iranian languages are known as Iranian peoples. Historical Iranian languages are grouped in three stages: Old Iranian (until 400 BCE), Middle Iranian (400 BCE – 900 CE), and New Iranian (since 900 CE). Of the Old Iranian languages, the better understood and recorded ones are Old Persian (a language of Achaemenid Iran) and Avestan (the language of the Avesta). Middle Iranian languages included Middle Persian (a language of Sassanid Iran), Parthian, and Bactrian.",
+    "article_title": "Iranian_languages"
+  },
+  {
+    "question_id": 36,
+    "question": "What is used a main source of light for a building during the day?",
+    "ground_truth": "Daylighting",
+    "all_answers": [
+      "Daylighting"
+    ],
+    "document": "Lighting or illumination is the deliberate use of light to achieve a practical or aesthetic effect. Lighting includes the use of both artificial light sources like lamps and light fixtures, as well as natural illumination by capturing daylight. Daylighting (using windows, skylights, or light shelves) is sometimes used as the main source of light during daytime in buildings. This can save energy in place of using artificial lighting, which represents a major component of energy consumption in buildings. Proper lighting can enhance task performance, improve the appearance of an area, or have positive psychological effects on occupants.",
+    "article_title": "Lighting"
+  },
+  {
+    "question_id": 37,
+    "question": "Which political practice did Montesquieu originate?",
+    "ground_truth": "Separation of powers",
+    "all_answers": [
+      "Separation of powers"
+    ],
+    "document": "Separation of powers is a political doctrine originating in the writings of Montesquieu in The Spirit of the Laws where he urged for a constitutional government with three separate branches of government. Each of the three branches would have defined abilities to check the powers of the other branches. This idea was called separation of powers. This philosophy heavily influenced the writing of the United States Constitution, according to which the Legislative, Executive, and Judicial branches of the United States government are kept distinct in order to prevent abuse of power. This United States form of separation of powers is associated with a system of checks and balances.",
+    "article_title": "Separation_of_powers_under_the_United_States_Constitution"
+  },
+  {
+    "question_id": 38,
+    "question": "What is the latin word for architecture?",
+    "ground_truth": "Architectural",
+    "all_answers": [
+      "Architectural"
+    ],
+    "document": "Architecture (Latin architectura, from the Greek ἀρχιτέκτων arkhitekton \"architect\", from ἀρχι- \"chief\" and τέκτων \"builder\") is both the process and the product of planning, designing, and constructing buildings and other physical structures. Architectural works, in the material form of buildings, are often perceived as cultural symbols and as works of art. Historical civilizations are often identified with their surviving architectural achievements.",
+    "article_title": "Architecture"
+  },
+  {
+    "question_id": 39,
+    "question": "Which three statistics does the HDI compile?",
+    "ground_truth": "life expectancy, education, and income per capita",
+    "all_answers": [
+      "life expectancy, education, and income per capita"
+    ],
+    "document": "The Human Development Index (HDI) is a composite statistic of life expectancy, education, and income per capita indicators, which are used to rank countries into four tiers of human development. A country scores higher HDI when the life expectancy at birth is longer, the education period is longer, and the income per capita is higher. The HDI was developed by the Pakistani economist Mahbub ul Haq, often framed in terms of whether people are able to \"be\" and \"do\" desirable things in their life, and was published by the United Nations Development Programme.",
+    "article_title": "Human_Development_Index"
+  },
+  {
+    "question_id": 40,
+    "question": "What is another term for southern Europe",
+    "ground_truth": "Mediterranean Europe",
+    "all_answers": [
+      "Mediterranean Europe"
+    ],
+    "document": "Some definitions of southern Europe, also known as Mediterranean Europe, include the countries of the Iberian peninsula (Spain and Portugal), the Italian peninsula, southern France and Greece. Other definitions sometimes include the Balkan countries of southeast Europe, which are geographically in the southern part of Europe, but which have different historical, political, economic, and cultural backgrounds.",
+    "article_title": "Southern_Europe"
+  },
+  {
+    "question_id": 41,
+    "question": "What is the acronym for British Broadcasting Corporation?",
+    "ground_truth": "BBC",
+    "all_answers": [
+      "BBC"
+    ],
+    "document": "BBC Television is a service of the British Broadcasting Corporation. The corporation, which has operated in the United Kingdom under the terms of a Royal charter since 1927, has produced television programmes from its own since 1932, although the start of its regular service of television broadcasts is dated to 2 November 1936.",
+    "article_title": "BBC_Television"
+  },
+  {
+    "question_id": 42,
+    "question": "What's Arnold Schwarzenegger's birth date?",
+    "ground_truth": "July 30, 1947",
+    "all_answers": [
+      "July 30, 1947"
+    ],
+    "document": "Arnold Alois Schwarzenegger (/ˈʃwɔːrtsənˌɛɡər/; German: [ˈaɐ̯nɔlt ˈalɔʏs ˈʃvaɐ̯tsn̩ˌɛɡɐ]; born July 30, 1947) is an Austrian-American actor, filmmaker, businessman, investor, author, philanthropist, activist, former professional bodybuilder and politician. He served two terms as the 38th Governor of California from 2003 until 2011.",
+    "article_title": "Arnold_Schwarzenegger"
+  },
+  {
+    "question_id": 43,
+    "question": "In kilometers, what is the distance from Plymouth to Exeter?",
+    "ground_truth": "60",
+    "all_answers": [
+      "60"
+    ],
+    "document": "Plymouth (i/ˈplɪməθ/) is a city on the south coast of Devon, England, about 37 miles (60 km) south-west of Exeter and 190 miles (310 km) west-south-west of London, between the mouths of the rivers Plym to the east and Tamar to the west where they join Plymouth Sound to form the boundary with Cornwall.",
+    "article_title": "Plymouth"
+  },
+  {
+    "question_id": 44,
+    "question": "What is heresy mainly at odds with?",
+    "ground_truth": "established beliefs or customs",
+    "all_answers": [
+      "established beliefs or customs"
+    ],
+    "document": "Heresy is any provocative belief or theory that is strongly at variance with established beliefs or customs. A heretic is a proponent of such claims or beliefs. Heresy is distinct from both apostasy, which is the explicit renunciation of one's religion, principles or cause, and blasphemy, which is an impious utterance or action concerning God or sacred things.",
+    "article_title": "Heresy"
+  },
+  {
+    "question_id": 45,
+    "question": "In which year was the Warsaw Pact established?",
+    "ground_truth": "1955",
+    "all_answers": [
+      "1955"
+    ],
+    "document": "The Warsaw Pact (formally, the Treaty of Friendship, Co-operation, and Mutual Assistance, sometimes, informally WarPac, akin in format to NATO) was a collective defense treaty among Soviet Union and seven Soviet satellite states in Central and Eastern Europe in existence during the Cold War. The Warsaw Pact was the military complement to the Council for Mutual Economic Assistance (CoMEcon), the regional economic organization for the communist states of Central and Eastern Europe. The Warsaw Pact was created in reaction to the integration of West Germany into NATO in 1955 per the Paris Pacts of 1954, but it is also considered to have been motivated by Soviet desires to maintain control over military forces in Central and Eastern Europe.",
+    "article_title": "Warsaw_Pact"
+  },
+  {
+    "question_id": 46,
+    "question": "What is materialism?",
+    "ground_truth": "a form of philosophical monism",
+    "all_answers": [
+      "a form of philosophical monism"
+    ],
+    "document": "Materialism is a form of philosophical monism which holds that matter is the fundamental substance in nature, and that all phenomena, including mental phenomena and consciousness, are identical with material interactions.",
+    "article_title": "Materialism"
+  },
+  {
+    "question_id": 47,
+    "question": "Whose technology enabled the Space Race between the Soviet Union and the united States?",
+    "ground_truth": "German rocket technology",
+    "all_answers": [
+      "German rocket technology"
+    ],
+    "document": "The Space Race was a 20th-century competition between two Cold War rivals, the Soviet Union (USSR) and the United States (US), for supremacy in spaceflight capability. It had its origins in the missile-based nuclear arms race between the two nations that occurred following World War II, enabled by captured German rocket technology and personnel. The technological superiority required for such supremacy was seen as necessary for national security, and symbolic of ideological superiority. The Space Race spawned pioneering efforts to launch artificial satellites, unmanned space probes of the Moon, Venus, and Mars, and human spaceflight in low Earth orbit and to the Moon. The competition began on August 2, 1955, when the Soviet Union responded to the US announcement four days earlier of intent to launch artificial satellites for the International Geophysical Year, by declaring they would also launch a satellite \"in the near future\". The Soviet Union beat the US to this, with the October 4, 1957 orbiting of Sputnik 1, and later beat the US to the first human in space, Yuri Gagarin, on April 12, 1961. The Space Race peaked with the July 20, 1969 US landing of the first humans on the Moon with Apollo 11. The USSR tried but failed manned lunar missions, and eventually cancelled them and concentrated on Earth orbital space stations. A period of détente followed with the April 1972 agreement on a co-operative Apollo–Soyuz Test Project, resulting in the July 1975 rendezvous in Earth orbit of a US astronaut crew with a Soviet cosmonaut crew.",
+    "article_title": "Space_Race"
+  },
+  {
+    "question_id": 48,
+    "question": "What is a pub licensed to sell?",
+    "ground_truth": "it is licensed to sell alcohol",
+    "all_answers": [
+      "it is licensed to sell alcohol"
+    ],
+    "document": "A pub /pʌb/, or public house is, despite its name, a private house, but is called a public house because it is licensed to sell alcohol to the general public. It is a drinking establishment in Britain, Ireland, New Zealand, Australia, Canada, Denmark and New England. In many places, especially in villages, a pub can be the focal point of the community. The writings of Samuel Pepys describe the pub as the heart of England.",
+    "article_title": "Pub"
+  },
+  {
+    "question_id": 49,
+    "question": "What is a person who follows Christianity called?",
+    "ground_truth": "Christian",
+    "all_answers": [
+      "Christian"
+    ],
+    "document": "A Christian ( pronunciation (help·info)) is a person who adheres to Christianity, an Abrahamic, monotheistic religion based on the life and teachings of Jesus Christ. \"Christian\" derives from the Koine Greek word Christós (Χριστός), a translation of the Biblical Hebrew term mashiach.",
+    "article_title": "Christian"
+  },
+  {
+    "question_id": 50,
+    "question": "What was the first name of Sony Music Entertainment, Inc?",
+    "ground_truth": "American Record Corporation",
+    "all_answers": [
+      "American Record Corporation"
+    ],
+    "document": "Sony Music Entertainment Inc. (sometimes known as Sony Music or by the initials, SME) is an American music corporation managed and operated by Sony Corporation of America (SCA), a subsidiary of Japanese conglomerate Sony Corporation. In 1929, the enterprise was first founded as American Record Corporation (ARC) and, in 1938, was renamed Columbia Recording Corporation, following ARC's acquisition by CBS. In 1966, the company was reorganized to become CBS Records. In 1987, Sony Corporation of Japan bought the company, and in 1991, renamed it SME. It is the world's second largest recorded music company, after Universal Music Group.",
+    "article_title": "Sony_Music_Entertainment"
+  },
+  {
+    "question_id": 51,
+    "question": "What is the capital of Oklahoma?",
+    "ground_truth": "Oklahoma City",
+    "all_answers": [
+      "Oklahoma City"
+    ],
+    "document": "Oklahoma City is the capital and largest city of the state of Oklahoma. The county seat of Oklahoma County, the city ranks 27th among United States cities in population. The population grew following the 2010 Census, with the population estimated to have increased to 620,602 as of July 2014. As of 2014, the Oklahoma City metropolitan area had a population of 1,322,429, and the Oklahoma City-Shawnee Combined Statistical Area had a population of 1,459,758 (Chamber of Commerce) residents, making it Oklahoma's largest metropolitan area. Oklahoma City's city limits extend into Canadian, Cleveland, and Pottawatomie counties, though much of those areas outside of the core Oklahoma County area are suburban or rural (watershed). The city ranks as the eighth-largest city in the United States by land area (including consolidated city-counties; it is the largest city in the United States by land area whose government is not consolidated with that of a county or borough).",
+    "article_title": "Oklahoma_City"
+  },
+  {
+    "question_id": 52,
+    "question": "What kind of human lives by collecting wild flora and fauna?",
+    "ground_truth": "hunter-gatherer",
+    "all_answers": [
+      "hunter-gatherer"
+    ],
+    "document": "A hunter-gatherer is a human living in a society in which most or all food is obtained by foraging (collecting wild plants and pursuing wild animals), in contrast to agricultural societies, which rely mainly on domesticated species.",
+    "article_title": "Hunter-gatherer"
+  },
+  {
+    "question_id": 53,
+    "question": "What is the current name of the United Nations Fund for Population Activities?",
+    "ground_truth": "United Nations Population Fund",
+    "all_answers": [
+      "United Nations Population Fund"
+    ],
+    "document": "The United Nations Population Fund (UNFPA), formerly the United Nations Fund for Population Activities, is a UN organization. The UNFPA says it \"is the lead UN agency for delivering a world where every pregnancy is wanted, every childbirth is safe and every young person's potential is fulfilled.\"  Their work involves the improvement of reproductive health; including creation of national strategies and protocols, and providing supplies and services. The organization has recently been known for its worldwide campaign against obstetric fistula and female genital mutilation.",
+    "article_title": "United_Nations_Population_Fund"
+  },
+  {
+    "question_id": 54,
+    "question": "Which ocean is along eastern Russia?",
+    "ground_truth": "the Pacific Ocean",
+    "all_answers": [
+      "the Pacific Ocean"
+    ],
+    "document": "The Russian Soviet Federative Socialist Republic (Russian SFSR or RSFSR; Russian: Российская Советская Федеративная Социалистическая Республика, tr. Rossiyskaya Sovetskaya Federativnaya Sotsialisticheskaya Respublika  listen (help·info)) commonly referred to as Soviet Russia or simply as Russia, was a sovereign state in 1917–22, the largest, most populous, and most economically developed republic of the Soviet Union in 1922–91 and a sovereign part of the Soviet Union with its own legislation in 1990–91. The Republic comprised sixteen autonomous republics, five autonomous oblasts, ten autonomous okrugs, six krais, and forty oblasts. Russians formed the largest ethnic group. To the west it bordered Finland, Norway and Poland; and to the south, China, Mongolia and North Korea whilst bordering the Arctic Ocean to the north, the Pacific Ocean to the east and the Black sea and Caspian Sea to the south. Within the USSR, it bordered the Baltic republics (Lithuania, Latvia and Estonia), the Byelorussian SSR and the Ukrainian SSR to the west. To the south it bordered the Georgian, Azerbaijan and Kazakh SSRs.",
+    "article_title": "Russian_Soviet_Federative_Socialist_Republic"
+  },
+  {
+    "question_id": 55,
+    "question": "Which company is directly above Universal Studios?",
+    "ground_truth": "NBCUniversal",
+    "all_answers": [
+      "NBCUniversal"
+    ],
+    "document": "Universal Studios Inc. (also known as Universal Pictures) is an American film studio, owned by Comcast through its wholly owned subsidiary NBCUniversal, and is one of Hollywood's \"Big Six\" film studios. Its production studios are at 100 Universal City Plaza Drive in Universal City, California. Distribution and other corporate offices are in New York City. Universal Studios is a member of the Motion Picture Association of America (MPAA). Universal was founded in 1912 by the German Carl Laemmle (pronounced \"LEM-lee\"), Mark Dintenfass, Charles O. Baumann, Adam Kessel, Pat Powers, William Swanson, David Horsley, Robert H. Cochrane, and Jules Brulatour.",
+    "article_title": "Universal_Studios"
+  },
+  {
+    "question_id": 56,
+    "question": "What were his relatives known for working on?",
+    "ground_truth": "elocution and speech",
+    "all_answers": [
+      "elocution and speech"
+    ],
+    "document": "Bell's father, grandfather, and brother had all been associated with work on elocution and speech, and both his mother and wife were deaf, profoundly influencing Bell's life's work. His research on hearing and speech further led him to experiment with hearing devices which eventually culminated in Bell being awarded the first U.S. patent for the telephone in 1876.[N 4] Bell considered his most famous invention an intrusion on his real work as a scientist and refused to have a telephone in his study.[N 5]",
+    "article_title": "Alexander_Graham_Bell"
+  },
+  {
+    "question_id": 57,
+    "question": "What does ISP stand for?",
+    "ground_truth": "Internet service provider",
+    "all_answers": [
+      "Internet service provider"
+    ],
+    "document": "An Internet service provider (ISP) is an organization that provides services for accessing, using, the Internet. Internet service providers may be organized in various forms, such as commercial, community-owned, non-profit, or otherwise privately owned.",
+    "article_title": "Internet_service_provider"
+  },
+  {
+    "question_id": 58,
+    "question": "Which form of comics entails the use of photographic images?",
+    "ground_truth": "fumetti",
+    "all_answers": [
+      "fumetti"
+    ],
+    "document": "Comics are a medium used to express ideas by images, often combined with text or other visual information. Comics frequently takes the form of juxtaposed sequences of panels of images. Often textual devices such as speech balloons, captions, and onomatopoeia indicate dialogue, narration, sound effects, or other information. Size and arrangement of panels contribute to narrative pacing. Cartooning and similar forms of illustration are the most common image-making means in comics; fumetti is a form which uses photographic images. Common forms of comics include comic strips, editorial and gag cartoons, and comic books. Since the late 20th century, bound volumes such as graphic novels, comics albums, and tankōbon have become increasingly common, and online webcomics have proliferated in the 21st century.",
+    "article_title": "Comics"
+  },
+  {
+    "question_id": 59,
+    "question": "What is Saint Helena tropical island named after?",
+    "ground_truth": "Saint Helena of Constantinople",
+    "all_answers": [
+      "Saint Helena of Constantinople"
+    ],
+    "document": "Saint Helena (/ˌseɪnt həˈliːnə/ SAYNT-hə-LEE-nə) is a volcanic tropical island in the South Atlantic Ocean, 4,000 kilometres (2,500 mi) east of Rio de Janeiro and 1,950 kilometres (1,210 mi) west of the Cunene River, which marks the border between Namibia and Angola in southwestern Africa. It is part of the British Overseas Territory of Saint Helena, Ascension and Tristan da Cunha. Saint Helena measures about 16 by 8 kilometres (10 by 5 mi) and has a population of 4,255 (2008 census). It was named after Saint Helena of Constantinople.",
+    "article_title": "Saint_Helena"
+  },
+  {
+    "question_id": 60,
+    "question": "Aspiration and preaspiration are used in what?",
+    "ground_truth": "phonetics",
+    "all_answers": [
+      "phonetics"
+    ],
+    "document": "In phonetics, aspiration is the strong burst of breath that accompanies either the release or, in the case of preaspiration, the closure of some obstruents. In English, aspirated consonants are allophones in complementary distribution with their unaspirated counterparts, but in some other languages, notably most Indian and East Asian languages, the difference is contrastive.",
+    "article_title": "Aspirated_consonant"
+  },
+  {
+    "question_id": 61,
+    "question": "What is hydrogens chemical symbol?",
+    "ground_truth": "H",
+    "all_answers": [
+      "H"
+    ],
+    "document": "Hydrogen is a chemical element with chemical symbol H and atomic number 1. With an atomic weight of 7000100794000000000♠1.00794 u, hydrogen is the lightest element on the periodic table. Its monatomic form (H) is the most abundant chemical substance in the Universe, constituting roughly 75% of all baryonic mass.[note 1] Non-remnant stars are mainly composed of hydrogen in its plasma state. The most common isotope of hydrogen, termed protium (name rarely used, symbol 1H), has one proton and no neutrons.",
+    "article_title": "Hydrogen"
+  },
+  {
+    "question_id": 62,
+    "question": "What do people typically call a web browser?",
+    "ground_truth": "browser",
+    "all_answers": [
+      "browser"
+    ],
+    "document": "A web browser (commonly referred to as a browser) is a software application for retrieving, presenting, and traversing information resources on the World Wide Web. An information resource is identified by a Uniform Resource Identifier (URI/URL) and may be a web page, image, video or other piece of content. Hyperlinks present in resources enable users easily to navigate their browsers to related resources.",
+    "article_title": "Web_browser"
+  },
+  {
+    "question_id": 63,
+    "question": "What is the capital of Massachusetts?",
+    "ground_truth": "Boston",
+    "all_answers": [
+      "Boston"
+    ],
+    "document": "Boston (pronounced i/ˈbɒstən/) is the capital and largest city of the Commonwealth of Massachusetts in the United States. Boston also served as the historic county seat of Suffolk County until Massachusetts disbanded county government in 1999. The city proper covers 48 square miles (124 km2) with an estimated population of 655,884 in 2014, making it the largest city in New England and the 24th largest city in the United States. The city is the economic and cultural anchor of a substantially larger metropolitan area called Greater Boston, home to 4.7 million people and the tenth-largest metropolitan statistical area in the country. Greater Boston as a commuting region is home to 8.1 million people, making it the sixth-largest combined statistical area in the United States.",
+    "article_title": "Boston"
+  },
+  {
+    "question_id": 64,
+    "question": "What is the BeiDou Navigation Satellite System?",
+    "ground_truth": "a Chinese satellite navigation system",
+    "all_answers": [
+      "a Chinese satellite navigation system"
+    ],
+    "document": "The BeiDou Navigation Satellite System (BDS, simplified Chinese: 北斗卫星导航系统; traditional Chinese: 北斗衛星導航系統; pinyin: Běidǒu wèixīng dǎoháng xìtǒng) is a Chinese satellite navigation system. It consists of two separate satellite constellations – a limited test system that has been operating since 2000, and a full-scale global navigation system that is currently under construction.",
+    "article_title": "BeiDou_Navigation_Satellite_System"
+  },
+  {
+    "question_id": 65,
+    "question": "What is the name for the rules issued by the heads of the Church?",
+    "ground_truth": "Canon law",
+    "all_answers": [
+      "Canon law"
+    ],
+    "document": "Canon law is the body of laws and regulations made by ecclesiastical authority (Church leadership), for the government of a Christian organization or church and its members. It is the internal ecclesiastical law governing the Catholic Church (both Latin Church and Eastern Catholic Churches), the Eastern and Oriental Orthodox churches, and the individual national churches within the Anglican Communion. The way that such church law is legislated, interpreted and at times adjudicated varies widely among these three bodies of churches. In all three traditions, a canon was originally a rule adopted by a church council; these canons formed the foundation of canon law.",
+    "article_title": "Canon_law"
+  },
+  {
+    "question_id": 66,
+    "question": "How many official radio and television networks does the government of Somalia operate?",
+    "ground_truth": "two",
+    "all_answers": [
+      "two"
+    ],
+    "document": "Communications in Somalia encompasses the communications services and capacity of Somalia. Telecommunications, internet, radio, print, television and postal services in the nation are largely concentrated in the private sector. Several of the telecom firms have begun expanding their activities abroad. The Federal government operates two official radio and television networks, which exist alongside a number of private and foreign stations. Print media in the country is also progressively giving way to news radio stations and online portals, as internet connectivity and access increases. Additionally, the national postal service is slated to be officially relaunched in 2013 after a long absence. In 2012, a National Communications Act was also approved by Cabinet members, which lays the foundation for the establishment of a National Communications regulator in the broadcasting and telecommunications sectors.",
+    "article_title": "Communications_in_Somalia"
+  },
+  {
+    "question_id": 67,
+    "question": "What place is Catalan named for?",
+    "ground_truth": "Catalonia",
+    "all_answers": [
+      "Catalonia"
+    ],
+    "document": "Catalan (/ˈkætəlæn/; autonym: català [kətəˈla] or [kataˈla]) is a Romance language named for its origins in Catalonia, in what is northeastern Spain and adjoining parts of France. It is the national and only official language of Andorra, and a co-official language of the Spanish autonomous communities of Catalonia, the Balearic Islands, and Valencia (where the language is known as Valencian, and there exist regional standards). It also has semi-official status in the city of Alghero on the Italian island of Sardinia. It is also spoken with no official recognition in parts of the Spanish autonomous communities of Aragon (La Franja) and Murcia (Carche), and in the historic French region of Roussillon/Northern Catalonia, roughly equivalent to the department of Pyrénées-Orientales.",
+    "article_title": "Catalan_language"
+  },
+  {
+    "question_id": 68,
+    "question": "What is the official language of Estonia?",
+    "ground_truth": "Estonian",
+    "all_answers": [
+      "Estonian"
+    ],
+    "document": "Estonian (eesti keel [ˈeːsti ˈkeːl] ( listen)) is the official language of Estonia, spoken natively by about 1.1 million people in Estonia and tens of thousands in various migrant communities. It belongs to the Finnic branch of the Uralic language family.",
+    "article_title": "Estonian_language"
+  },
+  {
+    "question_id": 69,
+    "question": "What is a source for the particles in paper?",
+    "ground_truth": "wood",
+    "all_answers": [
+      "wood"
+    ],
+    "document": "Paper is a thin material produced by pressing together moist fibres of cellulose pulp derived from wood, rags or grasses, and drying them into flexible sheets. It is a versatile material with many uses, including writing, printing, packaging, cleaning, and a number of industrial and construction processes.",
+    "article_title": "Paper"
+  },
+  {
+    "question_id": 70,
+    "question": "When was the football league established?",
+    "ground_truth": "1987",
+    "all_answers": [
+      "1987"
+    ],
+    "document": "The Arena Football League (AFL) is the highest level of professional indoor American football in the United States. It was founded in 1987 by Jim Foster, making it the third longest-running professional football league in North America, after the Canadian Football League and the National Football League. It is played indoors on a 68-yard field (about half the distance of an NFL field), resulting in a faster-paced and higher-scoring game. The sport was invented in the early 1980s and patented by Foster, a former executive of the United States Football League and the National Football League.",
+    "article_title": "Arena_Football_League"
+  },
+  {
+    "question_id": 71,
+    "question": "Along with pop, soul, rhythm and blues, quiet storm, and rock, what musical style influenced adult contemporary?",
+    "ground_truth": "easy listening",
+    "all_answers": [
+      "easy listening"
+    ],
+    "document": "Adult contemporary music (AC) is a style of music, ranging from 1960s vocal and 1970s soft rock music to predominantly ballad-heavy music of the present day, with varying degrees of easy listening, pop, soul, rhythm and blues, quiet storm, and rock influence. Adult contemporary is rather a continuation of the easy listening and soft rock style that became popular in the 1960s and 1970s with some adjustments that reflect the evolution of pop/rock music.",
+    "article_title": "Adult_contemporary_music"
+  },
+  {
+    "question_id": 72,
+    "question": "In what century was the term matter defined excluding energy phenomena like light and sound?",
+    "ground_truth": "20th",
+    "all_answers": [
+      "20th"
+    ],
+    "document": "Before the 20th century, the term matter included ordinary matter composed of atoms and excluded other energy phenomena such as light or sound. This concept of matter may be generalized from atoms to include any objects having mass even when at rest, but this is ill-defined because an object's mass can arise from its (possibly massless) constituents' motion and interaction energies. Thus, matter does not have a universal definition, nor is it a fundamental concept in physics today. Matter is also used loosely as a general term for the substance that makes up all observable physical objects.",
+    "article_title": "Matter"
+  },
+  {
+    "question_id": 73,
+    "question": "What was Westminster Abbey's original name?",
+    "ground_truth": "Collegiate Church of St Peter at Westminster",
+    "all_answers": [
+      "Collegiate Church of St Peter at Westminster"
+    ],
+    "document": "Westminster Abbey, formally titled the Collegiate Church of St Peter at Westminster, is a large, mainly Gothic abbey church in the City of Westminster, London, located just to the west of the Palace of Westminster. It is one of the most notable religious buildings in the United Kingdom and has been the traditional place of coronation and burial site for English and, later, British monarchs. Between 1540 and 1556 the abbey had the status of a cathedral. Since 1560, however, the building is no longer an abbey nor a cathedral, having instead the status of a Church of England \"Royal Peculiar\"—a church responsible directly to the sovereign. The building itself is the original abbey church.",
+    "article_title": "Westminster_Abbey"
+  },
+  {
+    "question_id": 74,
+    "question": "k",
+    "ground_truth": "ks",
+    "all_answers": [
+      "ks"
+    ],
+    "document": "Nanjing ( listen; Chinese: 南京, \"Southern Capital\") is the city situated in the heartland of lower Yangtze River region in China, which has long been a major centre of culture, education, research, politics, economy, transport networks and tourism. It is the capital city of Jiangsu province of People's Republic of China and the second largest city in East China, with a total population of 8,216,100, and legally the capital of Republic of China which lost the mainland during the civil war. The city whose name means \"Southern Capital\" has a prominent place in Chinese history and culture, having served as the capitals of various Chinese dynasties, kingdoms and republican governments dating from the 3rd century AD to 1949. Prior to the advent of pinyin romanization, Nanjing's city name was spelled as Nanking or Nankin. Nanjing has a number of other names, and some historical names are now used as names of districts of the city, and among them there is the name Jiangning (江寧), whose former character Jiang (江, River) is the former part of the name Jiangsu and latter character Ning (寧, simplified form 宁, Peace) is the short name of Nanjing. When being the capital of a state, for instance, ROC, Jing (京) is adopted as the abbreviation of Nanjing. Although as a city located in southern part of China becoming Chinese national capital as early as in Jin dynasty, the name Nanjing was designated to the city in Ming dynasty, about a thousand years later. Nanjing is particularly known as Jinling (金陵, literally meaning Gold Mountain) and the old name has been used since the Warring States Period in Zhou Dynasty.",
+    "article_title": "Nanjing"
+  },
+  {
+    "question_id": 75,
+    "question": "What city is the de facto capital of Switserland?",
+    "ground_truth": "Berne",
+    "all_answers": [
+      "Berne"
+    ],
+    "document": "The city of Bern or Berne (German: Bern, pronounced [bɛrn] ( listen); French: Berne [bɛʁn]; Italian: Berna [ˈbɛrna]; Romansh: Berna  [ˈbɛrnɐ] (help·info); Bernese German: Bärn [b̥æːrn]) is the de facto capital of Switzerland, referred to by the Swiss as their (e.g. in German) Bundesstadt, or \"federal city\".[note 1] With a population of 140,634 (November 2015), Bern is the fifth most populous city in Switzerland. The Bern agglomeration, which includes 36 municipalities, had a population of 406,900 in 2014. The metropolitan area had a population of 660,000 in 2000. Bern is also the capital of the Canton of Bern, the second most populous of Switzerland's cantons.",
+    "article_title": "Bern"
+  },
+  {
+    "question_id": 76,
+    "question": "What term is used interchangeably with daylight saving time?",
+    "ground_truth": "summer time",
+    "all_answers": [
+      "summer time"
+    ],
+    "document": "Daylight saving time (DST) or summer time is the practice of advancing clocks during summer months by one hour so that in the evening daylight is experienced an hour longer, while sacrificing normal sunrise times. Typically, regions with summer time adjust clocks forward one hour close to the start of spring and adjust them backward in the autumn to standard time.",
+    "article_title": "Daylight_saving_time"
+  },
+  {
+    "question_id": 77,
+    "question": "What does RIBA stand for?",
+    "ground_truth": "Royal Institute of British Architects",
+    "all_answers": [
+      "Royal Institute of British Architects"
+    ],
+    "document": "The Royal Institute of British Architects (RIBA) is a professional body for architects primarily in the United Kingdom, but also internationally, founded for the advancement of architecture under its charter granted in 1837 and Supplemental Charter granted in 1971.",
+    "article_title": "Royal_Institute_of_British_Architects"
+  },
+  {
+    "question_id": 78,
+    "question": "NARA is responsible for what collection of archives?",
+    "ground_truth": "National Archives",
+    "all_answers": [
+      "National Archives"
+    ],
+    "document": "The National Archives and Records Administration (NARA) is an independent agency of the United States government charged with preserving and documenting government and historical records and with increasing public access to those documents, which comprise the National Archives. NARA is officially responsible for maintaining and publishing the legally authentic and authoritative copies of acts of Congress, presidential proclamations and executive orders, and federal regulations. The NARA also transmits votes of the Electoral College to Congress.",
+    "article_title": "National_Archives_and_Records_Administration"
+  },
+  {
+    "question_id": 79,
+    "question": "what type of islands are the Tristan da Cunha",
+    "ground_truth": "volcanic",
+    "all_answers": [
+      "volcanic"
+    ],
+    "document": "Tristan da Cunha /ˈtrɪstən də ˈkuːnjə/, colloquially Tristan, is both a remote group of volcanic islands in the south Atlantic Ocean and the main island of that group. It is the most remote inhabited archipelago in the world, lying 2,000 kilometres (1,200 mi) from the nearest inhabited land, Saint Helena, 2,400 kilometres (1,500 mi) from the nearest continental land, South Africa, and 3,360 kilometres (2,090 mi) from South America. The territory consists of the main island, also named Tristan da Cunha, which has a north–south length of 11.27 kilometres (7.00 mi) and has an area of 98 square kilometres (38 sq mi), along with the smaller, uninhabited Nightingale Islands and the wildlife reserves of Inaccessible and Gough Islands.",
+    "article_title": "Tristan_da_Cunha"
+  },
+  {
+    "question_id": 80,
+    "question": "What is the abbreviation by which the University of Kansas is known?",
+    "ground_truth": "KU",
+    "all_answers": [
+      "KU"
+    ],
+    "document": "The University of Kansas (KU) is a public research university and the largest in the U.S. state of Kansas. KU branch campuses are located in the towns of Lawrence, Wichita, Overland Park, Salina, and Kansas City, Kansas, with the main campus located in Lawrence on Mount Oread, the highest location in Lawrence. Founded March 21, 1865, the university was opened in 1866, under a charter granted by the Kansas State Legislature in 1864 following enabling legislation passed in 1863 under the Kansas State Constitution, adopted two years after the 1861 admission of the former Kansas Territory as the 34th state into the Union following a very famous bloody internal civil war known as \"Bleeding Kansas\" during the 1850s.",
+    "article_title": "University_of_Kansas"
+  },
+  {
+    "question_id": 81,
+    "question": "What do you call  government officials using power for illicit private gain?",
+    "ground_truth": "political corruption",
+    "all_answers": [
+      "political corruption"
+    ],
+    "document": "Political corruption is the use of powers by government officials for illegitimate private gain. An illegal act by an officeholder constitutes political corruption only if the act is directly related to their official duties, is done under color of law or involves trading in influence.",
+    "article_title": "Political_corruption"
+  },
+  {
+    "question_id": 82,
+    "question": "What language is the word dialectus from?",
+    "ground_truth": "Latin",
+    "all_answers": [
+      "Latin"
+    ],
+    "document": "The term dialect (from Latin dialectus, dialectos, from the ancient Greek word διάλεκτος diálektos, \"discourse\", from διά diá, \"through\" and λέγω legō, \"I speak\") is used in two distinct ways to refer to two different types of linguistic phenomena.",
+    "article_title": "Dialect"
+  },
+  {
+    "question_id": 83,
+    "question": "What term is used to refer to the period from 1750 to 1820?",
+    "ground_truth": "the Classical period",
+    "all_answers": [
+      "the Classical period"
+    ],
+    "document": "Classical music is art music produced or rooted in the traditions of Western music, including both liturgical (religious) and secular music. While a similar term is also used to refer to the period from 1750 to 1820 (the Classical period), this article is about the broad span of time from roughly the 11th century to the present day, which includes the Classical period and various other periods. The central norms of this tradition became codified between 1550 and 1900, which is known as the common practice period. The major time divisions of classical music are as follows: the early music period, which includes the Medieval (500–1400) and the Renaissance (1400–1600) eras; the Common practice period, which includes the Baroque (1600–1750), Classical (1750–1820), and Romantic eras (1804–1910); and the 20th century (1901–2000) which includes the modern (1890–1930) that overlaps from the late 19th-century, the high modern (mid 20th-century), and contemporary or postmodern (1975–2015) eras.[citation needed]",
+    "article_title": "Classical_music"
+  },
+  {
+    "question_id": 84,
+    "question": "What is the largest Indo-European ethno-linguistic group in Europe?",
+    "ground_truth": "Slavs are the largest Indo-European ethno-linguistic group in Europe.",
+    "all_answers": [
+      "Slavs are the largest Indo-European ethno-linguistic group in Europe."
+    ],
+    "document": "Slavs are the largest Indo-European ethno-linguistic group in Europe. They inhabit Central Europe, Eastern Europe, Southeast Europe, North Asia and Central Asia. Slavs speak Indo-European Slavic languages and share, to varying degrees, some cultural traits and historical backgrounds. From the early 6th century they spread to inhabit most of Central and Eastern Europe and Southeast Europe, whilst Slavic mercenaries fighting for the Byzantines and Arabs settled Asia Minor and even as far as Syria. The East Slavs colonised Siberia and Central Asia.[better source needed] Presently over half of Europe's territory is inhabited by Slavic-speaking communities, but every Slavic ethnicity has emigrated to other continents.",
+    "article_title": "Slavs"
+  },
+  {
+    "question_id": 85,
+    "question": "What's the estimated population of Southampton?",
+    "ground_truth": "253,651",
+    "all_answers": [
+      "253,651"
+    ],
+    "document": "Southampton (i/saʊθˈæmptən, -hæmptən/) is the largest city in the ceremonial county of Hampshire on the south coast of England, and is situated 75 miles (121 km) south-west of London and 19 miles (31 km) north-west of Portsmouth. Southampton is a major port and the closest city to the New Forest. It lies at the northernmost point of Southampton Water at the confluence of the River Test and River Itchen, with the River Hamble joining to the south of the urban area. The city, which is a unitary authority, has an estimated population of 253,651. The city's name is sometimes abbreviated in writing to \"So'ton\" or \"Soton\", and a resident of Southampton is called a Sotonian.",
+    "article_title": "Southampton"
+  },
+  {
+    "question_id": 86,
+    "question": "Who are the actors in international law?",
+    "ground_truth": "sovereign states and international organizations",
+    "all_answers": [
+      "sovereign states and international organizations"
+    ],
+    "document": "A treaty is an agreement under international law entered into by actors in international law, namely sovereign states and international organizations. A treaty may also be known as an (international) agreement, protocol, covenant, convention, pact, or exchange of letters, among other terms. Regardless of terminology, all of these forms of agreements are, under international law, equally considered treaties and the rules are the same.",
+    "article_title": "Treaty"
+  },
+  {
+    "question_id": 87,
+    "question": "In what year did Josip Broz Tito die?",
+    "ground_truth": "1980",
+    "all_answers": [
+      "1980"
+    ],
+    "document": "Josip Broz Tito (Cyrillic: Јосип Броз Тито, pronounced [jǒsip brôːz tîto]; born Josip Broz; 7 May 1892[nb 1] – 4 May 1980) was a Yugoslav revolutionary and statesman, serving in various roles from 1943 until his death in 1980. During World War II he was the leader of the Partisans, often regarded as the most effective resistance movement in occupied Europe. While his presidency has been criticized as authoritarian, and concerns about the repression of political opponents have been raised, Tito was \"seen by most as a benevolent dictator\" due to his economic and diplomatic policies. He was a popular public figure both in Yugoslavia and abroad. Viewed as a unifying symbol, his internal policies maintained the peaceful coexistence of the nations of the Yugoslav federation. He gained further international attention as the chief leader of the Non-Aligned Movement, working with Jawaharlal Nehru of India, Gamal Abdel Nasser of Egypt and Sukarno of Indonesia.",
+    "article_title": "Josip_Broz_Tito"
+  },
+  {
+    "question_id": 88,
+    "question": "What is the name of the Marshall Islands in its native language?",
+    "ground_truth": "Aolepān Aorōkin M̧ajeļ",
+    "all_answers": [
+      "Aolepān Aorōkin M̧ajeļ"
+    ],
+    "document": "The Marshall Islands, officially the Republic of the Marshall Islands (Marshallese: Aolepān Aorōkin M̧ajeļ),[note 1] is an island country located near the equator in the Pacific Ocean, slightly west of the International Date Line. Geographically, the country is part of the larger island group of Micronesia. The country's population of 53,158 people (at the 2011 Census) is spread out over 29 coral atolls, comprising 1,156 individual islands and islets. The islands share maritime boundaries with the Federated States of Micronesia to the west, Wake Island to the north,[note 2] Kiribati to the south-east, and Nauru to the south. About 27,797 of the islanders (at the 2011 Census) live on Majuro, which contains the capital.",
+    "article_title": "Marshall_Islands"
+  },
+  {
+    "question_id": 89,
+    "question": "What class was slackta in Poland?",
+    "ground_truth": "noble class",
+    "all_answers": [
+      "noble class"
+    ],
+    "document": "The szlachta ([ˈʂlaxta] ( listen), exonym: Nobility) was a legally privileged noble class with origins in the Kingdom of Poland. It gained considerable institutional privileges between 1333 and 1370 during the reign of King Casimir III the Great.:211 In 1413, following a series of tentative personal unions between the Grand Duchy of Lithuania and the Crown Kingdom of Poland, the existing Lithuanian nobility formally joined this class.:211 As the Polish-Lithuanian Commonwealth (1569–1795) evolved and expanded in territory, its membership grew to include the leaders of Ducal Prussia, Podolian and Ruthenian lands.",
+    "article_title": "Szlachta"
+  },
+  {
+    "question_id": 90,
+    "question": "During which period was Vigil a poet?",
+    "ground_truth": "Augustan",
+    "all_answers": [
+      "Augustan"
+    ],
+    "document": "Publius Vergilius Maro (Classical Latin: [ˈpuː.blɪ.ʊs wɛrˈɡɪ.lɪ.ʊs ˈma.roː]; October 15, 70 BC – September 21, 19 BC), usually called Virgil or Vergil /ˈvɜːrdʒᵻl/ in English, was an ancient Roman poet of the Augustan period. He is known for three major works of Latin literature, the Eclogues (or Bucolics), the Georgics, and the epic Aeneid. A number of minor poems, collected in the Appendix Vergiliana, are sometimes attributed to him.",
+    "article_title": "Virgil"
+  },
+  {
+    "question_id": 91,
+    "question": "What Country are the Alps located in?",
+    "ground_truth": "Europe",
+    "all_answers": [
+      "Europe"
+    ],
+    "document": "The Alps (/ælps/; Italian: Alpi [ˈalpi]; French: Alpes [alp]; German: Alpen [ˈʔalpm̩]; Slovene: Alpe [ˈáːlpɛ]) are the highest and most extensive mountain range system that lies entirely in Europe, stretching approximately 1,200 kilometres (750 mi) across eight Alpine countries: Austria, France, Germany, Italy, Liechtenstein, Monaco, Slovenia, and Switzerland. The Caucasus Mountains are higher, and the Urals longer, but both lie partly in Asia. The mountains were formed over tens of millions of years as the African and Eurasian tectonic plates collided. Extreme shortening caused by the event resulted in marine sedimentary rocks rising by thrusting and folding into high mountain peaks such as Mont Blanc and the Matterhorn. Mont Blanc spans the French–Italian border, and at 4,810 m (15,781 ft) is the highest mountain in the Alps. The Alpine region area contains about a hundred peaks higher than 4,000 m (13,123 ft), known as the \"four-thousanders\".",
+    "article_title": "Alps"
+  },
+  {
+    "question_id": 92,
+    "question": "What is a gene?",
+    "ground_truth": "a locus (or region) of DNA that encodes a functional RNA or protein product",
+    "all_answers": [
+      "a locus (or region) of DNA that encodes a functional RNA or protein product"
+    ],
+    "document": "A gene is a locus (or region) of DNA that encodes a functional RNA or protein product, and is the molecular unit of heredity.:Glossary The transmission of genes to an organism's offspring is the basis of the inheritance of phenotypic traits. Most biological traits are under the influence of polygenes (many different genes) as well as the gene–environment interactions. Some genetic traits are instantly visible, such as eye colour or number of limbs, and some are not, such as blood type, risk for specific diseases, or the thousands of basic biochemical processes that comprise life.",
+    "article_title": "Gene"
+  },
+  {
+    "question_id": 93,
+    "question": "What is the official name for Guinea-Bissau?",
+    "ground_truth": "the Republic of Guinea-Bissau",
+    "all_answers": [
+      "the Republic of Guinea-Bissau"
+    ],
+    "document": "Guinea-Bissau (i/ˈɡɪni bɪˈsaʊ/, GI-nee-bi-SOW), officially the Republic of Guinea-Bissau (Portuguese: República da Guiné-Bissau, pronounced: [ʁeˈpublikɐ dɐ ɡiˈnɛ biˈsaw]), is a country in West Africa. It covers 36,125 square kilometres (13,948 sq mi) with an estimated population of 1,704,000.",
+    "article_title": "Guinea-Bissau"
+  },
+  {
+    "question_id": 94,
+    "question": "What is the grid plan aligned with rather than the cardinal directions?",
+    "ground_truth": "Hudson River",
+    "all_answers": [
+      "Hudson River"
+    ],
+    "document": "This article covers numbered east-west streets in Manhattan, New York City. Major streets have their own linked articles; minor streets are discussed here. The streets do not run exactly east–west, because the grid plan is aligned with the Hudson River rather than with the cardinal directions. \"West\" is approximately 29 degrees north of true west.",
+    "article_title": "List_of_numbered_streets_in_Manhattan"
+  },
+  {
+    "question_id": 95,
+    "question": "What is the center of the nervous system in all creatures?",
+    "ground_truth": "The brain",
+    "all_answers": [
+      "The brain"
+    ],
+    "document": "The brain is an organ that serves as the center of the nervous system in all vertebrate and most invertebrate animals. Only a few invertebrates such as sponges, jellyfish, adult sea squirts and starfish do not have a brain; diffuse or localised nerve nets are present instead. The brain is located in the head, usually close to the primary sensory organs for such senses as vision, hearing, balance, taste, and smell. The brain is the most complex organ in a vertebrate's body. In a typical human, the cerebral cortex (the largest part) is estimated to contain 15–33 billion neurons, each connected by synapses to several thousand other neurons. These neurons communicate with one another by means of long protoplasmic fibers called axons, which carry trains of signal pulses called action potentials to distant parts of the brain or body targeting specific recipient cells.",
+    "article_title": "Brain"
+  },
+  {
+    "question_id": 96,
+    "question": "What is a geographical term that roughly encompasses Western Asia?",
+    "ground_truth": "Near East (French: Proche-Orient)",
+    "all_answers": [
+      "Near East (French: Proche-Orient)"
+    ],
+    "document": "Near East (French: Proche-Orient) is a geographical term that roughly encompasses Western Asia. Despite having varying definitions within different academic circles, the term was originally applied to the maximum extent of the Ottoman Empire. The term has fallen into disuse in English, and has been replaced by the term Middle East.",
+    "article_title": "Near_East"
+  },
+  {
+    "question_id": 97,
+    "question": "What was Zhejiang formerly romanized as?",
+    "ground_truth": "Chekiang",
+    "all_answers": [
+      "Chekiang"
+    ],
+    "document": "Zhejiang (help·info), formerly romanized as Chekiang, is an eastern coastal province of China. Zhejiang is bordered by Jiangsu province and Shanghai municipality to the north, Anhui province to the northwest, Jiangxi province to the west, and Fujian province to the south; to the east is the East China Sea, beyond which lie the Ryukyu Islands of Japan.",
+    "article_title": "Zhejiang"
+  },
+  {
+    "question_id": 98,
+    "question": "Which government's Ministry of Defence is mentioned here?",
+    "ground_truth": "British",
+    "all_answers": [
+      "British"
+    ],
+    "document": "The Ministry of Defence (MoD) is the British government department responsible for implementing the defence policy set by Her Majesty's Government, and is the headquarters of the British Armed Forces.",
+    "article_title": "Ministry_of_Defence_(United_Kingdom)"
+  },
+  {
+    "question_id": 99,
+    "question": "The term \"high definition\" originally described televisions systems from what year?",
+    "ground_truth": "1936",
+    "all_answers": [
+      "1936"
+    ],
+    "document": "The term high definition once described a series of television systems originating from August 1936; however, these systems were only high definition when compared to earlier systems that were based on mechanical systems with as few as 30 lines of resolution. The ongoing competition between companies and nations to create true \"HDTV\" spanned the entire 20th century, as each new system became more HD than the last.In the beginning of the 21st century, this race has continued with 4k, 5k and current 8K systems.",
+    "article_title": "High-definition_television"
+  },
+  {
+    "question_id": 100,
+    "question": "In addition to being used to build things, what has wood been used for over thousands of years?",
+    "ground_truth": "fuel",
+    "all_answers": [
+      "fuel"
+    ],
+    "document": "It has been used for thousands of years for both fuel and as a construction material. It is an organic material, a natural composite of cellulose fibers (which are strong in tension) embedded in a matrix of lignin which resists compression. Wood is sometimes defined as only the secondary xylem in the stems of trees, or it is defined more broadly to include the same type of tissue elsewhere such as in the roots of trees or shrubs.[citation needed] In a living tree it performs a support function, enabling woody plants to grow large or to stand up by themselves. It also conveys water and nutrients between the leaves, other growing tissues, and the roots. Wood may also refer to other plant materials with comparable properties, and to material engineered from wood, or wood chips or fiber.",
+    "article_title": "Wood"
+  },
+  {
+    "question_id": 101,
+    "question": "What language family is Somali a part of?",
+    "ground_truth": "Afro-Asiatic",
+    "all_answers": [
+      "Afro-Asiatic"
+    ],
+    "document": "Somalis (Somali: Soomaali, Arabic: صومال‎) are an ethnic group inhabiting the Horn of Africa (Somali Peninsula). The overwhelming majority of Somalis speak the Somali language, which is part of the Cushitic branch of the Afro-Asiatic family. They are predominantly Sunni Muslim. Ethnic Somalis number around 16-20 million and are principally concentrated in Somalia (around 12.3 million), Ethiopia (4.6 million), Kenya (2.4 million), and Djibouti (464,600), with many also residing in parts of the Middle East, North America and Europe.",
+    "article_title": "Somalis"
+  },
+  {
+    "question_id": 102,
+    "question": "In what century did the Middle Ages begin?",
+    "ground_truth": "5th",
+    "all_answers": [
+      "5th"
+    ],
+    "document": "In European history, the Middle Ages or medieval period lasted from the 5th to the 15th century. It began with the collapse of the Western Roman Empire and merged into the Renaissance and the Age of Discovery. The Middle Ages is the middle period of the three traditional divisions of Western history: Antiquity, Medieval period, and Modern period. The Medieval period is itself subdivided into the Early, the High, and the Late Middle Ages.",
+    "article_title": "Middle_Ages"
+  },
+  {
+    "question_id": 103,
+    "question": "What is phonology a branch of?",
+    "ground_truth": "linguistics",
+    "all_answers": [
+      "linguistics"
+    ],
+    "document": "Phonology is a branch of linguistics concerned with the systematic organization of sounds in languages. It has traditionally focused largely on the study of the systems of phonemes in particular languages (and therefore used to be also called phonemics, or phonematics), but it may also cover any linguistic analysis either at a level beneath the word (including syllable, onset and rime, articulatory gestures, articulatory features, mora, etc.) or at all levels of language where sound is considered to be structured for conveying linguistic meaning. Phonology also includes the study of equivalent organizational systems in sign languages.",
+    "article_title": "Phonology"
+  },
+  {
+    "question_id": 104,
+    "question": "In computer terms, what does CPU stand for?",
+    "ground_truth": "central processing unit",
+    "all_answers": [
+      "central processing unit"
+    ],
+    "document": "Conventionally, a computer consists of at least one processing element, typically a central processing unit (CPU), and some form of memory. The processing element carries out arithmetic and logic operations, and a sequencing and control unit can change the order of operations in response to stored information. Peripheral devices allow information to be retrieved from an external source, and the result of operations saved and retrieved.",
+    "article_title": "Computer"
+  },
+  {
+    "question_id": 105,
+    "question": "Do some countries have negative feelings towards the word \"black\"?",
+    "ground_truth": "communities and countries, \"black\" is also perceived as a derogatory,",
+    "all_answers": [
+      "communities and countries, \"black\" is also perceived as a derogatory,"
+    ],
+    "document": "Black people is a term used in certain countries, often in socially based systems of racial classification or of ethnicity, to describe persons who are perceived to be dark-skinned compared to other given populations. As such, the meaning of the expression varies widely both between and within societies, and depends significantly on context. For many other individuals, communities and countries, \"black\" is also perceived as a derogatory, outdated, reductive or otherwise unrepresentative label, and as a result is neither used nor defined.",
+    "article_title": "Black_people"
+  },
+  {
+    "question_id": 106,
+    "question": "The Times is based in what major British city?",
+    "ground_truth": "London",
+    "all_answers": [
+      "London"
+    ],
+    "document": "The Times is a British daily national newspaper based in London. It began in 1785 under the title The Daily Universal Register and became The Times on 1 January 1788. The Times and its sister paper The Sunday Times (founded in 1821) are published by Times Newspapers, since 1981 a subsidiary of News UK, itself wholly owned by the News Corp group headed by Rupert Murdoch. The Times and The Sunday Times do not share editorial staff, were founded independently and have only had common ownership since 1967.",
+    "article_title": "The_Times"
+  },
+  {
+    "question_id": 107,
+    "question": "Who laid the foundation stone of New Delhi?",
+    "ground_truth": "George V",
+    "all_answers": [
+      "George V"
+    ],
+    "document": "The foundation stone of the city was laid by George V, Emperor of India during the Delhi Durbar of 1911. It was designed by British architects, Sir Edwin Lutyens and Sir Herbert Baker. The new capital was inaugurated on 13 February 1931, by India's Viceroy Lord Irwin.",
+    "article_title": "New_Delhi"
+  },
+  {
+    "question_id": 108,
+    "question": "Who do the Shia believe are the rightful successors of Muhammad?",
+    "ground_truth": "Imams",
+    "all_answers": [
+      "Imams"
+    ],
+    "document": "Imamah (Arabic: إمامة‎) is the Shia Islam doctrine (belief) of religious, spiritual and political leadership of the Ummah. The Shia believe that the Imams are the true Caliphs or rightful successors of Muhammad, and further that Imams are possessed of divine knowledge and authority (Ismah) as well as being part of the Ahl al-Bayt, the family of Muhammad. These Imams have the role of providing commentary and interpretation of the Quran as well as guidance to their tariqa followers as is the case of the living Imams of the Nizari Ismaili tariqah.",
+    "article_title": "Imamah_(Shia_doctrine)"
+  },
+  {
+    "question_id": 109,
+    "question": "Where does migration mainly occur?",
+    "ground_truth": "the northern hemisphere",
+    "all_answers": [
+      "the northern hemisphere"
+    ],
+    "document": "Bird migration is the regular seasonal movement, often north and south along a flyway, between breeding and wintering grounds. Many species of bird migrate. Migration carries high costs in predation and mortality, including from hunting by humans, and is driven primarily by availability of food. It occurs mainly in the northern hemisphere, where birds are funnelled on to specific routes by natural barriers such as the Mediterranean Sea or the Caribbean Sea.",
+    "article_title": "Bird_migration"
+  },
+  {
+    "question_id": 110,
+    "question": "What is the name of the island on which Atlantic City is located?",
+    "ground_truth": "Absecon Island",
+    "all_answers": [
+      "Absecon Island"
+    ],
+    "document": "It is on Absecon Island, on the Atlantic coast. Atlantic City was incorporated on May 1, 1854, from portions of Egg Harbor Township and Galloway Township. The city borders Absecon, Brigantine, Pleasantville, Ventnor City and West Atlantic City.",
+    "article_title": "Atlantic_City,_New_Jersey"
+  },
+  {
+    "question_id": 111,
+    "question": "In general, what does immunology study?",
+    "ground_truth": "immune systems in all organisms",
+    "all_answers": [
+      "immune systems in all organisms"
+    ],
+    "document": "Immunology is a branch of biomedical science that covers the study of immune systems in all organisms. It charts, measures, and contextualizes the: physiological functioning of the immune system in states of both health and diseases; malfunctions of the immune system in immunological disorders (such as autoimmune diseases, hypersensitivities, immune deficiency, and transplant rejection); the physical, chemical and physiological characteristics of the components of the immune system in vitro, in situ, and in vivo. Immunology has applications in numerous disciplines of medicine, particularly in the fields of organ transplantation, oncology, virology, bacteriology, parasitology, psychiatry, and dermatology.",
+    "article_title": "Immunology"
+  },
+  {
+    "question_id": 112,
+    "question": "What is the common name for MPEG-2 Audio Layer III?",
+    "ground_truth": "MP3",
+    "all_answers": [
+      "MP3"
+    ],
+    "document": "MPEG-1 or MPEG-2 Audio Layer III, more commonly referred to as MP3, is an audio coding format for digital audio which uses a form of lossy data compression. It is a common audio format for consumer audio streaming or storage, as well as a de facto standard of digital audio compression for the transfer and playback of music on most digital audio players.",
+    "article_title": "MP3"
+  },
+  {
+    "question_id": 113,
+    "question": "What city did House music originate from?",
+    "ground_truth": "Chicago",
+    "all_answers": [
+      "Chicago"
+    ],
+    "document": "House music is a genre of electronic dance music that originated in Chicago in the early 1980s. It was initially popularized in Chicago, circa 1984. House music quickly spread to other American cities such as Detroit, New York City, and Newark – all of which developed their own regional scenes. In the mid-to-late 1980s, house music became popular in Europe as well as major cities in South America, and Australia. Early house music commercial success in Europe saw songs such as \"Pump Up The Volume\" by MARRS (1987), \"House Nation\" by House Master Boyz and the Rude Boy of House (1987), \"Theme from S'Express\" by S'Express (1988) and \"Doctorin' the House\" by Coldcut (1988) in the pop charts. Since the early to mid-1990s, house music has been infused in mainstream pop and dance music worldwide.",
+    "article_title": "House_music"
+  },
+  {
+    "question_id": 114,
+    "question": "The terms uppercase and lowercase originated from the common layout which type of drawers?",
+    "ground_truth": "shallow",
+    "all_answers": [
+      "shallow"
+    ],
+    "document": "The terms upper case and lower case can be written as two consecutive words, connected with a hyphen (upper-case and lower-case), or as a single word (uppercase and lowercase). These terms originated from the common layouts of the shallow drawers called type cases used to hold the movable type for letterpress printing. Traditionally, the capital letters were stored in a separate case that was located above the case that held the small letters, and the name proved easy to remember since capital letters are taller.",
+    "article_title": "Letter_case"
+  },
+  {
+    "question_id": 115,
+    "question": "What was the name of the nomad tribes that hunted bison?",
+    "ground_truth": "Jornado",
+    "all_answers": [
+      "Jornado"
+    ],
+    "document": "During the 14th century in the northeastern part of the state nomad tribes by the name of Jornado hunted bison along the Rio Grande; they left numerous rock paintings throughout the northeastern part of the state. When the Spanish explorers reached this area they found their descendants, Suma and Manso tribes. In the southern part of the state, in a region known as Aridoamerica, Chichimeca people survived by hunting, gathering, and farming between AD 300 and 1300. The Chichimeca are the ancestors of the Tepehuan people.",
+    "article_title": "Chihuahua_(state)"
+  },
+  {
+    "question_id": 116,
+    "question": "What type of sensation is pitch?",
+    "ground_truth": "auditory",
+    "all_answers": [
+      "auditory"
+    ],
+    "document": "Pitch is an auditory sensation in which a listener assigns musical tones to relative positions on a musical scale based primarily on their perception of the frequency of vibration. Pitch is closely related to frequency, but the two are not equivalent. Frequency is an objective, scientific attribute that can be measured. Pitch is each person's subjective perception of a sound, which cannot be directly measured. However, this does not necessarily mean that most people won't agree on which notes are higher and lower.",
+    "article_title": "Pitch_(music)"
+  },
+  {
+    "question_id": 117,
+    "question": "When did King Richard I begin his reign?",
+    "ground_truth": "1189",
+    "all_answers": [
+      "1189"
+    ],
+    "document": "The motif of the England national football team has three lions passant guardant, the emblem of King Richard I, who reigned from 1189 to 1199. The lions, often blue, have had minor changes to colour and appearance. Initially topped by a crown, this was removed in 1949 when the FA was given an official coat of arms by the College of Arms; this introduced ten Tudor roses, one for each of the regional branches of the FA. Since 2003, England top their logo with a star to recognise their World Cup win in 1966; this was first embroidered onto the left sleeve of the home kit, and a year later was moved to its current position, first on the away shirt.",
+    "article_title": "England_national_football_team"
+  },
+  {
+    "question_id": 118,
+    "question": "Where were Augustus Chapman Allen and John Kirby Allen from?",
+    "ground_truth": "New York",
+    "all_answers": [
+      "New York"
+    ],
+    "document": "In August 1836, two real estate entrepreneurs—Augustus Chapman Allen and John Kirby Allen—from New York, purchased 6,642 acres (26.88 km2) of land along Buffalo Bayou with the intent of founding a city. The Allen brothers decided to name the city after Sam Houston, the popular general at the Battle of San Jacinto, who was elected President of Texas in September 1836. The great majority of slaves in Texas came with their owners from the older slave states. Sizable numbers, however, came through the domestic slave trade. New Orleans was the center of this trade in the Deep South, but there were slave dealers in Houston. Thousands of enslaved African-Americans lived near the city before the Civil War. Many of them near the city worked on sugar and cotton plantations, while most of those in the city limits had domestic and artisan jobs. In 1860 forty-nine percent of the city's population was enslaved. A few slaves, perhaps as many as 2,000 between 1835 and 1865, came through the illegal African trade. Post-war Texas grew rapidly as migrants poured into the cotton lands of the state. They also brought or purchased enslaved African Americans, whose numbers nearly tripled in the state from 1850 to 1860, from 58,000 to 182,566.",
+    "article_title": "Houston"
+  },
+  {
+    "question_id": 119,
+    "question": "Where was copper mostly mined at in the Roman era?",
+    "ground_truth": "Cyprus",
+    "all_answers": [
+      "Cyprus"
+    ],
+    "document": "In the Roman era, copper was principally mined on Cyprus, the origin of the name of the metal from aes сyprium (metal of Cyprus), later corrupted to сuprum, from which the words copper (English), cuivre (French), Koper (Dutch) and Kupfer (German) are all derived. Its compounds are commonly encountered as copper(II) salts, which often impart blue or green colors to minerals such as azurite, malachite and turquoise and have been widely used historically as pigments. Architectural structures built with copper corrode to give green verdigris (or patina). Decorative art prominently features copper, both by itself and in the form of pigments.",
+    "article_title": "Copper"
+  },
+  {
+    "question_id": 120,
+    "question": "Self-image, self-esteem, and individuality relate to what?",
+    "ground_truth": "A psychological identity",
+    "all_answers": [
+      "A psychological identity"
+    ],
+    "document": "A psychological identity relates to self-image (one's mental model of oneself), self-esteem, and individuality. Consequently, Weinreich gives the definition \"A person's identity is defined as the totality of one's self-construal, in which how one construes oneself in the present expresses the continuity between how one construes oneself as one was in the past and how one construes oneself as one aspires to be in the future\"; this allows for definitions of aspects of identity, such as: \"One's ethnic identity is defined as that part of the totality of one's self-construal made up of those dimensions that express the continuity between one's construal of past ancestry and one's future aspirations in relation to ethnicity\" (Weinreich, 1986a).",
+    "article_title": "Identity_(social_science)"
+  },
+  {
+    "question_id": 121,
+    "question": "What is the third fastest growing economy in India?",
+    "ground_truth": "Himachal Pradesh",
+    "all_answers": [
+      "Himachal Pradesh"
+    ],
+    "document": "The economy of Himachal Pradesh is currently the third-fastest growing economy in India.[citation needed] Himachal Pradesh has been ranked fourth in the list of the highest per capita incomes of Indian states. This has made it one of the wealthiest places in the entire South Asia. Abundance of perennial rivers enables Himachal to sell hydroelectricity to other states such as Delhi, Punjab, and Rajasthan. The economy of the state is highly dependent on three sources: hydroelectric power, tourism, and agriculture.[citation needed]",
+    "article_title": "Himachal_Pradesh"
+  },
+  {
+    "question_id": 122,
+    "question": "What is nonverbal communication?",
+    "ground_truth": "conveying meaning in the form of non-word messages",
+    "all_answers": [
+      "conveying meaning in the form of non-word messages"
+    ],
+    "document": "Nonverbal communication describes the process of conveying meaning in the form of non-word messages. Examples of nonverbal communication include haptic communication, chronemic communication, gestures, body language, facial expression, eye contact, and how one dresses. Nonverbal communication also relates to intent of a message. Examples of intent are voluntary, intentional movements like shaking a hand or winking, as well as involuntary, such as sweating. Speech also contains nonverbal elements known as paralanguage, e.g. rhythm, intonation, tempo, and stress. There may even be a pheromone component. Research has shown that up to 55% of human communication may occur through non-verbal facial expressions, and a further 38% through paralanguage. It affects communication most at the subconscious level and establishes trust. Likewise, written texts include nonverbal elements such as handwriting style, spatial arrangement of words and the use of emoticons to convey emotion.",
+    "article_title": "Communication"
+  },
+  {
+    "question_id": 123,
+    "question": "What color are white grapes?",
+    "ground_truth": "green",
+    "all_answers": [
+      "green"
+    ],
+    "document": "Grapes are a type of fruit that grow in clusters of 15 to 300, and can be crimson, black, dark blue, yellow, green, orange, and pink. \"White\" grapes are actually green in color, and are evolutionarily derived from the purple grape. Mutations in two regulatory genes of white grapes turn off production of anthocyanins, which are responsible for the color of purple grapes. Anthocyanins and other pigment chemicals of the larger family of polyphenols in purple grapes are responsible for the varying shades of purple in red wines. Grapes are typically an ellipsoid shape resembling a prolate spheroid.",
+    "article_title": "Grape"
+  },
+  {
+    "question_id": 124,
+    "question": "What must an operator deviate from to harm the computer?",
+    "ground_truth": "secure procedures",
+    "all_answers": [
+      "secure procedures"
+    ],
+    "document": "Computer security, also known as cybersecurity or IT security, is the protection of information systems from theft or damage to the hardware, the software, and to the information on them, as well as from disruption or misdirection of the services they provide. It includes controlling physical access to the hardware, as well as protecting against harm that may come via network access, data and code injection, and due to malpractice by operators, whether intentional, accidental, or due to them being tricked into deviating from secure procedures.",
+    "article_title": "Computer_security"
+  },
+  {
+    "question_id": 125,
+    "question": "What is the approach to Judiasm that subscribes to a tradition of mass revelation?",
+    "ground_truth": "Orthodox",
+    "all_answers": [
+      "Orthodox"
+    ],
+    "document": "Orthodox Judaism is the approach to religious Judaism which subscribes to a tradition of mass revelation and adheres to the interpretation and application of the laws and ethics of the Torah as legislated in the Talmudic texts by the Tanaim and Amoraim. These texts were subsequently developed and applied by later authorities, known as the Gaonim, Rishonim, and Acharonim. Orthodox Judaism generally includes Modern Orthodox Judaism (אורתודוקסיה מודרנית) and Ultra-Orthodox or Haredi Judaism (יהדות חרדית), but complete within is a wide range of philosophies. Although Orthodox Judaism would probably be considered the mainstream expression of Judaism prior to the 19th century, for some Orthodox Judaism is a modern self-identification that distinguishes it from traditional pre-modern Judaism.",
+    "article_title": "Orthodox_Judaism"
+  },
+  {
+    "question_id": 126,
+    "question": "Where does the word animal come from?",
+    "ground_truth": "Latin animalis",
+    "all_answers": [
+      "Latin animalis"
+    ],
+    "document": "The word \"animal\" comes from the Latin animalis, meaning having breath, having soul or living being. In everyday non-scientific usage the word excludes humans – that is, \"animal\" is often used to refer only to non-human members of the kingdom Animalia; often, only closer relatives of humans such as mammals, or mammals and other vertebrates, are meant. The biological definition of the word refers to all members of the kingdom Animalia, encompassing creatures as diverse as sponges, jellyfish, insects, and humans.",
+    "article_title": "Animal"
+  },
+  {
+    "question_id": 127,
+    "question": "What is the process of making beer called?",
+    "ground_truth": "brewing",
+    "all_answers": [
+      "brewing"
+    ],
+    "document": "The process of making beer is known as brewing. A dedicated building for the making of beer is called a brewery, though beer can be made in the home and has been for much of its history. A company that makes beer is called either a brewery or a brewing company. Beer made on a domestic scale for non-commercial reasons is classified as homebrewing regardless of where it is made, though most homebrewed beer is made in the home. Brewing beer is subject to legislation and taxation in developed countries, which from the late 19th century largely restricted brewing to a commercial operation only. However, the UK government relaxed legislation in 1963, followed by Australia in 1972 and the US in 1978, allowing homebrewing to become a popular hobby.",
+    "article_title": "Beer"
+  },
+  {
+    "question_id": 128,
+    "question": "What word was dropped as a racial classification in this year's census?",
+    "ground_truth": "Mulatto",
+    "all_answers": [
+      "Mulatto"
+    ],
+    "document": "The biggest change in this year's census was in racial classification. Enumerators were instructed to no longer use the \"Mulatto\" classification. Instead, they were given special instructions for reporting the race of interracial persons. A person with both white and black ancestry (termed \"blood\") was to be recorded as \"Negro,\" no matter the fraction of that lineage (the \"one-drop rule\"). A person of mixed black and American Indian ancestry was also to be recorded as \"Neg\" (for \"Negro\") unless he was considered to be \"predominantly\" American Indian and accepted as such within the community. A person with both White and American Indian ancestry was to be recorded as an Indian, unless his American Indian ancestry was small, and he was accepted as white within the community. In all situations in which a person had White and some other racial ancestry, he was to be reported as that other race. Persons who had minority interracial ancestry were to be reported as the race of their father.",
+    "article_title": "Race_and_ethnicity_in_the_United_States_Census"
+  },
+  {
+    "question_id": 129,
+    "question": "What is the US dollar based upon?",
+    "ground_truth": "a decimal system of values",
+    "all_answers": [
+      "a decimal system of values"
+    ],
+    "document": "Unlike the Spanish milled dollar the U.S. dollar is based upon a decimal system of values. In addition to the dollar the coinage act officially established monetary units of mill or one-thousandth of a dollar (symbol ₥), cent or one-hundredth of a dollar (symbol ¢), dime or one-tenth of a dollar, and eagle or ten dollars, with prescribed weights and composition of gold, silver, or copper for each. It was proposed in the mid-1800s that one hundred dollars be known as a union, but no union coins were ever struck and only patterns for the $50 half union exist. However, only cents are in everyday use as divisions of the dollar; \"dime\" is used solely as the name of the coin with the value of 10¢, while \"eagle\" and \"mill\" are largely unknown to the general public, though mills are sometimes used in matters of tax levies, and gasoline prices are usually in the form of $X.XX9 per gallon, e.g., $3.599, sometimes written as $3.599⁄10. When currently issued in circulating form, denominations equal to or less than a dollar are emitted as U.S. coins while denominations equal to or greater than a dollar are emitted as Federal Reserve notes (with the exception of gold, silver and platinum coins valued up to $100 as legal tender, but worth far more as bullion). Both one-dollar coins and notes are produced today, although the note form is significantly more common. In the past, \"paper money\" was occasionally issued in denominations less than a dollar (fractional currency) and gold coins were issued for circulation up to the value of $20 (known as the \"double eagle\", discontinued in the 1930s). The term eagle was used in the Coinage Act of 1792 for the denomination of ten dollars, and subsequently was used in naming gold coins. Paper currency less than one dollar in denomination, known as \"fractional currency\", was also sometimes pejoratively referred to as \"shinplasters\". In 1854, James Guthrie, then Secretary of the Treasury, proposed creating $100, $50 and $25 gold coins, which were referred to as a \"Union\", \"Half Union\", and \"Quarter Union\", thus implying a denomination of 1 Union = $100.",
+    "article_title": "United_States_dollar"
+  },
+  {
+    "question_id": 130,
+    "question": "When was the Royal College of Chemistry established?",
+    "ground_truth": "1845",
+    "all_answers": [
+      "1845"
+    ],
+    "document": "The Royal College of Chemistry was established by private subscription in 1845 as there was a growing awareness that practical aspects of the experimental sciences were not well taught and that in the United Kingdom the teaching of chemistry in particular had fallen behind that in Germany. As a result of a movement earlier in the decade, many politicians donated funds to establish the college, including Benjamin Disraeli, William Gladstone and Robert Peel. It was also supported by Prince Albert, who persuaded August Wilhelm von Hofmann to be the first professor.",
+    "article_title": "Imperial_College_London"
+  },
+  {
+    "question_id": 131,
+    "question": "What is the maximum length of the runway gymnasts sprint down before hurdling onto a spring board?",
+    "ground_truth": "25 meters",
+    "all_answers": [
+      "25 meters"
+    ],
+    "document": "Gymnasts sprint down a runway, which is a maximum of 25 meters in length, before hurdling onto a spring board. The gymnast is allowed to choose where they start on the runway. The body position is maintained while \"punching\" (blocking using only a shoulder movement) the vaulting platform. The gymnast then rotates to a standing position. In advanced gymnastics, multiple twists and somersaults may be added before landing. Successful vaults depend on the speed of the run, the length of the hurdle, the power the gymnast generates from the legs and shoulder girdle, the kinesthetic awareness in the air, and the speed of rotation in the case of more difficult and complex vaults.",
+    "article_title": "Gymnastics"
+  },
+  {
+    "question_id": 132,
+    "question": "Where did the Duke of Brunswick-Lüneburg move his residence to?",
+    "ground_truth": "Hanover",
+    "all_answers": [
+      "Hanover"
+    ],
+    "document": "In 1636 George, Duke of Brunswick-Lüneburg, ruler of the Brunswick-Lüneburg principality of Calenberg, moved his residence to Hanover. The Dukes of Brunswick-Lüneburg were elevated by the Holy Roman Emperor to the rank of Prince-Elector in 1692, and this elevation was confirmed by the Imperial Diet in 1708. Thus the principality was upgraded to the Electorate of Brunswick-Lüneburg, colloquially known as the Electorate of Hanover after Calenberg's capital (see also: House of Hanover). Its electors would later become monarchs of Great Britain (and from 1801, of the United Kingdom of Great Britain and Ireland). The first of these was George I Louis, who acceded to the British throne in 1714. The last British monarch who ruled in Hanover was William IV. Semi-Salic law, which required succession by the male line if possible, forbade the accession of Queen Victoria in Hanover. As a male-line descendant of George I, Queen Victoria was herself a member of the House of Hanover. Her descendants, however, bore her husband's titular name of Saxe-Coburg-Gotha. Three kings of Great Britain, or the United Kingdom, were concurrently also Electoral Princes of Hanover.",
+    "article_title": "Hanover"
+  },
+  {
+    "question_id": 133,
+    "question": "What system of the body is related to emotion's physiology?",
+    "ground_truth": "nervous",
+    "all_answers": [
+      "nervous"
+    ],
+    "document": "Emotions are complex. According to some theories, they are a state of feeling that results in physical and psychological changes that influence our behavior. The physiology of emotion is closely linked to arousal of the nervous system with various states and strengths of arousal relating, apparently, to particular emotions. Emotion is also linked to behavioral tendency. Extroverted people are more likely to be social and express their emotions, while introverted people are more likely to be more socially withdrawn and conceal their emotions. Emotion is often the driving force behind motivation, positive or negative. Definition has been described as is a \"positive or negative experience that is associated with a particular pattern of physiological activity.\" According to other theories, emotions are not causal forces but simply syndromes of components, which might include motivation, feeling, behavior, and physiological changes, but no one of these components is the emotion. Nor is the emotion an entity that causes these components",
+    "article_title": "Emotion"
+  },
+  {
+    "question_id": 134,
+    "question": "How many Copa del Rey trophies has Barcelona won?",
+    "ground_truth": "27",
+    "all_answers": [
+      "27"
+    ],
+    "document": "Domestically, Barcelona has won 23 La Liga, 27 Copa del Rey, 11 Supercopa de España, 3 Copa Eva Duarte and 2 Copa de la Liga trophies, as well as being the record holder for the latter four competitions. In international club football, Barcelona has won five UEFA Champions League titles, a record four UEFA Cup Winners' Cup, a shared record five UEFA Super Cup, a record three Inter-Cities Fairs Cup and a record three FIFA Club World Cup trophies. Barcelona was ranked first in the IFFHS Club World Ranking for 1997, 2009, 2011, 2012 and 2015 and currently occupies the second position on the UEFA club rankings. The club has a long-standing rivalry with Real Madrid; matches between the two teams are referred to as El Clásico.",
+    "article_title": "FC_Barcelona"
+  },
+  {
+    "question_id": 135,
+    "question": "When was Everton admitted as a member of the Premier League?",
+    "ground_truth": "1992",
+    "all_answers": [
+      "1992"
+    ],
+    "document": "Everton were founder members of the Premier League in 1992, but struggled to find the right manager. Howard Kendall had returned in 1990 but could not repeat his previous success, while his successor, Mike Walker, was statistically the least successful Everton manager to date. When former Everton player Joe Royle took over in 1994 the club's form started to improve; his first game in charge was a 2–0 victory over derby rivals Liverpool. Royle dragged Everton clear of relegation, leading the club to the FA Cup for the fifth time in its history, defeating Manchester United 1–0 in the final.",
+    "article_title": "Everton_F.C."
+  },
+  {
+    "question_id": 136,
+    "question": "What is the name of the English language's earliest form?",
+    "ground_truth": "Old English",
+    "all_answers": [
+      "Old English"
+    ],
+    "document": "Old English (Ænglisc, Anglisc, Englisc) or Anglo-Saxon is the earliest historical form of the English language, spoken in England and southern and eastern Scotland in the early Middle Ages. It was brought to Great Britain by Anglo-Saxon settlers probably in the mid 5th century, and the first Old English literary works date from the mid 7th century. After the Norman Conquest of 1066, English was replaced for a time as the language of the upper classes by Anglo-Norman, a relative of French, and Old English developed into the next historical form of English, known as Middle English.",
+    "article_title": "Old_English"
+  },
+  {
+    "question_id": 137,
+    "question": "What type of carrier is the largest?",
+    "ground_truth": "fleet carrier",
+    "all_answers": [
+      "fleet carrier"
+    ],
+    "document": "A fleet carrier is intended to operate with the main fleet and usually provides an offensive capability. These are the largest carriers capable of fast speeds. By comparison, escort carriers were developed to provide defense for convoys of ships. They were smaller and slower with lower numbers of aircraft carried. Most were built from mercantile hulls or, in the case of merchant aircraft carriers, were bulk cargo ships with a flight deck added on top. Light aircraft carriers were carriers that were fast enough to operate with the fleet but of smaller size with reduced aircraft capacity. Soviet aircraft carriers now in use by Russia are actually called heavy aviation cruisers, these ships while sized in the range of large fleet carriers were designed to deploy alone or with escorts and provide both strong defensive weaponry and heavy offensive missiles equivalent to a guided missile cruiser in addition to supporting fighters and helicopters.",
+    "article_title": "Aircraft_carrier"
+  },
+  {
+    "question_id": 138,
+    "question": "When did two whisleblowers allege that Boutris  attempted to ground Southwest Airlines?",
+    "ground_truth": "2007",
+    "all_answers": [
+      "2007"
+    ],
+    "document": "In 2007, two FAA whistleblowers, inspectors Charalambe \"Bobby\" Boutris and Douglas E. Peters, alleged that Boutris said he attempted to ground Southwest after finding cracks in the fuselage, but was prevented by supervisors he said were friendly with the airline. This was validated by a report by the Department of Transportation which found FAA managers had allowed Southwest Airlines to fly 46 airplanes in 2006 and 2007 that were overdue for safety inspections, ignoring concerns raised by inspectors. Audits of other airlines resulted in two airlines grounding hundreds of planes, causing thousands of flight cancellations. The House Transportation and Infrastructure Committee held hearings in April 2008. Jim Oberstar, former chairman of the committee said its investigation uncovered a pattern of regulatory abuse and widespread regulatory lapses, allowing 117 aircraft to be operated commercially although not in compliance with FAA safety rules. Oberstar said there was a \"culture of coziness\" between senior FAA officials and the airlines and \"a systematic breakdown\" in the FAA's culture that resulted in \"malfeasance, bordering on corruption.\" In 2008 the FAA proposed to fine Southwest $10.2 million for failing to inspect older planes for cracks, and in 2009 Southwest and the FAA agreed that Southwest would pay a $7.5 million penalty and would adopt new safety procedures, with the fine doubling if Southwest failed to follow through.",
+    "article_title": "Federal_Aviation_Administration"
+  },
+  {
+    "question_id": 139,
+    "question": "In what year did Blackpool and Blackburn become independent unitary authorities?",
+    "ground_truth": "1998",
+    "all_answers": [
+      "1998"
+    ],
+    "document": "The boroughs of Liverpool, Knowsley, St Helens and Sefton were included in Merseyside. In Greater Manchester the successor boroughs were Bury, Bolton, Manchester, Oldham (part), Rochdale, Salford, Tameside (part), Trafford (part) and Wigan. Warrington and Widnes, south of the new Merseyside/Greater Manchester border were added to the new non-metropolitan county of Cheshire. The urban districts of Barnoldswick and Earby, Bowland Rural District and the parishes of Bracewell and Brogden and Salterforth from Skipton Rural District in the West Riding of Yorkshire became part of the new Lancashire. One parish, Simonswood, was transferred from the borough of Knowsley in Merseyside to the district of West Lancashire in 1994. In 1998 Blackpool and Blackburn with Darwen became independent unitary authorities.",
+    "article_title": "Lancashire"
+  },
+  {
+    "question_id": 140,
+    "question": "What era was 250 million to 247 million years ago?",
+    "ground_truth": "Early Triassic",
+    "all_answers": [
+      "Early Triassic"
+    ],
+    "document": "The Early Triassic was between 250 million to 247 million years ago and was dominated by deserts as Pangaea had not yet broken up, thus the interior was nothing but arid. The Earth had just witnessed a massive die-off in which 95% of all life went extinct. The most common life on earth were Lystrosaurus, Labyrinthodont, and Euparkeria along with many other creatures that managed to survive the Great Dying. Temnospondyli evolved during this time and would be the dominant predator for much of the Triassic.",
+    "article_title": "Mesozoic"
+  },
+  {
+    "question_id": 141,
+    "question": "In what decade was digital telephony transmission made possible?",
+    "ground_truth": "the 1980s",
+    "all_answers": [
+      "the 1980s"
+    ],
+    "document": "It was only in the 1980s that digital telephony transmission networks became possible, such as with ISDN networks, assuring a minimum bit rate (usually 128 kilobits/s) for compressed video and audio transmission. During this time, there was also research into other forms of digital video and audio communication. Many of these technologies, such as the Media space, are not as widely used today as videoconferencing but were still an important area of research. The first dedicated systems started to appear in the market as ISDN networks were expanding throughout the world. One of the first commercial videoconferencing systems sold to companies came from PictureTel Corp., which had an Initial Public Offering in November, 1984.",
+    "article_title": "Videoconferencing"
+  },
+  {
+    "question_id": 142,
+    "question": "What does duel dating use to show the date?",
+    "ground_truth": "two consecutive years",
+    "all_answers": [
+      "two consecutive years"
+    ],
+    "document": "To unambiguously specify the date, dual dating or Old Style (O.S.) and New Style (N.S.) are sometimes used with dates. Dual dating uses two consecutive years because of differences in the starting date of the year, or includes both the Julian and Gregorian dates. Old Style and New Style (N.S.) indicate either whether the start of the Julian year has been adjusted to start on 1 January (N.S.) even though documents written at the time use a different start of year (O.S.), or whether a date conforms to the Julian calendar (O.S.) rather than the Gregorian (N.S.).",
+    "article_title": "Gregorian_calendar"
+  },
+  {
+    "question_id": 143,
+    "question": "What Microsoft executive was in charge of 360 development?",
+    "ground_truth": "J Allard",
+    "all_answers": [
+      "J Allard"
+    ],
+    "document": "Known during development as Xbox Next, Xenon, Xbox 2, Xbox FS or NextBox, the Xbox 360 was conceived in early 2003. In February 2003, planning for the Xenon software platform began, and was headed by Microsoft's Vice President J Allard. That month, Microsoft held an event for 400 developers in Bellevue, Washington to recruit support for the system. Also that month, Peter Moore, former president of Sega of America, joined Microsoft. On August 12, 2003, ATI signed on to produce the graphic processing unit for the new console, a deal which was publicly announced two days later. Before the launch of the Xbox 360, several Alpha development kits were spotted using Apple's Power Mac G5 hardware. This was because the system's PowerPC 970 processor running the same PowerPC architecture that the Xbox 360 would eventually run under IBM's Xenon processor. The cores of the Xenon processor were developed using a slightly modified version of the PlayStation 3's Cell Processor PPE architecture. According to David Shippy and Mickie Phipps, the IBM employees were \"hiding\" their work from Sony and Toshiba, IBM's partners in developing the Cell Processor. Jeff Minter created the music visualization program Neon which is included with the Xbox 360.",
+    "article_title": "Xbox_360"
+  },
+  {
+    "question_id": 144,
+    "question": "When did wars between Britain and France in North America start?",
+    "ground_truth": "1689",
+    "all_answers": [
+      "1689"
+    ],
+    "document": "Beginning in 1689, the colonies became involved in a series of wars between Great Britain and France for control of North America, the most important of which were Queen Anne's War, in which the British conquered French colony Acadia, and the final French and Indian War (1754–63) when Britain was victorious over all the French colonies in North America. This final war was to give thousands of colonists, including Virginia colonel George Washington, military experience which they put to use during the American Revolutionary War.",
+    "article_title": "Military_history_of_the_United_States"
+  },
+  {
+    "question_id": 145,
+    "question": "Where was the band Blue Cheer from?",
+    "ground_truth": "San Francisco",
+    "all_answers": [
+      "San Francisco"
+    ],
+    "document": "Groups that emerged from the American psychedelic scene about the same time included Iron Butterfly, MC5, Blue Cheer and Vanilla Fudge. San Francisco band Blue Cheer released a crude and distorted cover of Eddie Cochran's classic \"Summertime Blues\", from their 1968 debut album Vincebus Eruptum, that outlined much of the later hard rock and heavy metal sound. The same month, Steppenwolf released its self-titled debut album, including \"Born to Be Wild\", which contained the first lyrical reference to heavy metal and helped popularise the style when it was used in the film Easy Rider (1969). Iron Butterfly's In-A-Gadda-Da-Vida (1968), with its 17-minute-long title track, using organs and with a lengthy drum solo, also prefigured later elements of the sound.",
+    "article_title": "Hard_rock"
+  },
+  {
+    "question_id": 146,
+    "question": "what is the name of the region east of the Rocky Mountains?",
+    "ground_truth": "\"Great Plains",
+    "all_answers": [
+      "\"Great Plains"
+    ],
+    "document": "The term \"Great Plains\", for the region west of about the 96th or 98th meridian and east of the Rocky Mountains, was not generally used before the early 20th century. Nevin Fenneman's 1916 study, Physiographic Subdivision of the United States, brought the term Great Plains into more widespread usage. Before that the region was almost invariably called the High Plains, in contrast to the lower Prairie Plains of the Midwestern states. Today the term \"High Plains\" is used for a subregion of the Great Plains.",
+    "article_title": "Great_Plains"
+  },
+  {
+    "question_id": 147,
+    "question": "What technology is used by night-vision devices?",
+    "ground_truth": "active near-infrared illumination",
+    "all_answers": [
+      "active near-infrared illumination"
+    ],
+    "document": "Infrared radiation is used in industrial, scientific, and medical applications. Night-vision devices using active near-infrared illumination allow people or animals to be observed without the observer being detected. Infrared astronomy uses sensor-equipped telescopes to penetrate dusty regions of space, such as molecular clouds; detect objects such as planets, and to view highly red-shifted objects from the early days of the universe. Infrared thermal-imaging cameras are used to detect heat loss in insulated systems, to observe changing blood flow in the skin, and to detect overheating of electrical apparatus.",
+    "article_title": "Infrared"
+  },
+  {
+    "question_id": 148,
+    "question": "What term refers to  the variety and variability of life on Earth?",
+    "ground_truth": "Biodiversity",
+    "all_answers": [
+      "Biodiversity"
+    ],
+    "document": "Biodiversity, a contraction of \"biological diversity,\" generally refers to the variety and variability of life on Earth. One of the most widely used definitions defines it in terms of the variability within species, between species, and between ecosystems. It is a measure of the variety of organisms present in different ecosystems. This can refer to genetic variation, ecosystem variation, or species variation (number of species) within an area, biome, or planet. Terrestrial biodiversity tends to be greater near the equator, which seems to be the result of the warm climate and high primary productivity. Biodiversity is not distributed evenly on Earth. It is richest in the tropics. Marine biodiversity tends to be highest along coasts in the Western Pacific, where sea surface temperature is highest and in the mid-latitudinal band in all oceans. There are latitudinal gradients in species diversity. Biodiversity generally tends to cluster in hotspots, and has been increasing through time, but will be likely to slow in the future.",
+    "article_title": "Biodiversity"
+  },
+  {
+    "question_id": 149,
+    "question": "What is the ASCII based on?",
+    "ground_truth": "English alphabet",
+    "all_answers": [
+      "English alphabet"
+    ],
+    "document": "Originally based on the English alphabet, ASCII encodes 128 specified characters into seven-bit integers as shown by the ASCII chart on the right. The characters encoded are numbers 0 to 9, lowercase letters a to z, uppercase letters A to Z, basic punctuation symbols, control codes that originated with Teletype machines, and a space. For example, lowercase j would become binary 1101010 and decimal 106. ASCII includes definitions for 128 characters: 33 are non-printing control characters (many now obsolete) that affect how text and space are processed and 95 printable characters, including the space (which is considered an invisible graphic:223).",
+    "article_title": "ASCII"
+  },
+  {
+    "question_id": 150,
+    "question": "What is the first step in the human digestive system?",
+    "ground_truth": "the action of mastication (chewing)",
+    "all_answers": [
+      "the action of mastication (chewing)"
+    ],
+    "document": "In the human digestive system, food enters the mouth and mechanical digestion of the food starts by the action of mastication (chewing), a form of mechanical digestion, and the wetting contact of saliva. Saliva, a liquid secreted by the salivary glands, contains salivary amylase, an enzyme which starts the digestion of starch in the food; the saliva also contains mucus, which lubricates the food, and hydrogen carbonate, which provides the ideal conditions of pH (alkaline) for amylase to work. After undergoing mastication and starch digestion, the food will be in the form of a small, round slurry mass called a bolus. It will then travel down the esophagus and into the stomach by the action of peristalsis. Gastric juice in the stomach starts protein digestion. Gastric juice mainly contains hydrochloric acid and pepsin. As these two chemicals may damage the stomach wall, mucus is secreted by the stomach, providing a slimy layer that acts as a shield against the damaging effects of the chemicals. At the same time protein digestion is occurring, mechanical mixing occurs by peristalsis, which is waves of muscular contractions that move along the stomach wall. This allows the mass of food to further mix with the digestive enzymes.",
+    "article_title": "Digestion"
+  },
+  {
+    "question_id": 151,
+    "question": "What tool did Hoover use to find bootleggers?",
+    "ground_truth": "wiretapping",
+    "all_answers": [
+      "wiretapping"
+    ],
+    "document": "Hoover began using wiretapping in the 1920s during Prohibition to arrest bootleggers. In the 1927 case Olmstead v. United States, in which a bootlegger was caught through telephone tapping, the United States Supreme Court ruled that FBI wiretaps did not violate the Fourth Amendment as unlawful search and seizure, as long as the FBI did not break into a person's home to complete the tapping. After Prohibition's repeal, Congress passed the Communications Act of 1934, which outlawed non-consensual phone tapping, but allowed bugging. In the 1939 case Nardone v. United States, the court ruled that due to the 1934 law, evidence the FBI obtained by phone tapping was inadmissible in court. After the 1967 case Katz v. United States overturned the 1927 case that had allowed bugging, Congress passed the Omnibus Crime Control Act, allowing public authorities to tap telephones during investigations as long as they obtain a warrant beforehand.",
+    "article_title": "Federal_Bureau_of_Investigation"
+  },
+  {
+    "question_id": 152,
+    "question": "Adolescene is viewed as what?",
+    "ground_truth": "a transitional period between childhood and adulthood",
+    "all_answers": [
+      "a transitional period between childhood and adulthood"
+    ],
+    "document": "A thorough understanding of adolescence in society depends on information from various perspectives, including psychology, biology, history, sociology, education, and anthropology. Within all of these perspectives, adolescence is viewed as a transitional period between childhood and adulthood, whose cultural purpose is the preparation of children for adult roles. It is a period of multiple transitions involving education, training, employment and unemployment, as well as transitions from one living circumstance to another.",
+    "article_title": "Adolescence"
+  },
+  {
+    "question_id": 153,
+    "question": "What type of land is Antarctica considered to be?",
+    "ground_truth": "desert",
+    "all_answers": [
+      "desert"
+    ],
+    "document": "Antarctica, on average, is the coldest, driest, and windiest continent, and has the highest average elevation of all the continents. Antarctica is considered a desert, with annual precipitation of only 200 mm (8 in) along the coast and far less inland. The temperature in Antarctica has reached −89.2 °C (−128.6 °F), though the average for the third quarter (the coldest part of the year) is −63 °C (−81 °F). There are no permanent human residents, but anywhere from 1,000 to 5,000 people reside throughout the year at the research stations scattered across the continent. Organisms native to Antarctica include many types of algae, bacteria, fungi, plants, protista, and certain animals, such as mites, nematodes, penguins, seals and tardigrades. Vegetation, where it occurs, is tundra.",
+    "article_title": "Antarctica"
+  },
+  {
+    "question_id": 154,
+    "question": "Who were Mary's parents?",
+    "ground_truth": "Saint Joachim and Saint Anne",
+    "all_answers": [
+      "Saint Joachim and Saint Anne"
+    ],
+    "document": "According to the apocryphal Gospel of James, Mary was the daughter of Saint Joachim and Saint Anne. Before Mary's conception, Anne had been barren and was far advanced in years. Mary was given to service as a consecrated virgin in the Temple in Jerusalem when she was three years old, much like Hannah took Samuel to the Tabernacle as recorded in the Old Testament. Some apocryphal accounts state that at the time of her betrothal to Joseph, Mary was 12–14 years old, and he was thirty years old, but such accounts are unreliable.",
+    "article_title": "Mary_(mother_of_Jesus)"
+  },
+  {
+    "question_id": 155,
+    "question": "What is the second busiest airport in Australia?",
+    "ground_truth": "Melbourne Airport",
+    "all_answers": [
+      "Melbourne Airport"
+    ],
+    "document": "The main passenger airport serving the metropolis and the state is Melbourne Airport (also called Tullamarine Airport), which is the second busiest in Australia, and the Port of Melbourne is Australia's busiest seaport for containerised and general cargo. Melbourne has an extensive transport network. The main metropolitan train terminus is Flinders Street Station, and the main regional train and coach terminus is Southern Cross Station. Melbourne is also home to Australia's most extensive freeway network and has the world's largest urban tram network.",
+    "article_title": "Melbourne"
+  },
+  {
+    "question_id": 156,
+    "question": "When was John born?",
+    "ground_truth": "24 December 1166",
+    "all_answers": [
+      "24 December 1166"
+    ],
+    "document": "John was born to Henry II of England and Eleanor of Aquitaine on 24 December 1166. Henry had inherited significant territories along the Atlantic seaboard—Anjou, Normandy and England—and expanded his empire by conquering Brittany. Henry married the powerful Eleanor of Aquitaine, who reigned over the Duchy of Aquitaine and had a tenuous claim to Toulouse and Auvergne in southern France, in addition to being the former wife of Louis VII of France. The result was the Angevin Empire, named after Henry's paternal title as Count of Anjou and, more specifically, its seat in Angers.[nb 2] The Empire, however, was inherently fragile: although all the lands owed allegiance to Henry, the disparate parts each had their own histories, traditions and governance structures. As one moved south through Anjou and Aquitaine, the extent of Henry's power in the provinces diminished considerably, scarcely resembling the modern concept of an empire at all. Some of the traditional ties between parts of the empire such as Normandy and England were slowly dissolving over time. It was unclear what would happen to the empire on Henry's death. Although the custom of primogeniture, under which an eldest son would inherit all his father's lands, was slowly becoming more widespread across Europe, it was less popular amongst the Norman kings of England. Most believed that Henry would divide the empire, giving each son a substantial portion, and hoping that his children would continue to work together as allies after his death. To complicate matters, much of the Angevin empire was held by Henry only as a vassal of the King of France of the rival line of the House of Capet. Henry had often allied himself with the Holy Roman Emperor against France, making the feudal relationship even more challenging.",
+    "article_title": "John,_King_of_England"
+  },
+  {
+    "question_id": 157,
+    "question": "What hindered the competetive ability of Apple when it was introduced?",
+    "ground_truth": "expensive",
+    "all_answers": [
+      "expensive"
+    ],
+    "document": "The Macintosh, however, was expensive, which hindered its ability to be competitive in a market already dominated by the Commodore 64 for consumers, as well as the IBM Personal Computer and its accompanying clone market for businesses. Macintosh systems still found success in education and desktop publishing and kept Apple as the second-largest PC manufacturer for the next decade. In the 1990s, improvements in the rival Wintel platform, notably with the introduction of Windows 3.0, then Windows 95, gradually took market share from the more expensive Macintosh systems. The performance advantage of 68000-based Macintosh systems was eroded by Intel's Pentium, and in 1994 Apple was relegated to third place as Compaq became the top PC manufacturer. Even after a transition to the superior PowerPC-based Power Macintosh (later renamed the PowerMac, in line with the PowerBook series) line in 1994, the falling prices of commodity PC components and the release of Windows 95 saw the Macintosh user base decline.",
+    "article_title": "Macintosh"
+  },
+  {
+    "question_id": 158,
+    "question": "What is another term for anti-aircraft warfare?",
+    "ground_truth": "counter-air defence",
+    "all_answers": [
+      "counter-air defence"
+    ],
+    "document": "Anti-aircraft warfare or counter-air defence is defined by NATO as \"all measures designed to nullify or reduce the effectiveness of hostile air action.\" They include ground-and air-based weapon systems, associated sensor systems, command and control arrangements and passive measures (e.g. barrage balloons). It may be used to protect naval, ground, and air forces in any location. However, for most countries the main effort has tended to be 'homeland defence'. NATO refers to airborne air defence as counter-air and naval air defence as anti-aircraft warfare. Missile defence is an extension of air defence as are initiatives to adapt air defence to the task of intercepting any projectile in flight.",
+    "article_title": "Anti-aircraft_warfare"
+  },
+  {
+    "question_id": 159,
+    "question": "Sanskrit is the primary sacred language of which religion?",
+    "ground_truth": "Hinduism",
+    "all_answers": [
+      "Hinduism"
+    ],
+    "document": "Sanskrit (/ˈsænskrɪt/; Sanskrit: saṃskṛtam [səmskr̩t̪əm] or saṃskṛta, originally saṃskṛtā vāk, \"refined speech\") is the primary sacred language of Hinduism, a philosophical language in Buddhism, Hinduism, Sikhism and Jainism, and a literary language that was in use as a lingua franca in Greater India. It is a standardised dialect of Old Indo-Aryan, originating as Vedic Sanskrit and tracing its linguistic ancestry back to Proto-Indo-Iranian and Proto-Indo-European. Today it is listed as one of the 22 scheduled languages of India and is an official language of the state of Uttarakhand. As one of the oldest Indo-European languages for which substantial written documentation exists, Sanskrit holds a prominent position in Indo-European studies.",
+    "article_title": "Sanskrit"
+  },
+  {
+    "question_id": 160,
+    "question": "What country is Valencia in?",
+    "ground_truth": "Spain",
+    "all_answers": [
+      "Spain"
+    ],
+    "document": "Valencia (/vəˈlɛnsiə/; Spanish: [baˈlenθja]), or València (Valencian: [vaˈlensia]), is the capital of the autonomous community of Valencia and the third largest city in Spain after Madrid and Barcelona, with around 800,000 inhabitants in the administrative centre. Its urban area extends beyond the administrative city limits with a population of around 1.5 million people. Valencia is Spain's third largest metropolitan area, with a population ranging from 1.7 to 2.5 million. The city has global city status. The Port of Valencia is the 5th busiest container port in Europe and the busiest container port on the Mediterranean Sea.",
+    "article_title": "Valencia"
+  },
+  {
+    "question_id": 161,
+    "question": "During which decade did GE start manufacuring computers?",
+    "ground_truth": "1950s",
+    "all_answers": [
+      "1950s"
+    ],
+    "document": "It has been said that GE got into computer manufacturing because in the 1950s they were the largest user of computers outside the United States federal government, aside from being the first business in the world to own a computer. Its major appliance manufacturing plant \"Appliance Park\" was the first non-governmental site to host one. However, in 1970, GE sold its computer division to Honeywell, exiting the computer manufacturing industry, though it retained its timesharing operations for some years afterwards. GE was a major provider of computer timesharing services, through General Electric Information Services (GEIS, now GXS), offering online computing services that included GEnie.",
+    "article_title": "General_Electric"
+  },
+  {
+    "question_id": 162,
+    "question": "When was the Continental Army created?",
+    "ground_truth": "14 June 1775",
+    "all_answers": [
+      "14 June 1775"
+    ],
+    "document": "The Continental Army was created on 14 June 1775 by the Continental Congress as a unified army for the colonies to fight Great Britain, with George Washington appointed as its commander. The army was initially led by men who had served in the British Army or colonial militias and who brought much of British military heritage with them. As the Revolutionary War progressed, French aid, resources, and military thinking influenced the new army. A number of European soldiers came on their own to help, such as Friedrich Wilhelm von Steuben, who taught the army Prussian tactics and organizational skills.",
+    "article_title": "United_States_Army"
+  },
+  {
+    "question_id": 163,
+    "question": "Under what Prussian king did the German empire unite as a nation-state?",
+    "ground_truth": "Wilhelm I",
+    "all_answers": [
+      "Wilhelm I"
+    ],
+    "document": "The German states proclaimed their union as the German Empire under the Prussian king, Wilhelm I, uniting Germany as a nation-state. The Treaty of Frankfurt of 10 May 1871 gave Germany most of Alsace and some parts of Lorraine, which became the Imperial territory of Alsace-Lorraine (Reichsland Elsaß-Lothringen).The German conquest of France and the unification of Germany upset the European balance of power, that had existed since the Congress of Vienna in 1815 and Otto von Bismarck maintained great authority in international affairs for two decades. French determination to regain Alsace-Lorraine and fear of another Franco-German war, along with British apprehension about the balance of power, became factors in the causes of World War I.",
+    "article_title": "Franco-Prussian_War"
+  },
+  {
+    "question_id": 164,
+    "question": "Where in Eritrea did Italian scientists find one of the oldest hominids?",
+    "ground_truth": "Buya",
+    "all_answers": [
+      "Buya"
+    ],
+    "document": "At Buya in Eritrea, one of the oldest hominids representing a possible link between Homo erectus and an archaic Homo sapiens was found by Italian scientists. Dated to over 1 million years old, it is the oldest skeletal find of its kind and provides a link between hominids and the earliest anatomically modern humans. It is believed that the section of the Danakil Depression in Eritrea was also a major player in terms of human evolution, and may contain other traces of evolution from Homo erectus hominids to anatomically modern humans.",
+    "article_title": "Eritrea"
+  },
+  {
+    "question_id": 165,
+    "question": "What kind of uranium is sometimes used to shield radioactive materials in containers?",
+    "ground_truth": "Depleted",
+    "all_answers": [
+      "Depleted"
+    ],
+    "document": "Depleted uranium is also used as a shielding material in some containers used to store and transport radioactive materials. While the metal itself is radioactive, its high density makes it more effective than lead in halting radiation from strong sources such as radium. Other uses of depleted uranium include counterweights for aircraft control surfaces, as ballast for missile re-entry vehicles and as a shielding material. Due to its high density, this material is found in inertial guidance systems and in gyroscopic compasses. Depleted uranium is preferred over similarly dense metals due to its ability to be easily machined and cast as well as its relatively low cost. The main risk of exposure to depleted uranium is chemical poisoning by uranium oxide rather than radioactivity (uranium being only a weak alpha emitter).",
+    "article_title": "Uranium"
+  },
+  {
+    "question_id": 166,
+    "question": "What remained the head of state of the British Empire?",
+    "ground_truth": "the monarch",
+    "all_answers": [
+      "the monarch"
+    ],
+    "document": "Appointments to the Order of the British Empire were at first made on the nomination of the self-governing Dominions of the Empire, the Viceroy of India, and the colonial governors, as well as on nominations from within the United Kingdom. As the Empire evolved into the Commonwealth, nominations continued to come from the Commonwealth realms, in which the monarch remained head of state. These overseas nominations have been discontinued in realms that have established their own Orders—such as the Order of Australia, the Order of Canada, and the New Zealand Order of Merit—but members of the Order are still appointed in the British Overseas Territories.",
+    "article_title": "Order_of_the_British_Empire"
+  },
+  {
+    "question_id": 167,
+    "question": "What year did the Enlightenment begin according to French historians?",
+    "ground_truth": "1715",
+    "all_answers": [
+      "1715"
+    ],
+    "document": "French historians traditionally place the Enlightenment between 1715, the year that Louis XIV died, and 1789, the beginning of the French Revolution. Some recent historians begin the period in the 1620s, with the start of the scientific revolution. The Philosophes, the French term for the philosophers of the period, widely circulated their ideas through meetings at scientific academies, Masonic lodges, literary salons and coffee houses, and through printed books and pamphlets. The ideas of the Enlightenment undermined the authority of the monarchy and the church, and paved the way for the revolutions of the 18th and 19th centuries. A variety of 19th-century movements, including liberalism and neo-classicism, trace their intellectual heritage back to the Enlightenment.",
+    "article_title": "Age_of_Enlightenment"
+  },
+  {
+    "question_id": 168,
+    "question": "For what do Circadian rhythms let an organism prepare?",
+    "ground_truth": "environmental changes",
+    "all_answers": [
+      "environmental changes"
+    ],
+    "document": "Circadian rhythms allow organisms to anticipate and prepare for precise and regular environmental changes. They thus enable organisms to best capitalize on environmental resources (e.g. light and food) compared to those that cannot predict such availability. It has therefore been suggested that circadian rhythms put organisms at a selective advantage in evolutionary terms. However, rhythmicity appears to be as important in regulating and coordinating internal metabolic processes, as in coordinating with the environment. This is suggested by the maintenance (heritability) of circadian rhythms in fruit flies after several hundred generations in constant laboratory conditions, as well as in creatures in constant darkness in the wild, and by the experimental elimination of behavioral, but not physiological, circadian rhythms in quail.",
+    "article_title": "Circadian_rhythm"
+  },
+  {
+    "question_id": 169,
+    "question": "Who is the world's oldest reigning monarch?",
+    "ground_truth": "Elizabeth",
+    "all_answers": [
+      "Elizabeth"
+    ],
+    "document": "Elizabeth's many historic visits and meetings include a state visit to the Republic of Ireland and reciprocal visits to and from the Pope. She has seen major constitutional changes, such as devolution in the United Kingdom, Canadian patriation, and the decolonisation of Africa. She has also reigned through various wars and conflicts involving many of her realms. She is the world's oldest reigning monarch as well as Britain's longest-lived. In 2015, she surpassed the reign of her great-great-grandmother, Queen Victoria, to become the longest-reigning British head of state and the longest-reigning queen regnant in world history.",
+    "article_title": "Elizabeth_II"
+  },
+  {
+    "question_id": 170,
+    "question": "What three factors do scientists believe are the cause of sexual orientation?",
+    "ground_truth": "genetic, hormonal, and environmental",
+    "all_answers": [
+      "genetic, hormonal, and environmental"
+    ],
+    "document": "Scientists do not know the exact cause of sexual orientation, but they believe that it is caused by a complex interplay of genetic, hormonal, and environmental influences. They favor biologically-based theories, which point to genetic factors, the early uterine environment, both, or the inclusion of genetic and social factors. There is no substantive evidence which suggests parenting or early childhood experiences play a role when it comes to sexual orientation. Research over several decades has demonstrated that sexual orientation ranges along a continuum, from exclusive attraction to the opposite sex to exclusive attraction to the same sex.",
+    "article_title": "Sexual_orientation"
+  },
+  {
+    "question_id": 171,
+    "question": "What number was dell on the Fortune 500 list until 2014?",
+    "ground_truth": "51",
+    "all_answers": [
+      "51"
+    ],
+    "document": "Dell was listed at number 51 in the Fortune 500 list, until 2014. After going private in 2013, the newly confidential nature of its financial information prevents the company from being ranked by Fortune. In 2014 it was the third largest PC vendor in the world after Lenovo and HP. Dell is currently the #1 shipper of PC monitors in the world. Dell is the sixth largest company in Texas by total revenue, according to Fortune magazine. It is the second largest non-oil company in Texas – behind AT&T – and the largest company in the Greater Austin area. It was a publicly traded company (NASDAQ: DELL), as well as a component of the NASDAQ-100 and S&P 500, until it was taken private in a leveraged buyout which closed on October 30, 2013.",
+    "article_title": "Dell"
+  },
+  {
+    "question_id": 172,
+    "question": "What process begins after a death sentence is handed down at trial?",
+    "ground_truth": "direct review",
+    "all_answers": [
+      "direct review"
+    ],
+    "document": "If a defendant is sentenced to death at the trial level, the case then goes into a direct review. The direct review process is a typical legal appeal. An appellate court examines the record of evidence presented in the trial court and the law that the lower court applied and decides whether the decision was legally sound or not. Direct review of a capital sentencing hearing will result in one of three outcomes. If the appellate court finds that no significant legal errors occurred in the capital sentencing hearing, the appellate court will affirm the judgment, or let the sentence stand. If the appellate court finds that significant legal errors did occur, then it will reverse the judgment, or nullify the sentence and order a new capital sentencing hearing. Lastly, if the appellate court finds that no reasonable juror could find the defendant eligible for the death penalty, a rarity, then it will order the defendant acquitted, or not guilty, of the crime for which he/she was given the death penalty, and order him sentenced to the next most severe punishment for which the offense is eligible. About 60 percent survive the process of direct review intact.",
+    "article_title": "Capital_punishment_in_the_United_States"
+  },
+  {
+    "question_id": 173,
+    "question": "Who attached a Game & Watch D-pad to the Famicom prototype?",
+    "ground_truth": "Katsuyah Nakawaka",
+    "all_answers": [
+      "Katsuyah Nakawaka"
+    ],
+    "document": "The game pad controllers were more-or-less copied directly from the Game & Watch machines, although the Famicom design team originally wanted to use arcade-style joysticks, even taking apart ones from American game consoles to see how they worked. However, it was eventually decided that children might step on joysticks left on the floor and their durability was also questioned. Katsuyah Nakawaka attached a Game & Watch D-pad to the Famicom prototype and found that it was easy to use and had no discomfort. Ultimately though, they did install a 15-pin expansion port on the front of the console so that an arcade-style joystick could be used optionally. The controllers were hard-wired to the console with no connectors for cost reasons.",
+    "article_title": "Nintendo_Entertainment_System"
+  },
+  {
+    "question_id": 174,
+    "question": "According to Sergio DellaPergola, what percent of Jews worldwide do Ashkenazi Jews's make up?",
+    "ground_truth": "74%",
+    "all_answers": [
+      "74%"
+    ],
+    "document": "It is estimated that in the 11th century Ashkenazi Jews composed only three percent of the world's Jewish population, while at their peak in 1931 they accounted for 92 percent of the world's Jews. Immediately prior to the Holocaust, the number of Jews in the world stood at approximately 16.7 million. Statistical figures vary for the contemporary demography of Ashkenazi Jews, oscillating between 10 million and 11.2 million. Sergio DellaPergola in a rough calculation of Sephardic and Mizrahi Jews, implies that Ashkenazi make up less than 74% of Jews worldwide. Other estimates place Ashkenazi Jews as making up about 75% of Jews worldwide.",
+    "article_title": "Ashkenazi_Jews"
+  },
+  {
+    "question_id": 175,
+    "question": "Who was the twentieth bishop of Alexandria?",
+    "ground_truth": "Saint Athanasius of Alexandria",
+    "all_answers": [
+      "Saint Athanasius of Alexandria"
+    ],
+    "document": "Saint Athanasius of Alexandria (/ˌæθəˈneɪʃəs/; Greek: Ἀθανάσιος Ἀλεξανδρείας, Athanásios Alexandrías; c. 296–298 – 2 May 373), also called Athanasius the Great, Athanasius the Confessor or, primarily in the Coptic Orthodox Church, Athanasius the Apostolic, was the twentieth bishop of Alexandria (as Athanasius I). His episcopate lasted 45 years (c. 8 June 328 – 2 May 373), of which over 17 were spent in five exiles ordered by four different Roman emperors. Athanasius is a renowned Christian theologian, a Church Father, the chief defender of Trinitarianism against Arianism, and a noted Egyptian leader of the fourth century.",
+    "article_title": "Athanasius_of_Alexandria"
+  },
+  {
+    "question_id": 176,
+    "question": "To what golden event was Seattle the portal?",
+    "ground_truth": "Klondike Gold Rush",
+    "all_answers": [
+      "Klondike Gold Rush"
+    ],
+    "document": "Logging was Seattle's first major industry, but by the late 19th century the city had become a commercial and shipbuilding center as a gateway to Alaska during the Klondike Gold Rush. By 1910, Seattle was one of the 25 largest cities in the country. However, the Great Depression severely damaged the city's economy. Growth returned during and after World War II, due partially to the local Boeing company, which established Seattle as a center for aircraft manufacturing. The Seattle area developed as a technology center beginning in the 1980s, with companies like Microsoft becoming established in the region. In 1994 the Internet retail giant Amazon was founded in Seattle. The stream of new software, biotechnology, and Internet companies led to an economic revival, which increased the city's population by almost 50,000 between 1990 and 2000.",
+    "article_title": "Seattle"
+  },
+  {
+    "question_id": 177,
+    "question": "Which three processes does phychology recognize as memory?",
+    "ground_truth": "process in which information is encoded, stored, and retrieved.",
+    "all_answers": [
+      "process in which information is encoded, stored, and retrieved."
+    ],
+    "document": "In psychology, memory is the process in which information is encoded, stored, and retrieved. Encoding allows information from the outside world to be sensed in the form of chemical and physical stimuli. In the first stage the information must be changed so that it may be put into the encoding process. Storage is the second memory stage or process. This entails that information is maintained over short periods of time. Finally the third process is the retrieval of information that has been stored. Such information must be located and returned to the consciousness. Some retrieval attempts may be effortless due to the type of information, and other attempts to remember stored information may be more demanding for various reasons.",
+    "article_title": "Memory"
+  },
+  {
+    "question_id": 178,
+    "question": "When was the first federal population census taken in the US?",
+    "ground_truth": "1790",
+    "all_answers": [
+      "1790"
+    ],
+    "document": "In 1790, the first federal population census was taken in the United States. Enumerators were instructed to classify free residents as white or \"other.\" Only the heads of households were identified by name in the federal census until 1850. Native Americans were included among \"Other;\" in later censuses, they were included as \"Free people of color\" if they were not living on Indian reservations. Slaves were counted separately from free persons in all the censuses until the Civil War and end of slavery. In later censuses, people of African descent were classified by appearance as mulatto (which recognized visible European ancestry in addition to African) or black.",
+    "article_title": "Multiracial_American"
+  },
+  {
+    "question_id": 179,
+    "question": "Who identified the active substance?",
+    "ground_truth": "John Abel",
+    "all_answers": [
+      "John Abel"
+    ],
+    "document": "By the 1890s the profound effect of adrenal extracts on many different tissue types had been discovered, setting off a search both for the mechanism of chemical signalling and efforts to exploit these observations for the development of new drugs. The blood pressure raising and vasoconstrictive effects of adrenal extracts were of particular interest to surgeons as hemostatic agents and as treatment for shock, and a number of companies developed products based on adrenal extracts containing varying purities of the active substance. In 1897 John Abel of Johns Hopkins University identified the active principle as epinephrine, which he isolated in an impure state as the sulfate salt. Industrial chemist Jokichi Takamine later developed a method for obtaining epinephrine in a pure state, and licensed the technology to Parke Davis. Parke Davis marketed epinephrine under the trade name Adrenalin. Injected epinephrine proved to be especially efficacious for the acute treatment of asthma attacks, and an inhaled version was sold in the United States until 2011 (Primatene Mist). By 1929 epinephrine had been formulated into an inhaler for use in the treatment of nasal congestion.",
+    "article_title": "Pharmaceutical_industry"
+  },
+  {
+    "question_id": 180,
+    "question": "In what year CE did the Second Muslim Civil War end?",
+    "ground_truth": "692",
+    "all_answers": [
+      "692"
+    ],
+    "document": "The rivalries between the Arab tribes had caused unrest in the provinces outside Syria, most notably in the Second Muslim Civil War of 680–692 CE and the Berber Revolt of 740–743 CE. During the Second Civil War, leadership of the Umayyad clan shifted from the Sufyanid branch of the family to the Marwanid branch. As the constant campaigning exhausted the resources and manpower of the state, the Umayyads, weakened by the Third Muslim Civil War of 744–747 CE, were finally toppled by the Abbasid Revolution in 750 CE/132 AH. A branch of the family fled across North Africa to Al-Andalus, where they established the Caliphate of Córdoba, which lasted until 1031 before falling due to the Fitna of al-Ándalus.",
+    "article_title": "Umayyad_Caliphate"
+  },
+  {
+    "question_id": 181,
+    "question": "What is another term for asphalt?",
+    "ground_truth": "bitumen",
+    "all_answers": [
+      "bitumen"
+    ],
+    "document": "Asphalt/bitumen also occurs in unconsolidated sandstones known as \"oil sands\" in Alberta, Canada, and the similar \"tar sands\" in Utah, US. The Canadian province of Alberta has most of the world's reserves of natural bitumen, in three huge deposits covering 142,000 square kilometres (55,000 sq mi), an area larger than England or New York state. These bituminous sands contain 166 billion barrels (26.4×10^9 m3) of commercially established oil reserves, giving Canada the third largest oil reserves in the world. and produce over 2.3 million barrels per day (370×10^3 m3/d) of heavy crude oil and synthetic crude oil. Although historically it was used without refining to pave roads, nearly all of the bitumen is now used as raw material for oil refineries in Canada and the United States.",
+    "article_title": "Asphalt"
+  },
+  {
+    "question_id": 182,
+    "question": "Who did Victoria marry?",
+    "ground_truth": "Prince Albert",
+    "all_answers": [
+      "Prince Albert"
+    ],
+    "document": "Victoria married her first cousin, Prince Albert of Saxe-Coburg and Gotha, in 1840. Their nine children married into royal and noble families across the continent, tying them together and earning her the sobriquet \"the grandmother of Europe\". After Albert's death in 1861, Victoria plunged into deep mourning and avoided public appearances. As a result of her seclusion, republicanism temporarily gained strength, but in the latter half of her reign her popularity recovered. Her Golden and Diamond Jubilees were times of public celebration.",
+    "article_title": "Queen_Victoria"
+  },
+  {
+    "question_id": 183,
+    "question": "What concept determines relationships between Grand Lodges?",
+    "ground_truth": "Recognition",
+    "all_answers": [
+      "Recognition"
+    ],
+    "document": "Relations between Grand Lodges are determined by the concept of Recognition. Each Grand Lodge maintains a list of other Grand Lodges that it recognises. When two Grand Lodges recognise and are in Masonic communication with each other, they are said to be in amity, and the brethren of each may visit each other's Lodges and interact Masonically. When two Grand Lodges are not in amity, inter-visitation is not allowed. There are many reasons why one Grand Lodge will withhold or withdraw recognition from another, but the two most common are Exclusive Jurisdiction and Regularity.",
+    "article_title": "Freemasonry"
+  },
+  {
+    "question_id": 184,
+    "question": "When did the UN recommend the Partition Plan?",
+    "ground_truth": "29 November 1947",
+    "all_answers": [
+      "29 November 1947"
+    ],
+    "document": "On 29 November 1947, the United Nations General Assembly recommended the adoption and implementation of the Partition Plan for Mandatory Palestine. This UN plan specified borders for new Arab and Jewish states and also specified an area of Jerusalem and its environs which was to be administered by the UN under an international regime. The end of the British Mandate for Palestine was set for midnight on 14 May 1948. That day, David Ben-Gurion, the executive head of the Zionist Organization and president of the Jewish Agency for Palestine, declared \"the establishment of a Jewish state in Eretz Israel, to be known as the State of Israel,\" which would start to function from the termination of the mandate. The borders of the new state were not specified in the declaration. Neighboring Arab armies invaded the former Palestinian mandate on the next day and fought the Israeli forces. Israel has since fought several wars with neighboring Arab states, in the course of which it has occupied the West Bank, Sinai Peninsula (1956–57, 1967–82), part of Southern Lebanon (1982–2000), Gaza Strip (1967–2005; still considered occupied after 2005 disengagement) and the Golan Heights. It extended its laws to the Golan Heights and East Jerusalem, but not the West Bank. Efforts to resolve the Israeli–Palestinian conflict have not resulted in peace. However, peace treaties between Israel and both Egypt and Jordan have successfully been signed. Israel's occupation of Gaza, the West Bank and East Jerusalem is the world's longest military occupation in modern times.[note 2]",
+    "article_title": "Israel"
+  },
+  {
+    "question_id": 185,
+    "question": "What mathematician advance Greek Science?",
+    "ground_truth": "Greek Science",
+    "all_answers": [
+      "Greek Science"
+    ],
+    "document": "The Hellenistic period covers the period of ancient Greek (Hellenic) history and Mediterranean history between the death of Alexander the Great in 323 BC and the emergence of the Roman Empire as signified by the Battle of Actium in 31 BC and the subsequent conquest of Ptolemaic Egypt the following year. At this time, Greek cultural influence and power was at its peak in Europe, Africa and Asia, experiencing prosperity and progress in the arts, exploration, literature, theatre, architecture, music, mathematics, philosophy, and science. For example, competitive public games took place, ideas in biology, and popular entertainment in theaters. It is often considered a period of transition, sometimes even of decadence or degeneration, compared to the enlightenment of the Greek Classical era. The Hellenistic period saw the rise of New Comedy, Alexandrian poetry, the Septuagint and the philosophies of Stoicism and Epicureanism. Greek Science was advanced by the works of the mathematician Euclid and the polymath Archimedes. The religious sphere expanded to include new gods such as the Greco-Egyptian Serapis, eastern deities such as Attis and Cybele and the Greek adoption of Buddhism.",
+    "article_title": "Hellenistic_period"
+  },
+  {
+    "question_id": 186,
+    "question": "Napoleon spent ten years as emperor of what people?",
+    "ground_truth": "the French",
+    "all_answers": [
+      "the French"
+    ],
+    "document": "Napoléon Bonaparte (/nəˈpoʊliən, -ˈpoʊljən/; French: [napɔleɔ̃ bɔnapaʁt], born Napoleone di Buonaparte; 15 August 1769 – 5 May 1821) was a French military and political leader who rose to prominence during the French Revolution and led several successful campaigns during the Revolutionary Wars. As Napoleon I, he was Emperor of the French from 1804 until 1814, and again in 1815. Napoleon dominated European and global affairs for more than a decade while leading France against a series of coalitions in the Napoleonic Wars. He won most of these wars and the vast majority of his battles, building a large empire that ruled over continental Europe before its final collapse in 1815. Often considered one of the greatest commanders in history, his wars and campaigns are studied at military schools worldwide. He also remains one of the most celebrated and controversial political figures in Western history. In civil affairs, Napoleon had a major long-term impact by bringing liberal reforms to the territories that he conquered, especially the Low Countries, Switzerland, and large parts of modern Italy and Germany. He implemented fundamental liberal policies in France and throughout Western Europe.[note 1] His lasting legal achievement, the Napoleonic Code, has been adopted in various forms by a quarter of the world's legal systems, from Japan to Quebec.",
+    "article_title": "Napoleon"
+  },
+  {
+    "question_id": 187,
+    "question": "Where is the Bill and Melinda gates foundation based?",
+    "ground_truth": "The foundation, based in Seattle, Washington",
+    "all_answers": [
+      "The foundation, based in Seattle, Washington"
+    ],
+    "document": "Bill & Melinda Gates Foundation (or the Gates Foundation, abbreviated as BMGF) is the largest private foundation in the world, founded by Bill and Melinda Gates. It was launched in 2000 and is said to be the largest transparently operated private foundation in the world. The primary aims of the foundation are, globally, to enhance healthcare and reduce extreme poverty, and in America, to expand educational opportunities and access to information technology. The foundation, based in Seattle, Washington, is controlled by its three trustees: Bill Gates, Melinda Gates and Warren Buffett. Other principal officers include Co-Chair William H. Gates, Sr. and Chief Executive Officer Susan Desmond-Hellmann.",
+    "article_title": "Bill_%26_Melinda_Gates_Foundation"
+  },
+  {
+    "question_id": 188,
+    "question": "Who founded Northwestern University?",
+    "ground_truth": "John Evans",
+    "all_answers": [
+      "John Evans"
+    ],
+    "document": "Northwestern was founded in 1851 by John Evans, for whom the City of Evanston is named, and eight other lawyers, businessmen and Methodist leaders. Its founding purpose was to serve the Northwest Territory, an area that today includes the states of Ohio, Indiana, Illinois, Michigan, Wisconsin and parts of Minnesota. Instruction began in 1855; women were admitted in 1869. Today, the main campus is a 240-acre (97 ha) parcel in Evanston, along the shores of Lake Michigan just 12 miles north of downtown Chicago. The university's law, medical, and professional schools are located on a 25-acre (10 ha) campus in Chicago's Streeterville neighborhood. In 2008, the university opened a campus in Education City, Doha, Qatar with programs in journalism and communication.",
+    "article_title": "Northwestern_University"
+  },
+  {
+    "question_id": 189,
+    "question": "Where did Hokkien originate?",
+    "ground_truth": "southern Fujian.",
+    "all_answers": [
+      "southern Fujian."
+    ],
+    "document": "Hokkien /hɒˈkiɛn/ (traditional Chinese: 福建話; simplified Chinese: 福建话; pinyin: Fújiànhuà; Pe̍h-ōe-jī: Hok-kiàn oē) or Quanzhang (Quanzhou–Zhangzhou / Chinchew–Changchew; BP: Zuánziū–Ziāngziū) is a group of mutually intelligible Min Nan Chinese dialects spoken throughout Southeast Asia, Taiwan, and by many other overseas Chinese. Hokkien originated from a dialect in southern Fujian. It is closely related to the Teochew, though mutual comprehension is difficult, and is somewhat more distantly related to Hainanese. Besides Hokkien, there are also other Min and Hakka dialects in Fujian province, most of which are not mutually intelligible with Hokkien.",
+    "article_title": "Hokkien"
+  },
+  {
+    "question_id": 190,
+    "question": "What is Montevideo classified as?",
+    "ground_truth": "a Beta World City",
+    "all_answers": [
+      "a Beta World City"
+    ],
+    "document": "It is classified as a Beta World City, ranking seventh in Latin America and 73rd in the world. Described as a \"vibrant, eclectic place with a rich cultural life\", and \"a thriving tech center and entrepreneurial culture\", Montevideo ranks 8th in Latin America on the 2013 MasterCard Global Destination Cities Index. By 2014, is also regarded as the fifth most gay-friendly major city in the world, first in Latin America. It is the hub of commerce and higher education in Uruguay as well as its chief port. The city is also the financial and cultural hub of a larger metropolitan area, with a population of around 2 million.",
+    "article_title": "Montevideo"
+  },
+  {
+    "question_id": 191,
+    "question": "What is the significance of poultry in the lives of humans?",
+    "ground_truth": "kept by humans for the eggs they produce, their meat, their feathers, or sometimes as pets.",
+    "all_answers": [
+      "kept by humans for the eggs they produce, their meat, their feathers, or sometimes as pets."
+    ],
+    "document": "Poultry (/ˌpoʊltriː/) are domesticated birds kept by humans for the eggs they produce, their meat, their feathers, or sometimes as pets. These birds are most typically members of the superorder Galloanserae (fowl), especially the order Galliformes (which includes chickens, quails and turkeys) and the family Anatidae, in order Anseriformes, commonly known as \"waterfowl\" and including domestic ducks and domestic geese. Poultry also includes other birds that are killed for their meat, such as the young of pigeons (known as squabs) but does not include similar wild birds hunted for sport or food and known as game. The word \"poultry\" comes from the French/Norman word poule, itself derived from the Latin word pullus, which means small animal.",
+    "article_title": "Poultry"
+  },
+  {
+    "question_id": 192,
+    "question": "In what year did Arsenal join The Football League?",
+    "ground_truth": "1893",
+    "all_answers": [
+      "1893"
+    ],
+    "document": "Arsenal was the first club from the south of England to join The Football League, in 1893. They entered the First Division in 1904, and have since accumulated the second most points. Relegated only once, in 1913, they continue the longest streak in the top division. In the 1930s, Arsenal won five League Championships and two FA Cups, and another FA Cup and two Championships after the war. In 1970–71, they won their first League and FA Cup Double. Between 1988 and 2005, they won five League titles and five FA Cups, including two more Doubles. They completed the 20th century with the highest average league position.",
+    "article_title": "Arsenal_F.C."
+  },
+  {
+    "question_id": 193,
+    "question": "In what place with the word \"name\" in it do most people speak Dutch?",
+    "ground_truth": "Suriname",
+    "all_answers": [
+      "Suriname"
+    ],
+    "document": "Outside of the Low Countries, it is the native language of the majority of the population of Suriname, and also holds official status in the Caribbean island nations of Aruba, Curaçao and Sint Maarten. Historical minorities on the verge of extinction remain in parts of France and Germany, and in Indonesia,[n 1] while up to half a million native speakers may reside in the United States, Canada and Australia combined.[n 2] The Cape Dutch dialects of Southern Africa have evolved into Afrikaans, a mutually intelligible daughter language[n 3] which is spoken to some degree by at least 16 million people, mainly in South Africa and Namibia.[n 4]",
+    "article_title": "Dutch_language"
+  },
+  {
+    "question_id": 194,
+    "question": "What was Buckingham Palace orginally known as?",
+    "ground_truth": "Buckingham House",
+    "all_answers": [
+      "Buckingham House"
+    ],
+    "document": "Originally known as Buckingham House, the building at the core of today's palace was a large townhouse built for the Duke of Buckingham in 1703 on a site that had been in private ownership for at least 150 years. It was acquired by King George III in 1761 as a private residence for Queen Charlotte and became known as \"The Queen's House\". During the 19th century it was enlarged, principally by architects John Nash and Edward Blore, who constructed three wings around a central courtyard. Buckingham Palace became the London residence of the British monarch on the accession of Queen Victoria in 1837.",
+    "article_title": "Buckingham_Palace"
+  },
+  {
+    "question_id": 195,
+    "question": "What type of energy makes an incandescent light bulb glow?",
+    "ground_truth": "electric current",
+    "all_answers": [
+      "electric current"
+    ],
+    "document": "An incandescent light bulb, incandescent lamp or incandescent light globe is an electric light with a wire filament heated to a high temperature, by passing an electric current through it, until it glows with visible light (incandescence). The hot filament is protected from oxidation with a glass or quartz bulb that is filled with inert gas or evacuated. In a halogen lamp, filament evaporation is prevented by a chemical process that redeposits metal vapor onto the filament, extending its life. The light bulb is supplied with electric current by feed-through terminals or wires embedded in the glass. Most bulbs are used in a socket which provides mechanical support and electrical connections.",
+    "article_title": "Incandescent_light_bulb"
+  },
+  {
+    "question_id": 196,
+    "question": "What can clothing provide during hazardous activities?",
+    "ground_truth": "safety",
+    "all_answers": [
+      "safety"
+    ],
+    "document": "Physically, clothing serves many purposes: it can serve as protection from the elements, and can enhance safety during hazardous activities such as hiking and cooking. It protects the wearer from rough surfaces, rash-causing plants, insect bites, splinters, thorns and prickles by providing a barrier between the skin and the environment. Clothes can insulate against cold or hot conditions. Further, they can provide a hygienic barrier, keeping infectious and toxic materials away from the body. Clothing also provides protection from harmful UV radiation.",
+    "article_title": "Clothing"
+  },
+  {
+    "question_id": 197,
+    "question": "What American professional baseball team is located on the North side of Chicago, IL?",
+    "ground_truth": "The Chicago Cubs",
+    "all_answers": [
+      "The Chicago Cubs"
+    ],
+    "document": "The Chicago Cubs are an American professional baseball team located on the North Side of Chicago, Illinois. The Cubs compete in Major League Baseball (MLB) as a members of the National League (NL) Central division; the team plays its home baseball games at Wrigley Field. The Cubs are also one of two active major league teams based in Chicago; the other is the Chicago White Sox, who are a member of the American League (AL) Central division. The team is currently owned by Thomas S. Ricketts, son of TD Ameritrade founder Joe Ricketts.",
+    "article_title": "Chicago_Cubs"
+  },
+  {
+    "question_id": 198,
+    "question": "How many federal states does Germany have?",
+    "ground_truth": "sixteen",
+    "all_answers": [
+      "sixteen"
+    ],
+    "document": "Germany is a federal republic consisting of sixteen federal states (German: Bundesland, or Land).[a] Since today's Germany was formed from an earlier collection of several states, it has a federal constitution, and the constituent states retain a measure of sovereignty. With an emphasis on geographical conditions, Berlin and Hamburg are frequently called Stadtstaaten (city-states), as is the Free Hanseatic City of Bremen, which in fact includes the cities of Bremen and Bremerhaven. The remaining 13 states are called Flächenländer (literally: area states).",
+    "article_title": "States_of_Germany"
+  },
+  {
+    "question_id": 199,
+    "question": "In what year did the Korean War begin?",
+    "ground_truth": "1950",
+    "all_answers": [
+      "1950"
+    ],
+    "document": "The Korean War (in South Korean Hangul: 한국전쟁, Hanja: 韓國戰爭, Hanguk Jeonjaeng, \"Korean War\"; in North Korean Chosungul: 조국해방전쟁, Joguk Haebang Jeonjaeng, \"Fatherland Liberation War\"; 25 June 1950 – 27 July 1953)[a] was started when North Korea invaded South Korea. The United Nations, with United States as the principal force, came to aid of South Korea. China, along with assistance from Soviet Union, came to aid of North Korea. The war arose from the division of Korea at the end of World War II and from the global tensions of the Cold War that developed immediately afterwards.",
+    "article_title": "Korean_War"
+  }
+]

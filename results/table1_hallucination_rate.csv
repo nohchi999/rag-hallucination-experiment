@@ -1,0 +1,4 @@
+Condition,n,Exact Match (%),Hallucination Rate (%),Abstention Rate (%)
+full,200,88.0,3.5,5.0
+partial,200,6.0,3.0,88.0
+none,200,4.0,0.5,98.5
