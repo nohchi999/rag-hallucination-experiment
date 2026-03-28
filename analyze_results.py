@@ -23,7 +23,7 @@ from collections import defaultdict
 import pandas as pd
 
 import config
-from src.metrics import compute_all_metrics
+from src.metrics import compute_all_metrics, compute_em_hallucinated, detect_abstention, exact_match
 from src.visualize import (
     fig1_hallucination_rate,
     fig2_auroc_comparison,
@@ -61,6 +61,22 @@ def main():
     print(f"Loading results from {config.RAW_RESULTS_FILE}...")
     results = load_results()
     print(f"Loaded {len(results)} result entries.")
+
+    # Recompute EM-based labels using updated abstention markers.
+    # raw_results.json labels are frozen; we override them here for analysis only.
+    recomputed = 0
+    for r in results:
+        answer = r.get("answer", "")
+        gt = r.get("ground_truth", "")
+        new_abstention = detect_abstention(answer)
+        new_em_hallucinated = compute_em_hallucinated(answer, gt)
+        new_exact_match = exact_match(answer, gt)
+        if new_abstention != r.get("is_abstention") or new_em_hallucinated != r.get("is_hallucinated_em"):
+            recomputed += 1
+        r["is_abstention"] = new_abstention
+        r["is_hallucinated_em"] = new_em_hallucinated
+        r["exact_match"] = new_exact_match
+    print(f"Recomputed EM labels for {recomputed} entries (extended abstention markers).")
 
     grouped = group_by_cell(results)
 

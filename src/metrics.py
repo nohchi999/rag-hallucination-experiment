@@ -10,6 +10,7 @@ import numpy as np
 from sklearn.metrics import roc_auc_score
 
 _ABSTENTION_MARKERS = [
+    # Constrained-prompt formulations
     "cannot answer",
     "i don't have enough",
     "not enough information",
@@ -18,6 +19,17 @@ _ABSTENTION_MARKERS = [
     "based on the provided context, i cannot",
     "i'm unable to answer",
     "unable to answer",
+    # Unconstrained-prompt formulations (semantic abstentions without explicit marker)
+    "does not contain information",
+    "does not contain sufficient information",
+    "does not provide information",
+    "is not available in the provided context",
+    "is not mentioned in the context",
+    "no information about",
+    "the provided context does not",
+    "context provided does not",
+    "not found in the provided",
+    "not present in the context",
 ]
 
 

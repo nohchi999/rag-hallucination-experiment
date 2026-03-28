@@ -1,7 +1,7 @@
 Prompt,Condition,Cohen's Kappa,Agreement (%),n Disagreements
 constrained,full,0.0401,89.0,22
-constrained,partial,0.3059,92.0,16
+constrained,partial,0.2308,91.5,17
 constrained,none,1.0,100.0,0
-unconstrained,full,0.0196,86.0,28
-unconstrained,partial,-0.0109,26.0,148
-unconstrained,none,-0.0524,16.0,168
+unconstrained,full,0.0255,87.0,26
+unconstrained,partial,0.3412,80.5,39
+unconstrained,none,0.2374,88.0,24
