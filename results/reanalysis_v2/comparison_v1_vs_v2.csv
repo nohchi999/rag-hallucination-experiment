@@ -1,0 +1,130 @@
+metric,prompt_type,condition,v1,v2,delta,note
+EM rate (%),constrained,full,87.50,86.36,-1.14,
+Hallucination EM (%),constrained,full,9.00,9.09,+0.09,
+Hallucination Judge (%),constrained,full,3.00,3.03,+0.03,
+Abstention (%),constrained,full,5.00,4.55,-0.45,
+Category sum (%),constrained,full,101.50,100.00,-1.50,v1 >100% evidences Bug #4
+SQuAD F1 (mean),constrained,full,—,0.4790,—,new in v2
+EM rate (%),constrained,partial,5.00,2.53,-2.47,
+Hallucination EM (%),constrained,partial,9.00,9.09,+0.09,
+Hallucination Judge (%),constrained,partial,2.50,2.53,+0.03,
+Abstention (%),constrained,partial,88.50,88.38,-0.12,
+Category sum (%),constrained,partial,102.50,100.00,-2.50,v1 >100% evidences Bug #4
+SQuAD F1 (mean),constrained,partial,—,0.0254,—,new in v2
+EM rate (%),constrained,none,4.00,1.01,-2.99,
+Hallucination EM (%),constrained,none,0.50,0.51,+0.01,
+Hallucination Judge (%),constrained,none,0.50,0.51,+0.01,
+Abstention (%),constrained,none,98.50,98.48,-0.02,
+Category sum (%),constrained,none,103.00,100.00,-3.00,v1 >100% evidences Bug #4
+SQuAD F1 (mean),constrained,none,—,0.0116,—,new in v2
+EM rate (%),unconstrained,full,86.00,86.36,+0.36,
+Hallucination EM (%),unconstrained,full,11.00,10.61,-0.39,
+Hallucination Judge (%),unconstrained,full,3.00,3.03,+0.03,
+Abstention (%),unconstrained,full,3.00,3.03,+0.03,
+Category sum (%),unconstrained,full,100.00,100.00,+0.00,
+SQuAD F1 (mean),unconstrained,full,—,0.5244,—,new in v2
+EM rate (%),unconstrained,partial,7.00,5.05,-1.95,
+Hallucination EM (%),unconstrained,partial,24.50,23.74,-0.76,
+Hallucination Judge (%),unconstrained,partial,10.00,10.10,+0.10,
+Abstention (%),unconstrained,partial,70.50,71.21,+0.71,
+Category sum (%),unconstrained,partial,102.00,100.00,-2.00,v1 >100% evidences Bug #4
+SQuAD F1 (mean),unconstrained,partial,—,0.0626,—,new in v2
+EM rate (%),unconstrained,none,5.00,2.53,-2.47,
+Hallucination EM (%),unconstrained,none,11.50,11.11,-0.39,
+Hallucination Judge (%),unconstrained,none,5.50,5.56,+0.06,
+Abstention (%),unconstrained,none,86.00,86.36,+0.36,
+Category sum (%),unconstrained,none,102.50,100.00,-2.50,v1 >100% evidences Bug #4
+SQuAD F1 (mean),unconstrained,none,—,0.0387,—,new in v2
+AUROC VC (EM),avg_over_prompts,full,0.6378,0.6174,-0.0204,
+AUROC VC (Judge),avg_over_prompts,full,0.7414,0.7502,+0.0088,
+AUROC SC (EM),avg_over_prompts,full,0.5382,0.6062,+0.0680,
+AUROC SC (Judge),avg_over_prompts,full,0.5339,0.6132,+0.0793,
+AUROC Judge (EM),avg_over_prompts,full,0.5087,0.5118,+0.0031,
+AUROC VC (EM),avg_over_prompts,partial,0.1795,0.4567,+0.2772,
+AUROC VC (Judge),avg_over_prompts,partial,0.1101,0.4456,+0.3355,
+AUROC SC (EM),avg_over_prompts,partial,0.7121,0.5857,-0.1264,
+AUROC SC (Judge),avg_over_prompts,partial,0.6643,0.5900,-0.0743,
+AUROC Judge (EM),avg_over_prompts,partial,0.6365,0.6104,-0.0261,
+AUROC VC (EM),avg_over_prompts,none,0.4213,0.6080,+0.1867,
+AUROC VC (Judge),avg_over_prompts,none,0.0127,0.3999,+0.3872,
+AUROC SC (EM),avg_over_prompts,none,0.7113,0.6452,-0.0662,
+AUROC SC (Judge),avg_over_prompts,none,0.8057,0.6919,-0.1138,
+AUROC Judge (EM),avg_over_prompts,none,0.5917,0.7983,+0.2066,
+"AUROC VC (EM, per cell)",constrained,full,—,0.6153,—,new in v2
+"AUROC SC (EM, per cell)",constrained,full,—,0.6890,—,new in v2
+"AUROC VC (EM, non-abst only)",constrained,full,—,0.6306,—,new in v2
+"AUROC SC (EM, non-abst only)",constrained,full,—,0.7032,—,new in v2
+"AUROC VC (EM, per cell)",constrained,partial,—,0.7407,—,new in v2
+"AUROC SC (EM, per cell)",constrained,partial,—,0.4640,—,new in v2
+"AUROC VC (EM, non-abst only)",constrained,partial,—,0.8833,—,new in v2
+"AUROC SC (EM, non-abst only)",constrained,partial,—,0.7111,—,new in v2
+"AUROC VC (EM, per cell)",constrained,none,—,0.7868,—,new in v2
+"AUROC SC (EM, per cell)",constrained,none,—,0.5787,—,new in v2
+"AUROC VC (EM, non-abst only)",constrained,none,—,1.0000,—,new in v2
+"AUROC SC (EM, non-abst only)",constrained,none,—,0.0000,—,new in v2
+"AUROC VC (EM, per cell)",unconstrained,full,—,0.6195,—,new in v2
+"AUROC SC (EM, per cell)",unconstrained,full,—,0.5234,—,new in v2
+"AUROC VC (EM, non-abst only)",unconstrained,full,—,0.6412,—,new in v2
+"AUROC SC (EM, non-abst only)",unconstrained,full,—,0.5284,—,new in v2
+"AUROC VC (EM, per cell)",unconstrained,partial,—,0.1728,—,new in v2
+"AUROC SC (EM, per cell)",unconstrained,partial,—,0.7074,—,new in v2
+"AUROC VC (EM, non-abst only)",unconstrained,partial,—,0.7053,—,new in v2
+"AUROC SC (EM, non-abst only)",unconstrained,partial,—,0.7096,—,new in v2
+"AUROC VC (EM, per cell)",unconstrained,none,—,0.4292,—,new in v2
+"AUROC SC (EM, per cell)",unconstrained,none,—,0.7116,—,new in v2
+"AUROC VC (EM, non-abst only)",unconstrained,none,—,0.8545,—,new in v2
+"AUROC SC (EM, non-abst only)",unconstrained,none,—,0.4364,—,new in v2
+Mean Confidence (%),constrained,full,93.42,93.35,-0.07,
+Accuracy (%),constrained,full,91.00,90.91,-0.09,
+ECE,constrained,full,0.0542,0.0542,+0.0000,
+ECE non-abstention,constrained,full,—,0.0452,—,new in v2 (Bug #6)
+Overconf. Gap,constrained,full,0.0242,0.0244,+0.0002,
+Mean Conf non-abstention (%),constrained,full,—,94.99,—,new in v2 (Bug #2)
+Mean Confidence (%),constrained,partial,69.67,75.81,+6.14,
+Accuracy (%),constrained,partial,91.00,90.91,-0.09,
+ECE,constrained,partial,0.2582,0.1389,-0.1193,
+ECE non-abstention,constrained,partial,—,0.5826,—,new in v2 (Bug #6)
+Overconf. Gap,constrained,partial,-0.2133,-0.1510,+0.0623,
+Mean Conf non-abstention (%),constrained,partial,—,80.00,—,new in v2 (Bug #2)
+Mean Confidence (%),constrained,none,69.25,76.14,+6.89,
+Accuracy (%),constrained,none,99.50,99.49,-0.01,
+ECE,constrained,none,0.1800,0.0543,-0.1257,
+ECE non-abstention,constrained,none,—,0.2833,—,new in v2 (Bug #6)
+Overconf. Gap,constrained,none,-0.3025,-0.2336,+0.0689,
+Mean Conf non-abstention (%),constrained,none,—,88.33,—,new in v2 (Bug #2)
+Mean Confidence (%),unconstrained,full,91.89,92.29,+0.40,
+Accuracy (%),unconstrained,full,89.00,89.39,+0.39,
+ECE,unconstrained,full,0.0749,0.0759,+0.0010,
+ECE non-abstention,unconstrained,full,—,0.0645,—,new in v2 (Bug #6)
+Overconf. Gap,unconstrained,full,0.0289,0.0289,+0.0000,
+Mean Conf non-abstention (%),unconstrained,full,—,94.99,—,new in v2 (Bug #2)
+Mean Confidence (%),unconstrained,partial,17.86,18.02,+0.16,
+Accuracy (%),unconstrained,partial,75.50,76.26,+0.76,
+ECE,unconstrained,partial,0.4206,0.4302,+0.0096,
+ECE non-abstention,unconstrained,partial,—,0.3512,—,new in v2 (Bug #6)
+Overconf. Gap,unconstrained,partial,-0.5764,-0.5825,-0.0061,
+Mean Conf non-abstention (%),unconstrained,partial,—,52.32,—,new in v2 (Bug #2)
+Mean Confidence (%),unconstrained,none,6.15,6.19,+0.04,
+Accuracy (%),unconstrained,none,88.50,88.89,+0.39,
+ECE,unconstrained,none,0.3625,0.3664,+0.0039,
+ECE non-abstention,unconstrained,none,—,0.1611,—,new in v2 (Bug #6)
+Overconf. Gap,unconstrained,none,-0.8235,-0.8270,-0.0035,
+Mean Conf non-abstention (%),unconstrained,none,—,25.74,—,new in v2 (Bug #2)
+Cohen's Kappa,constrained,full,0.0401,0.0397,-0.0004,
+Agreement (%),constrained,full,89.00,88.89,-0.11,
+n disagreements,constrained,full,22,22,+0,
+Cohen's Kappa,constrained,partial,0.2308,0.2305,-0.0003,
+Agreement (%),constrained,partial,91.50,91.41,-0.09,
+n disagreements,constrained,partial,17,17,+0,
+Cohen's Kappa,constrained,none,1.0000,1.0000,+0.0000,
+Agreement (%),constrained,none,100.00,100.00,+0.00,
+n disagreements,constrained,none,0,0,+0,
+Cohen's Kappa,unconstrained,full,0.0255,0.0283,+0.0028,
+Agreement (%),unconstrained,full,87.00,87.37,+0.37,
+n disagreements,unconstrained,full,26,25,-1,
+Cohen's Kappa,unconstrained,partial,0.3412,0.3566,+0.0154,
+Agreement (%),unconstrained,partial,80.50,81.31,+0.81,
+n disagreements,unconstrained,partial,39,37,-2,
+Cohen's Kappa,unconstrained,none,0.2374,0.2473,+0.0099,
+Agreement (%),unconstrained,none,88.00,88.38,+0.38,
+n disagreements,unconstrained,none,24,23,-1,

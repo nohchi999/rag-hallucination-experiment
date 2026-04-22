@@ -1,0 +1,7 @@
+prompt_type,condition,mean_verbalized_confidence_parsed,mean_verbalized_confidence_non_abstention,em_accuracy_pct,ece_all,ece_non_abstention,ece_parsed_only,ece_n_all,ece_n_non_abstention,ece_n_unparsed,overconfidence_gap
+constrained,full,93.35,94.99,90.91,0.0542,0.0452,0.0542,198,189,0,0.0244
+constrained,partial,75.81,80.0,90.91,0.1389,0.5826,0.1389,198,23,0,-0.151
+constrained,none,76.14,88.33,99.49,0.0543,0.2833,0.0543,198,3,0,-0.2336
+unconstrained,full,92.29,94.99,89.39,0.0759,0.0645,0.0759,198,192,0,0.0289
+unconstrained,partial,18.02,52.32,76.26,0.4302,0.3512,0.4302,198,57,0,-0.5825
+unconstrained,none,6.19,25.74,88.89,0.3664,0.1611,0.3664,198,27,0,-0.827

@@ -1,0 +1,97 @@
+{
+  "total": 18,
+  "passed": 18,
+  "failed": 0,
+  "cases": [
+    {
+      "name": "bug1_response_without_answer_prefix",
+      "status": "pass",
+      "duration_s": 0.0
+    },
+    {
+      "name": "bug1_response_with_answer_prefix",
+      "status": "pass",
+      "duration_s": 0.001
+    },
+    {
+      "name": "bug1_no_confidence_annotation_returns_none",
+      "status": "pass",
+      "duration_s": 0.0
+    },
+    {
+      "name": "bug1_lowercase_confidence",
+      "status": "pass",
+      "duration_s": 0.0
+    },
+    {
+      "name": "bug1_out_of_range_clamped",
+      "status": "pass",
+      "duration_s": 0.0
+    },
+    {
+      "name": "bug1_negative_clamped",
+      "status": "pass",
+      "duration_s": 0.0
+    },
+    {
+      "name": "bug1_empty_and_none_input",
+      "status": "pass",
+      "duration_s": 0.0
+    },
+    {
+      "name": "bug2_cleaned_json_has_abstention_flag_and_conf_v2_field",
+      "status": "pass",
+      "duration_s": 0.048
+    },
+    {
+      "name": "bug3_detects_all_abstention_phrasings",
+      "status": "pass",
+      "duration_s": 0.0
+    },
+    {
+      "name": "bug3_does_not_false_positive_on_real_answers",
+      "status": "pass",
+      "duration_s": 0.0
+    },
+    {
+      "name": "bug4_classify_response_is_disjoint",
+      "status": "pass",
+      "duration_s": 0.0
+    },
+    {
+      "name": "bug4_cells_sum_to_100_when_run",
+      "status": "pass",
+      "duration_s": 0.039
+    },
+    {
+      "name": "bug5_filters_degenerate",
+      "status": "pass",
+      "duration_s": 0.0
+    },
+    {
+      "name": "bug5_keeps_real_questions",
+      "status": "pass",
+      "duration_s": 0.0
+    },
+    {
+      "name": "bug6_ece_variants_have_expected_n",
+      "status": "pass",
+      "duration_s": 0.001
+    },
+    {
+      "name": "bug6_unparsed_confidence_is_excluded",
+      "status": "pass",
+      "duration_s": 0.0
+    },
+    {
+      "name": "normalize_answer",
+      "status": "pass",
+      "duration_s": 0.0
+    },
+    {
+      "name": "squad_f1_identity_and_partial",
+      "status": "pass",
+      "duration_s": 0.0
+    }
+  ]
+}
