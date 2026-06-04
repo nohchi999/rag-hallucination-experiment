@@ -227,7 +227,14 @@ def _compute_ece_single(confidences, accuracies, n_bins=10):
     bin_boundaries = np.linspace(0, 1, n_bins + 1)
     ece = 0.0
     for i in range(n_bins):
-        mask = (confidences > bin_boundaries[i]) & (confidences <= bin_boundaries[i + 1])
+        # First bin is closed on the left so that conf=0 samples are not silently
+        # excluded from every bin (which would leave them in the denominator via
+        # len(confidences) while contributing nothing to the numerator and
+        # systematically depress ECE — see Bug #7 / ECE_bug_briefing.md).
+        if i == 0:
+            mask = (confidences >= bin_boundaries[i]) & (confidences <= bin_boundaries[i + 1])
+        else:
+            mask = (confidences > bin_boundaries[i]) & (confidences <= bin_boundaries[i + 1])
         if mask.sum() > 0:
             bin_accuracy = accuracies[mask].mean()
             bin_confidence = confidences[mask].mean()

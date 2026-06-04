@@ -77,12 +77,29 @@ Filtered out 12 datapoints:
 
 | prompt_type | condition | ECE_all | ECE_non_abstention | ECE_parsed_only | N_all | N_non_abs | N_unparsed |
 |---|---|---|---|---|---|---|---|
-| constrained | full | 0.0542 | 0.0452 | 0.0542 | 198 | 189 | 0 |
-| constrained | partial | 0.1389 | 0.5826 | 0.1389 | 198 | 23 | 0 |
-| constrained | none | 0.0543 | 0.2833 | 0.0543 | 198 | 3 | 0 |
-| unconstrained | full | 0.0759 | 0.0645 | 0.0759 | 198 | 192 | 0 |
-| unconstrained | partial | 0.4302 | 0.3512 | 0.4302 | 198 | 57 | 0 |
-| unconstrained | none | 0.3664 | 0.1611 | 0.3664 | 198 | 27 | 0 |
+| constrained | full | 0.0593 | 0.0452 | 0.0593 | 198 | 189 | 0 |
+| constrained | partial | 0.2601 | 0.5826 | 0.2601 | 198 | 23 | 0 |
+| constrained | none | 0.2412 | 0.2833 | 0.2412 | 198 | 3 | 0 |
+| unconstrained | full | 0.0911 | 0.0645 | 0.0911 | 198 | 192 | 0 |
+| unconstrained | partial | 0.7736 | 0.3512 | 0.7736 | 198 | 57 | 0 |
+| unconstrained | none | 0.8563 | 0.1611 | 0.8563 | 198 | 27 | 0 |
+
+## Bug #7 — ECE_all First-Bin Exclusion (ECE_bug_briefing.md)
+
+`_compute_ece_single` used a strict `>` lower bound for every bin, so any response with `verbalized_confidence_v2 == 0` was silently excluded from all ten bins. Because `bin_weight = mask.sum() / len(confidences)` keeps the full N in the denominator, the dropped samples sat in the denominator while contributing nothing to the numerator — systematically depressing ECE_all in cells with many low-confidence abstentions.
+
+**Fix:** the first bin (`i == 0`) is now closed on the left (`conf >= 0.0`), so conf=0 samples enter bin 0 with their parsed confidence and `acc = 1 - is_hallucinated_em_v2`. Convention is unchanged: Abstention=correct + parsed confidence, consistent with the `Accuracy` column and `Overconfidence Gap`.
+
+**Impact:** affects ECE_all only; ECE_non_abstention is unchanged because non-abstention responses essentially never carry conf=0. The four cells with high-abstention conditions (C-Partial, C-None, U-Partial, U-None) now satisfy the triangle-inequality lower bound |mean_conf − mean_acc|.
+
+| prompt_type | condition | conf=0 samples | ECE_all v2.0 | ECE_all v2.1 (fixed) | |mean_conf − mean_acc| (LB) |
+|---|---|---|---|---|---|
+| constrained | full | 1 | 0.0542 | 0.0593 | 0.0244 |
+| constrained | partial | 24 | 0.1389 | 0.2601 | 0.151 |
+| constrained | none | 37 | 0.0543 | 0.2412 | 0.2335 |
+| unconstrained | full | 3 | 0.0759 | 0.0911 | 0.029 |
+| unconstrained | partial | 75 | 0.4302 | 0.7736 | 0.5824 |
+| unconstrained | none | 109 | 0.3664 | 0.8563 | 0.827 |
 
 ## Impact on Thesis Findings
 

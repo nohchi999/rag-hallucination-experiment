@@ -254,6 +254,49 @@ def test_bug6_unparsed_confidence_is_excluded():
 
 
 # ---------------------------------------------------------------------------
+# Bug #7: ECE binning must include conf=0 samples (ECE_bug_briefing.md).
+# Invariant: ECE >= |mean_acc - mean_conf| over the same population.
+# ---------------------------------------------------------------------------
+
+def test_bug7_conf_zero_samples_are_binned():
+    # 50 abstentions at conf=0 with acc=1, 50 answers at conf=1.0 with acc=1.
+    # mean_conf = 0.5, mean_acc = 1.0, lower bound on ECE = 0.5.
+    results = []
+    for _ in range(50):
+        results.append({"verbalized_confidence_v2": 0, "is_abstention_v2": True, "is_hallucinated_em_v2": 0})
+    for _ in range(50):
+        results.append({"verbalized_confidence_v2": 100, "is_abstention_v2": False, "is_hallucinated_em_v2": 0})
+    eces = compute_ece_multiple(results, n_bins=10)
+    assert eces["n_all"] == 100
+    # Pre-fix: ECE_all silently dropped the 50 conf=0 abstentions and returned ~0.
+    # Post-fix: ECE_all must respect the triangle-inequality lower bound.
+    assert eces["ece_all"] >= 0.5 - 1e-9, (
+        f"ECE_all must respect |mean_acc - mean_conf| lower bound 0.5, got {eces['ece_all']}"
+    )
+
+
+def test_bug7_lower_bound_invariant_on_random_data():
+    # Random-ish mix; ECE_all must always >= |mean_acc - mean_conf|.
+    import random
+    random.seed(7)
+    results = []
+    for _ in range(300):
+        conf = random.choice([0, 10, 30, 50, 70, 90, 100])
+        is_abs = conf <= 10
+        hal = 0 if is_abs else random.choice([0, 0, 1])
+        results.append({
+            "verbalized_confidence_v2": conf,
+            "is_abstention_v2": is_abs,
+            "is_hallucinated_em_v2": hal,
+        })
+    eces = compute_ece_multiple(results, n_bins=10)
+    confs = [r["verbalized_confidence_v2"] / 100.0 for r in results]
+    accs = [1 - r["is_hallucinated_em_v2"] for r in results]
+    lb = abs(sum(accs) / len(accs) - sum(confs) / len(confs))
+    assert eces["ece_all"] >= lb - 1e-9, f"ECE_all={eces['ece_all']} violates lower bound {lb}"
+
+
+# ---------------------------------------------------------------------------
 # Helpers
 # ---------------------------------------------------------------------------
 
@@ -296,6 +339,9 @@ TESTS = [
     # Bug #6
     ("bug6_ece_variants_have_expected_n", test_bug6_ece_variants_have_expected_n),
     ("bug6_unparsed_confidence_is_excluded", test_bug6_unparsed_confidence_is_excluded),
+    # Bug #7
+    ("bug7_conf_zero_samples_are_binned", test_bug7_conf_zero_samples_are_binned),
+    ("bug7_lower_bound_invariant_on_random_data", test_bug7_lower_bound_invariant_on_random_data),
     # Helpers
     ("normalize_answer", test_normalize_answer),
     ("squad_f1_identity_and_partial", test_squad_f1_identity_and_partial),

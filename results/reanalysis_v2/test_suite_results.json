@@ -1,6 +1,6 @@
 {
-  "total": 18,
-  "passed": 18,
+  "total": 20,
+  "passed": 20,
   "failed": 0,
   "cases": [
     {
@@ -11,7 +11,7 @@
     {
       "name": "bug1_response_with_answer_prefix",
       "status": "pass",
-      "duration_s": 0.001
+      "duration_s": 0.0
     },
     {
       "name": "bug1_no_confidence_annotation_returns_none",
@@ -41,7 +41,7 @@
     {
       "name": "bug2_cleaned_json_has_abstention_flag_and_conf_v2_field",
       "status": "pass",
-      "duration_s": 0.048
+      "duration_s": 0.057
     },
     {
       "name": "bug3_detects_all_abstention_phrasings",
@@ -61,7 +61,7 @@
     {
       "name": "bug4_cells_sum_to_100_when_run",
       "status": "pass",
-      "duration_s": 0.039
+      "duration_s": 0.047
     },
     {
       "name": "bug5_filters_degenerate",
@@ -84,9 +84,19 @@
       "duration_s": 0.0
     },
     {
-      "name": "normalize_answer",
+      "name": "bug7_conf_zero_samples_are_binned",
       "status": "pass",
       "duration_s": 0.0
+    },
+    {
+      "name": "bug7_lower_bound_invariant_on_random_data",
+      "status": "pass",
+      "duration_s": 0.001
+    },
+    {
+      "name": "normalize_answer",
+      "status": "pass",
+      "duration_s": 0.001
     },
     {
       "name": "squad_f1_identity_and_partial",

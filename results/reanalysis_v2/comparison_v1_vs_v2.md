@@ -471,7 +471,7 @@ Note: v1 uses n=200 per cell; v2 uses n=198 after filtering the two degenerate S
 
 | prompt_type | condition | v1 | v2 | Δ | note |
 |---|---|---|---|---|---|
-| constrained | full | 0.0542 | 0.0542 | +0.0000 |  |
+| constrained | full | 0.0542 | 0.0593 | +0.0051 |  |
 
 ## ECE non-abstention
 
@@ -507,7 +507,7 @@ Note: v1 uses n=200 per cell; v2 uses n=198 after filtering the two degenerate S
 
 | prompt_type | condition | v1 | v2 | Δ | note |
 |---|---|---|---|---|---|
-| constrained | partial | 0.2582 | 0.1389 | -0.1193 |  |
+| constrained | partial | 0.2582 | 0.2601 | +0.0019 |  |
 
 ## ECE non-abstention
 
@@ -543,7 +543,7 @@ Note: v1 uses n=200 per cell; v2 uses n=198 after filtering the two degenerate S
 
 | prompt_type | condition | v1 | v2 | Δ | note |
 |---|---|---|---|---|---|
-| constrained | none | 0.1800 | 0.0543 | -0.1257 |  |
+| constrained | none | 0.1800 | 0.2412 | +0.0612 |  |
 
 ## ECE non-abstention
 
@@ -579,7 +579,7 @@ Note: v1 uses n=200 per cell; v2 uses n=198 after filtering the two degenerate S
 
 | prompt_type | condition | v1 | v2 | Δ | note |
 |---|---|---|---|---|---|
-| unconstrained | full | 0.0749 | 0.0759 | +0.0010 |  |
+| unconstrained | full | 0.0749 | 0.0911 | +0.0162 |  |
 
 ## ECE non-abstention
 
@@ -615,7 +615,7 @@ Note: v1 uses n=200 per cell; v2 uses n=198 after filtering the two degenerate S
 
 | prompt_type | condition | v1 | v2 | Δ | note |
 |---|---|---|---|---|---|
-| unconstrained | partial | 0.4206 | 0.4302 | +0.0096 |  |
+| unconstrained | partial | 0.4206 | 0.7736 | +0.3530 |  |
 
 ## ECE non-abstention
 
@@ -651,7 +651,7 @@ Note: v1 uses n=200 per cell; v2 uses n=198 after filtering the two degenerate S
 
 | prompt_type | condition | v1 | v2 | Δ | note |
 |---|---|---|---|---|---|
-| unconstrained | none | 0.3625 | 0.3664 | +0.0039 |  |
+| unconstrained | none | 0.3625 | 0.8563 | +0.4938 |  |
 
 ## ECE non-abstention
 

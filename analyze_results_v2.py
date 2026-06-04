@@ -355,6 +355,58 @@ def write_bug_report(results, diagnostics, cells, path):
                          f"{m.get('ece_parsed_only')} | {m.get('ece_n_all')} | "
                          f"{m.get('ece_n_non_abstention')} | {m.get('ece_n_unparsed')} |")
 
+    lines.append("\n## Bug #7 — ECE_all First-Bin Exclusion (ECE_bug_briefing.md)\n")
+    lines.append(
+        "`_compute_ece_single` used a strict `>` lower bound for every bin, so any "
+        "response with `verbalized_confidence_v2 == 0` was silently excluded from "
+        "all ten bins. Because `bin_weight = mask.sum() / len(confidences)` keeps "
+        "the full N in the denominator, the dropped samples sat in the denominator "
+        "while contributing nothing to the numerator — systematically depressing "
+        "ECE_all in cells with many low-confidence abstentions."
+    )
+    lines.append(
+        "\n**Fix:** the first bin (`i == 0`) is now closed on the left "
+        "(`conf >= 0.0`), so conf=0 samples enter bin 0 with their parsed "
+        "confidence and `acc = 1 - is_hallucinated_em_v2`. Convention is unchanged: "
+        "Abstention=correct + parsed confidence, consistent with the `Accuracy` "
+        "column and `Overconfidence Gap`."
+    )
+    lines.append(
+        "\n**Impact:** affects ECE_all only; ECE_non_abstention is unchanged because "
+        "non-abstention responses essentially never carry conf=0. The four cells "
+        "with high-abstention conditions (C-Partial, C-None, U-Partial, U-None) "
+        "now satisfy the triangle-inequality lower bound |mean_conf − mean_acc|."
+    )
+    lines.append("\n| prompt_type | condition | conf=0 samples | ECE_all v2.0 | ECE_all v2.1 (fixed) | |mean_conf − mean_acc| (LB) |")
+    lines.append("|---|---|---|---|---|---|")
+    _v2_0 = {
+        ("constrained", "full"): 0.0542,
+        ("constrained", "partial"): 0.1389,
+        ("constrained", "none"): 0.0543,
+        ("unconstrained", "full"): 0.0759,
+        ("unconstrained", "partial"): 0.4302,
+        ("unconstrained", "none"): 0.3664,
+    }
+    for pt in PROMPT_TYPES:
+        for cond in CONDITIONS:
+            m = cells.get((pt, cond))
+            if not m:
+                continue
+            # Count conf=0 samples in this cell (excluding invalid).
+            n_zero = sum(
+                1 for r in results
+                if r.get("prompt_type") == pt and r.get("condition") == cond
+                and r.get("is_valid_v2", True)
+                and r.get("verbalized_confidence_v2") == 0
+            )
+            mc = m.get("mean_verbalized_confidence_parsed")
+            acc_pct = (1 - m["hallucination_rate_em"]) * 100
+            lb = abs((mc - acc_pct) / 100.0) if mc is not None else None
+            lines.append(
+                f"| {pt} | {cond} | {n_zero} | {_v2_0.get((pt, cond))} | "
+                f"{m.get('ece_all')} | {round(lb, 4) if lb is not None else '—'} |"
+            )
+
     lines.append("\n## Impact on Thesis Findings\n")
     lines.append("| Finding | v1 claim | v2 status (to be filled after review) |")
     lines.append("|---|---|---|")
