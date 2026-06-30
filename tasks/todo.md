@@ -51,7 +51,18 @@ evidence operationalization, prompts, NLI scorer, validated pipeline) stays bit-
 - [x] validation_sheet.csv: 144 rows (48/model, 48/condition, 70 abstention / 74 attempted), human_label empty.
 - >>> GATE: handed to user for hand-labeling. NO auto-labeling. <<<
 
-## Task F/G — [PENDING human labels] Cohen's kappa + per-model validated pipeline + cross-model synthesis.
+## Task F (label-independent) + G — [DONE 2026-06-30]  analyze_crossmodel.py
+- [x] Validated v2 pipeline run per model with SAME external judge (remap _ext -> canonical judge fields).
+      Anti-circularity intact (judge-UE AUROC vs EM only). Tables -> results/cross_model/analysis/<model>/.
+- [x] Haiku reproduces BIT-IDENTICALLY (23.74/9.09) -> confirms remap + data integrity.
+- [x] F1 prompt mitigation REPLICATES all 3: Haiku 23.74->9.09, GPT 28.28->16.67, Gemini 39.9->6.06.
+- [x] EM-vs-extJudge kappa per cell (table4): big model-dependent dual-label divergence
+      (e.g. Gemini uncon/partial agreement 62%, kappa 0.06 — judge lenient vs strict EM).
+- [x] cross_model_summary.{csv,md} (Task G F1 synthesis).
+
+## Task F (human kappa) — [STILL PENDING human labels]
+- [ ] compute human-vs-judge & human-vs-EM Cohen's kappa from labeled validation_sheet.csv.
+- [ ] (to write) compute_human_kappa.py once labels returned.
 
 ## JUDGE MODEL DEVIATION (decided with user 2026-06-29)
 - Locked choice Qwen2.5-72B-Instruct is NOT offered on the user's Alibaba Model Studio

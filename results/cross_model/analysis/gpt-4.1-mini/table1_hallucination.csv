@@ -1,0 +1,7 @@
+prompt_type,condition,n,em_rate_pct,hallucination_em_pct,abstention_pct,category_sum_pct,hallucination_judge_pct,hal_em_ci_lower_pct,hal_em_ci_upper_pct,hal_judge_ci_lower_pct,hal_judge_ci_upper_pct,squad_f1_mean
+constrained,full,198,88.38,10.1,1.52,100.0,1.52,6.63,15.09,0.52,4.36,0.5476
+constrained,partial,198,4.04,16.67,79.29,100.0,6.57,12.12,22.48,3.88,10.91,0.0365
+constrained,none,198,1.01,5.56,93.43,100.0,5.05,3.13,9.67,2.77,9.05,0.0108
+unconstrained,full,198,85.35,13.13,1.52,100.0,1.01,9.12,18.54,0.28,3.61,0.6106
+unconstrained,partial,198,12.12,28.28,59.6,100.0,19.7,22.47,34.92,14.76,25.79,0.122
+unconstrained,none,198,7.07,11.11,81.82,100.0,15.15,7.45,16.25,10.82,20.81,0.0768

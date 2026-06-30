@@ -1,0 +1,7 @@
+prompt_type,condition,n,cohens_kappa,n_disagreements,agreement_pct
+constrained,full,198,0.0,10,94.95
+constrained,partial,198,0.1278,12,93.94
+constrained,none,198,1.0,0,100.0
+unconstrained,full,198,0.1092,15,92.42
+unconstrained,partial,198,0.0602,75,62.12
+unconstrained,none,198,0.0635,45,77.27

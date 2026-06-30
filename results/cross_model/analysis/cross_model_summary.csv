@@ -1,0 +1,4 @@
+model,uncon_partial_hal_em_pct,con_partial_hal_em_pct,F1_prompt_mitigation
+claude-haiku-4.5,23.74,9.09,replicated
+gpt-4.1-mini,28.28,16.67,replicated
+gemini-2.5-flash,39.9,6.06,replicated
