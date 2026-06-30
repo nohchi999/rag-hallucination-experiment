@@ -1,0 +1,22 @@
+{
+  "task": "external_judge_pass",
+  "date": "2026-06-29T22:07:09.101112",
+  "input": "results/raw_results.json",
+  "output": "results\\raw_results_judged.json",
+  "judge_provider": "dashscope",
+  "judge_model": "qwen3-235b-a22b-instruct-2507",
+  "judge_base_url": "https://dashscope-intl.aliyuncs.com/compatible-mode/v1",
+  "judge_provider_pin": "(unpinned)",
+  "judge_temperature": 0.0,
+  "records_total": 1200,
+  "records_new_this_run": 1200,
+  "usage": {
+    "dashscope:qwen3-235b-a22b-instruct-2507": {
+      "input_tokens": 504876,
+      "output_tokens": 65726,
+      "calls": 1200,
+      "cost_usd": 0.208
+    }
+  },
+  "total_cost_usd": 0.208
+}

@@ -1,0 +1,21 @@
+{
+  "task": "D_generate",
+  "date": "2026-06-29T23:05:36.891375",
+  "generator_provider": "google",
+  "generator_model": "gemini-2.5-flash",
+  "judge_model": "qwen/qwen-2.5-72b-instruct",
+  "judge_provider_pin": "(unpinned)",
+  "google_thinking_budget": 0,
+  "evidence_source": "reused from results/raw_results.json (bitwise-identical to Haiku)",
+  "cells_total": 1200,
+  "cells_new_this_run": 1200,
+  "usage": {
+    "google:gemini-2.5-flash": {
+      "input_tokens": 2617632,
+      "output_tokens": 178767,
+      "calls": 7200,
+      "cost_usd": 1.2322
+    }
+  },
+  "total_cost_usd": 1.2322
+}

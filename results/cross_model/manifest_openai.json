@@ -1,0 +1,21 @@
+{
+  "task": "D_generate",
+  "date": "2026-06-29T23:38:28.222507",
+  "generator_provider": "openai",
+  "generator_model": "gpt-4.1-mini-2025-04-14",
+  "judge_model": "qwen/qwen-2.5-72b-instruct",
+  "judge_provider_pin": "(unpinned)",
+  "google_thinking_budget": null,
+  "evidence_source": "reused from results/raw_results.json (bitwise-identical to Haiku)",
+  "cells_total": 1200,
+  "cells_new_this_run": 1200,
+  "usage": {
+    "openai:gpt-4.1-mini-2025-04-14": {
+      "input_tokens": 2500428,
+      "output_tokens": 143807,
+      "calls": 7200,
+      "cost_usd": 1.2303
+    }
+  },
+  "total_cost_usd": 1.2303
+}
