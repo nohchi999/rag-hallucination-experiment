@@ -60,9 +60,18 @@ evidence operationalization, prompts, NLI scorer, validated pipeline) stays bit-
       (e.g. Gemini uncon/partial agreement 62%, kappa 0.06 — judge lenient vs strict EM).
 - [x] cross_model_summary.{csv,md} (Task G F1 synthesis).
 
-## Task F (human kappa) — [STILL PENDING human labels]
-- [ ] compute human-vs-judge & human-vs-EM Cohen's kappa from labeled validation_sheet.csv.
-- [ ] (to write) compute_human_kappa.py once labels returned.
+## Refinement-2 marker extension — [DONE 2026-06-30, user-approved]  src/abstention_ext.py
+- [x] Human labels revealed auto-detector missed GPT/Gemini "The provided text does not ..." abstentions.
+- [x] Added ONE anchored opener pattern, applied UNIFORMLY to all models (same instrument = "exactly like Haiku").
+- [x] HAIKU-SAFE PROVEN: 0 Haiku rows change; EM table bit-identical to thesis (23.74->9.09). GPT 0 changes.
+      Gemini: 87 rows hallucinated/em -> abstention (real abstentions). Validated: human kappa 0.818->0.872.
+- [x] Effect on F1: Gemini uncon/partial 39.9% -> 17.68% (true rate; it abstains heavily). Mitigation still replicates.
+
+## Task F (human kappa) — [DONE 2026-06-30]  compute_human_kappa.py
+- [x] Human used correctness scheme (abstention/correct/incorrect) not the sheet's supported/not scheme. Handled.
+- [x] kappa human-vs-pipeline-category (3-way) = 0.872 (92.4%)  <- validates classification, hits briefing "0.8X".
+- [x] kappa human-vs-EM = 0.731 (92.4%) ; human-vs-external-judge = 0.576 (90.3%, construct diff correctness vs grounded).
+- [x] Outputs: results/cross_model/analysis/human_kappa.{json,md}.
 
 ## JUDGE MODEL DEVIATION (decided with user 2026-06-29)
 - Locked choice Qwen2.5-72B-Instruct is NOT offered on the user's Alibaba Model Studio

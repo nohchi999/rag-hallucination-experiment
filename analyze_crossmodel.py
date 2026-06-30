@@ -27,8 +27,10 @@ import sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
 from analyze_results_v2 import (
-    enrich, compute_cells, write_table1, write_table2, write_table3, write_table4,
+    compute_cells, write_table1, write_table2, write_table3, write_table4,
 )
+from src.metrics_v2 import reparse_confidence, squad_f1, is_valid_datapoint
+from src.abstention_ext import detect_abstention_ext, classify_response_ext
 
 MODELS = {
     "claude-haiku-4.5": "results/raw_results_judged.json",
@@ -43,6 +45,22 @@ CONDITIONS = ["full", "partial", "none"]
 def _load(path):
     with io.open(path, "r", encoding="utf-8") as f:
         return json.load(f)
+
+
+def enrich_ext(results):
+    """Set the v2 fields compute_all_metrics_v2 needs, using the EXTENDED abstention
+    detector applied uniformly to every model (Haiku-safe; same instrument for all)."""
+    for r in results:
+        raw_text = (r.get("full_api_response") or {}).get("raw_text", "")
+        r["verbalized_confidence_v2"] = reparse_confidence(raw_text)
+        r["is_abstention_v2"] = detect_abstention_ext(r.get("answer", ""))
+        category = classify_response_ext(r)
+        r["response_category_v2"] = category
+        r["is_hallucinated_em_v2"] = 1 if category == "hallucinated" else 0
+        r["squad_f1_v2"] = squad_f1(r.get("answer", ""), r.get("ground_truth", ""))
+        valid, _ = is_valid_datapoint(r)
+        r["is_valid_v2"] = valid
+    return results
 
 
 def remap_external_judge(results):
@@ -60,7 +78,7 @@ def remap_external_judge(results):
 def analyze_model(name, path):
     results = _load(path)
     remapped = remap_external_judge(results)
-    enriched, _diag = enrich(results)
+    enriched = enrich_ext(results)
     cells = compute_cells(enriched, filter_invalid=True)
     out_dir = os.path.join(OUT_ROOT, name)
     os.makedirs(out_dir, exist_ok=True)
@@ -123,7 +141,14 @@ def main():
                   f"{r['con_partial_hal_em_pct']}% | **{r['F1_prompt_mitigation']}** |")
     md.append("\n*EM-based; the validated pipeline (disjoint classify_response) and the SAME "
               "external judge (qwen3-235b-a22b-instruct-2507) were used for all models. "
-              "AUROC/ECE/judge-rate tables per model in ./<model>/. Human-vs-judge kappa pending labels.*\n")
+              "AUROC/ECE/judge-rate tables per model in ./<model>/.*\n")
+    md.append("\n## Refinement-2 — uniform abstention-marker extension (src/abstention_ext.py)\n")
+    md.append("Applied to ALL models (same instrument). One anchored opener catches GPT/Gemini "
+              "abstentions phrased 'The provided text does not ...' that the original 'context' "
+              "markers missed. **Haiku-safe: 0 Haiku rows change** (F1 23.74->9.09 bit-identical). "
+              "Effect: Gemini only (87 rows hallucinated/em -> abstention; GPT 0). This is the same "
+              "kind of fix already applied to Haiku in the v2 pipeline. Validated by 144 human labels: "
+              "human-vs-pipeline kappa 0.818 -> 0.872 (see human_kappa.md).\n")
     with io.open(os.path.join(OUT_ROOT, "cross_model_summary.md"), "w", encoding="utf-8") as f:
         f.write("\n".join(md))
 

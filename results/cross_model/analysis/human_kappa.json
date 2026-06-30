@@ -1,0 +1,12 @@
+{
+  "n_labeled": 144,
+  "n_matched": 144,
+  "n_unmapped_label": 0,
+  "kappa_human_vs_pipeline_category_3way": 0.872,
+  "agreement_human_vs_pipeline_category_pct": 92.4,
+  "kappa_human_vs_external_judge_hal": 0.576,
+  "agreement_human_vs_judge_pct": 90.3,
+  "kappa_human_vs_em_hal": 0.731,
+  "agreement_human_vs_em_pct": 92.4,
+  "note": "Pipeline labels use the extended abstention detector (Haiku-safe). Human scheme auto-detected: correctness (abstention/correct/incorrect)."
+}
